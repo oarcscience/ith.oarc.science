@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -47,11 +47,11 @@ labors on that day, and call it the Sabbath, which word denotes *rest*
 in the Hebrew tongue.
 
 2\. Moreover, Moses, after the seventh day was over <span
-id="EndNote ANT 1.1a"></span>[(1)](#EndNote%20ANT%201.1b) begins to talk
+id="EndNote ANT 1.1a"></span>[(1)](#EndNote%20ANT%201.1b.md) begins to talk
 philosophically; and concerning the formation of man, says thus: That
 God took dust from the ground, and formed man, and inserted in him a
 spirit and a soul.<span
-id="EndNote ANT 1.2a"></span>[(2)](#EndNote%20ANT%201.2b) This man was
+id="EndNote ANT 1.2a"></span>[(2)](#EndNote%20ANT%201.2b.md) This man was
 called Adam, which in the Hebrew tongue signifies *one that is red,*
 because he was formed out of red earth, compounded together; for of that
 kind is virgin and true earth. God also presented the living creatures,
@@ -71,12 +71,12 @@ life, and another of knowledge, whereby was to be known what was good
 and evil; and that when he brought Adam and his wife into this garden,
 he commanded ;hem to take care of the plants. Now the garden was watered
 by one river, <span
-id="EndNote ANT 1.3a"></span>[(3)](#EndNote%20ANT%201.3b) which ran
+id="EndNote ANT 1.3a"></span>[(3)](#EndNote%20ANT%201.3b.md) which ran
 round about the whole earth, and was parted into four parts. And Phison,
 which denotes a multitude, running into India, makes its exit into the
 sea, and is by the Greeks called Ganges. Euphrates also, as well as
 Tigris, goes down into the Red Sea. <span
-id="EndNote ANT 1.4a"></span>[(4)](#EndNote%20ANT%201.4b) Now the name
+id="EndNote ANT 1.4a"></span>[(4)](#EndNote%20ANT%201.4b.md) Now the name
 Euphrates, or Phrath, denotes either a dispersion, or a flower: by
 Tiris, or Diglath, is signified what is swift, with narrowness; and Geon
 runs through Egypt, and denotes what arises from the east, which the
@@ -86,7 +86,7 @@ Greeks call Nile.
 rest of the plants, but to abstain from the tree of knowledge; and
 foretold to them, that if they touched it, it would prove their
 destruction. But while all the living creatures had one language, <span
-id="EndNote ANT 1.5a"></span>[(5)](#EndNote%20ANT%201.5b) at that time
+id="EndNote ANT 1.5a"></span>[(5)](#EndNote%20ANT%201.5b.md) at that time
 the serpent, which then lived together with Adam and his wife, shewed an
 envious disposition, at his supposal of their living happily, and in
 obedience to the commands of God; and imagining, that when they
@@ -157,7 +157,7 @@ They had resolved to sacrifice to God. Now Cain brought the fruits of
 the earth, and of his husbandry; but Abel brought milk, and the
 first-fruits of his flocks: but God was more delighted with the latter
 oblation, <span
-id="EndNote ANT 1.6a"></span>[(6)](#EndNote%20ANT%201.6b) when he was
+id="EndNote ANT 1.6a"></span>[(6)](#EndNote%20ANT%201.6b.md) when he was
 honored with what grew naturally of its own accord, than he was with
 what was the invention of a covetous man, and gotten by forcing the
 ground; whence it was that Cain was very angry that Abel was preferred
@@ -205,7 +205,7 @@ son was Lamech; who had seventy-seven children by two wives, Silla and
 Ada. Of those children by Ada, one was Jabal: he erected tents, and
 loved the life of a shepherd. But Jubal, who was born of the same mother
 with him, exercised himself in music; <span
-id="EndNote ANT 1.7a"></span>[(7)](#EndNote%20ANT%201.7b) and invented
+id="EndNote ANT 1.7a"></span>[(7)](#EndNote%20ANT%201.7b.md) and invented
 the psaltery and the harp. But Tubal, one of his children by the other
 wife, exceeded all men in strength, and was very expert and famous in
 martial performances. He procured what tended to the pleasures of the
@@ -226,14 +226,14 @@ away, on account of his murder, was solicitous for posterity, and had a
 vehement desire of children, he being two hundred and thirty years old;
 after which time he lived other seven hundred, and then died. He had
 indeed many other children, <span
-id="EndNote ANT 1.8a"></span>[(8)](#EndNote%20ANT%201.8b) but Seth in
+id="EndNote ANT 1.8a"></span>[(8)](#EndNote%20ANT%201.8b.md) but Seth in
 particular. As for the rest, it would be tedious to name them; I will
 therefore only endeavor to give an account of those that proceeded from
 Seth. Now this Seth, when he was brought up, and came to those years in
 which he could discern what was good, became a virtuous man; and as he
 was himself of an excellent character, so did he leave children behind
 him who imitated his virtues. <span
-id="EndNote ANT 1.9a"></span>[(9)](#EndNote%20ANT%201.8b) All these
+id="EndNote ANT 1.9a"></span>[(9)](#EndNote%20ANT%201.8b.md) All these
 proved to be of good dispositions. They also inhabited the same country
 without dissensions, and in a happy condition, without any misfortunes
 falling upon them, till they died. They also were the inventors of that
@@ -242,7 +242,7 @@ their order. And that their inventions might not be lost before they
 were sufficiently known, upon Adam's prediction that the world was to be
 destroyed at one time by the force of fire, and at another time by the
 violence and quantity of water, they made two pillars, <span
-id="EndNote ANT 1.10a"></span>[(10)](#EndNote%20ANT%201.10b) the one of
+id="EndNote ANT 1.10a"></span>[(10)](#EndNote%20ANT%201.10b.md) the one of
 brick, the other of stone: they inscribed their discoveries on them
 both, that in case the pillar of brick should be destroyed by the flood,
 the pillar of stone might remain, and exhibit those discoveries to
@@ -262,7 +262,7 @@ which were appointed them, nor had they any concern to do justice
 towards men. But for what degree of zeal they had formerly shown for
 virtue, they now showed by their actions a double degree of wickedness,
 whereby they made God to be their enemy. For many angels <span
-id="EndNote ANT 1.11a"></span>[(11)](#EndNote%20ANT%201.11b) of God
+id="EndNote ANT 1.11a"></span>[(11)](#EndNote%20ANT%201.11b.md) of God
 accompanied with women, and begat sons that proved unjust, and despisers
 of all that was good, on account of the confidence they had in their own
 strength; for the tradition is, that these men did what resembled the
@@ -278,12 +278,12 @@ condemned those other men for their wickedness, but determined to
 destroy the whole race of mankind, and to make another race that should
 be pure from wickedness; and cutting short their lives, and making their
 years not so many as they formerly lived, but one hundred and twenty
-only, <span id="EndNote ANT 1.12a"></span>[(12)](#EndNote%20ANT%201.12b)
+only, <span id="EndNote ANT 1.12a"></span>[(12)](#EndNote%20ANT%201.12b.md)
 he turned the dry land into sea; and thus were all these men destroyed:
 but Noah alone was saved; for God suggested to him the following
 contrivance and way of escape : - That he should make an ark of four
 stories high, three hundred cubits <span
-id="EndNote ANT 1.13a"></span>[(13)](#EndNote%20ANT%201.13b) long, fifty
+id="EndNote ANT 1.13a"></span>[(13)](#EndNote%20ANT%201.13b.md) long, fifty
 cubits broad, and thirty cubits high. Accordingly he entered into that
 ark, and his wife, and sons, and their wives, and put into it not only
 other provisions, to support their wants there, but also sent in with
@@ -299,7 +299,7 @@ Now Enos was the son of Seth, the son of Adam.
 
 3\. This calamity happened in the six hundredth year of Noah's
 government, \[age,\] in the second month, <span
-id="EndNote ANT 1.14a"></span>[(14)](#EndNote%20ANT%201.14b) called by
+id="EndNote ANT 1.14a"></span>[(14)](#EndNote%20ANT%201.14b.md) called by
 the Macedonians *Dius,* but by the Hebrews *Marchesuan:* for so did they
 order their year in Egypt. But Moses appointed that *· Nisan,* which is
 the same with Xanthicus, should be the first month for their festivals,
@@ -312,7 +312,7 @@ forementioned month; and this was two thousand six hundred and fifty-six
 \[one thousand six hundred and fifty-six\] years from Adam, the first
 man; and the time is written down in our sacred books, those who then
 lived having noted down, <span
-id="EndNote ANT 1.15a"></span>[(15)](#EndNote%20ANT%201.15b) with great
+id="EndNote ANT 1.15a"></span>[(15)](#EndNote%20ANT%201.15b.md) with great
 accuracy, both the births and deaths of illustrious men.
 
 4\. For indeed Seth was born when Adam was in his two hundred and
@@ -362,7 +362,7 @@ flood. So after he had staid seven more days, he sent the living
 creatures out of the ark; and both he and his family went out, when he
 also sacrificed to God, and feasted with his companions. However, the
 Armenians call this place, (GREEK) <span
-id="EndNote ANT 1.16a"></span>[(16)](#EndNote%20ANT%201.16b) *The Place
+id="EndNote ANT 1.16a"></span>[(16)](#EndNote%20ANT%201.16b.md) *The Place
 of Descent;* for the ark being saved in that place, its remains are
 shown there by the inhabitants to this day.
 
@@ -618,7 +618,7 @@ Ludieim, and Enemim, and Labim, who alone inhabited in Libya, and called
 the country from himself, Nedim, and Phethrosim, and Chesloim, and
 Cephthorim, we know nothing of them besides their names; for the
 Ethiopic war <span
-id="EndNote ANT 1.17a"></span>[(17)](#EndNote%20ANT%201.17b) which we
+id="EndNote ANT 1.17a"></span>[(17)](#EndNote%20ANT%201.17b.md) which we
 shall describe hereafter, was the cause that those cities were
 overthrown. The sons of Canaan were these: Sidonius, who also built a
 city of the same name; it is called by the Greeks Sidon
@@ -657,7 +657,7 @@ lies between Palestine and Celesyria. Ul founded Armenia; and Gather the
 Bactrians; and Mesa the Mesaneans; it is now called Charax Spasini. Sala
 was the son of Arphaxad; and his son was Heber, from whom they
 originally called the Jews Hebrews. <span
-id="EndNote ANT 1.18a"></span>[(18)](#EndNote%20ANT%201.18b) Heber begat
+id="EndNote ANT 1.18a"></span>[(18)](#EndNote%20ANT%201.18b.md) Heber begat
 Joetan and Phaleg: he was called Phaleg, because he was born at the
 dispersion of the nations to their several countries; for Phaleg among
 the Hebrews signifies *division.* Now Joctan, one of the sons of Heber,
@@ -879,13 +879,13 @@ like the stars. When he heard that, he offered a sacrifice to God, as he
 commanded him. The manner of the sacrifice was this : - He took an
 heifer of three years old, and a she-goat of three years old, and a ram
 in like manner of three years old, and a turtle-dove, and a pigeon <span
-id="EndNote ANT 1.19a"></span>[(19)](#EndNote%20ANT%201.19b) and as he
+id="EndNote ANT 1.19a"></span>[(19)](#EndNote%20ANT%201.19b.md) and as he
 was enjoined, he divided the three former, but the birds he did not
 divide. After which, before he built his altar, where the birds of prey
 flew about, as desirous of blood, a Divine voice came to him, declaring
 that their neighbors would be grievous to his posterity, when they
 should be in Egypt, for four hundred years; <span
-id="EndNote ANT 1.20a"></span>[(20)](#EndNote%20ANT%201.20b) during
+id="EndNote ANT 1.20a"></span>[(20)](#EndNote%20ANT%201.20b.md) during
 which time they should be afflicted, but afterwards should overcome
 their enemies, should conquer the Canaanites in war, and possess
 themselves of their land, and of their cities.
@@ -984,16 +984,16 @@ universal destruction. But Lot, upon God's informing him of the future
 destruction of the Sodomites, went away, taking with him his wife and
 daughters, who were two, and still virgins; for those that were
 betrothed <span
-id="EndNote ANT 1.21a"></span>[(21)](#EndNote%20ANT%201.21b) to them
+id="EndNote ANT 1.21a"></span>[(21)](#EndNote%20ANT%201.21b.md) to them
 were above the thoughts of going, and deemed that Lot's words were
 trifling. God then cast a thunderbolt upon the city, and set it on fire,
 with its inhabitants; and laid waste the country with the like burning,
 as I formerly said when I wrote the Jewish War. <span
-id="EndNote ANT 1.22a"></span>[(22)](#EndNote%20ANT%201.22b) But Lot's
+id="EndNote ANT 1.22a"></span>[(22)](#EndNote%20ANT%201.22b.md) But Lot's
 wife continually turning back to view the city as she went from it, and
 being too nicely inquisitive what would become of it, although God had
 forbidden her so to do, was changed into a pillar of salt; <span
-id="EndNote ANT 1.23a"></span>[(23)](#EndNote%20ANT%201.23b) for I have
+id="EndNote ANT 1.23a"></span>[(23)](#EndNote%20ANT%201.23b.md) for I have
 seen it, and it remains at this day. Now he and his daughters fled to a
 certain small place, encompassed with the fire, and settled in it: it is
 to this day called *Zoar,* for that is the word which the Hebrews use
@@ -1002,7 +1002,7 @@ account of his having no company, and his want of provisions.
 
 5\. But his daughters, thinking that all mankind were destroyed,
 approached to their father, <span
-id="EndNote ANT 1.24a"></span>[(24)](#EndNote%20ANT%201.24b) though
+id="EndNote ANT 1.24a"></span>[(24)](#EndNote%20ANT%201.24b.md) though
 taking care not to be perceived. This they did, that human kind might
 not utterly fail: and they bare sons; the son of the elder was named
 Moab, Which denotes one derived from his father; the younger bare Ammon,
@@ -1056,7 +1056,7 @@ the people of the country unto this day.
 2\. Now in a little time Abraham had a son by Sarah, as God had foretold
 to him, whom he named Isaac, which signifies *Laughter.* And indeed they
 so called him, because Sarah laughed when God <span
-id="EndNote ANT 1.25a"></span>[(25)](#EndNote%20ANT%201.25b) said that
+id="EndNote ANT 1.25a"></span>[(25)](#EndNote%20ANT%201.25b.md) said that
 she should bear a son, she not expecting such a thing, as being past the
 age of child-bearing, for she was ninety years old, and Abraham a
 hundred; so that this son was born to them both in the last year of each
@@ -1077,7 +1077,7 @@ injuries when their father should be dead; she therefore persuaded
 Abraham to send him and his mother to some distant country. Now, at the
 first, he did not agree to what Sarah was so zealous for, and thought it
 an instance of the greatest barbarity, to send away a young child <span
-id="EndNote ANT 1.26a"></span>[(26)](#EndNote%20ANT%201.26b) and a woman
+id="EndNote ANT 1.26a"></span>[(26)](#EndNote%20ANT%201.26b.md) and a woman
 unprovided of necessaries; but at length he agreed to it, because God
 was pleased with what Sarah had determined: so he delivered Ismael to
 his mother, as not yet able to go by himself; and commanded her to take
@@ -1106,7 +1106,7 @@ CHAPTER 13.
 **CONCERNING ISAAC THE LEGITIMATE SON OF ABRAHAM.**
 
 1\. Now Abraham greatly loved Isaac, as being his only begotten <span
-id="EndNote ANT 1.27a"></span>[(27)](#EndNote%20ANT%201.27b) and given
+id="EndNote ANT 1.27a"></span>[(27)](#EndNote%20ANT%201.27b.md) and given
 to him at the borders of old age, by the favor of God. The child also
 endeared himself to his parents still more, by the exercise of every
 virtue, and adhering to his duty to his parents, and being zealous in
@@ -1138,7 +1138,7 @@ he saw the mountain, he left those servants that were with him till then
 in the plain, and, having his son alone with him, he came to the
 mountain. It was that mountain upon which king David afterwards built
 the temple. <span
-id="EndNote ANT 1.28a"></span>[(28)](#EndNote%20ANT%201.28b) Now they
+id="EndNote ANT 1.28a"></span>[(28)](#EndNote%20ANT%201.28b.md) Now they
 had brought with them every thing necessary for a sacrifice, excepting
 the animal that was to be offered only. Now Isaac was twenty-five years
 old. And as he was building the altar, he asked his father what he was
@@ -1192,7 +1192,7 @@ children upon him; and that his son should live to a very great age;
 that he should live a happy life, and bequeath a large principality to
 his children, who should be good and legitimate." He foretold also, that
 his family should increase into many nations <span
-id="EndNote ANT 1.29a"></span>[(29)](#EndNote%20ANT%201.29b) and that
+id="EndNote ANT 1.29a"></span>[(29)](#EndNote%20ANT%201.29b.md) and that
 those patriarchs should leave behind them an everlasting name; that they
 should obtain the possession of the land of Canaan, and be envied by all
 men. When God had said this, he produced to them a ram, which did not
@@ -1345,7 +1345,7 @@ CHAPTER 18.
 EDUCATION.**
 
 1\. NOW Isaac's wife proved with child, after the death of Abraham;
-<span id="EndNote ANT 1.30a"></span>[(30)](#EndNote%20ANT%201.30b) and
+<span id="EndNote ANT 1.30a"></span>[(30)](#EndNote%20ANT%201.30b.md) and
 when her belly was greatly burdened, Isaac was very anxious, and
 inquired of God; who answered, that Rebeka should bear twins; and that
 two nations should take the names of those sons; and that he who
@@ -1355,7 +1355,7 @@ to his feet, was very rough and hairy; but the younger took hold of his
 heel as they were in the birth. Now the father loved the elder, who was
 called Esau, a name agreeable to his roughness, for the Hebrews call
 such a hairy roughness \[Esau, <span
-id="EndNote ANT 1.31a"></span>[(31)](#EndNote%20ANT%201.31b) or\] Seir;
+id="EndNote ANT 1.31a"></span>[(31)](#EndNote%20ANT%201.31b.md) or\] Seir;
 but Jacob the younger was best beloved by his mother.
 
 2\. When there was a famine in the land, Isaac resolved to go into
@@ -1405,14 +1405,14 @@ him, and told him, that besides his blindness, and the disorder of his
 eyes, his very old age hindered him from his worship of God \[by
 sacrifice\]; he bid him therefore to go out a hunting, and when he had
 caught as much venison as he could, to prepare him a supper <span
-id="EndNote ANT 1.32a"></span>[(32)](#EndNote%20ANT%201.32b) that after
+id="EndNote ANT 1.32a"></span>[(32)](#EndNote%20ANT%201.32b.md) that after
 this he might make supplication to God, to be to him a supporter and an
 assister during the whole time of his life; saying, that it was
 uncertain when he should die, and that he was desirous, by prayers for
 him, to procure, beforehand, God to be merciful to him.
 
 6\. Accordingly, Esau went out a hunting. But Rebeka <span
-id="EndNote ANT 1.33a"></span>[(33)](#EndNote%20ANT%201.33b) thinking it
+id="EndNote ANT 1.33a"></span>[(33)](#EndNote%20ANT%201.33b.md) thinking it
 proper to have the supplication made for obtaining the favor of God to
 Jacob, and that without the consent of Isaac, bid him kill kids of the
 goats, and prepare a supper. So Jacob obeyed his mother, according to
@@ -1557,7 +1557,7 @@ occasion of his journey, and told him, "that Isaac had two sons that
 were twins, himself and Esau; who, because he failed of his father's
 prayers, which by his mother's wisdom were put up for him, sought to
 kill him, as deprived of the kingdom <span
-id="EndNote ANT 1.34a"></span>[(34)](#EndNote%20ANT%201.34b) which was
+id="EndNote ANT 1.34a"></span>[(34)](#EndNote%20ANT%201.34b.md) which was
 to be given him of God, and of the blessings for which their father
 prayed; and that this was the occasion of his coming hither, as his
 mother had commanded him to do: for we are all (says he) brethren one to
@@ -1605,7 +1605,7 @@ wife.
 
 8\. Now each of these had handmaids, by their father's donation. Zilpha
 was handmaid to Lea, and Bilha to Rachel; by no means slaves, <span
-id="EndNote ANT 1.35a"></span>[(35)](#EndNote%20ANT%201.35b) but however
+id="EndNote ANT 1.35a"></span>[(35)](#EndNote%20ANT%201.35b.md) but however
 subject to their mistresses. Now Lea was sorely troubled at her
 husband's love to her sister; and she expected she should be better
 esteemed if she bare him children: so she entreated God perpetually; and
@@ -1628,7 +1628,7 @@ own handmaid. Jacob therefore had by Zilpha a son, whose name was Gad,
 which may be interpreted *fortune;* and after him Asher, which may be
 called *a happy man,* because he added glory to Lea. Now Reubel, the
 eldest son of Lea, brought apples of mandrakes <span
-id="EndNote ANT 1.36a"></span>[(36)](#EndNote%20ANT%201.36b) to his
+id="EndNote ANT 1.36a"></span>[(36)](#EndNote%20ANT%201.36b.md) to his
 mother. When Rachel saw them, she desired that she would give her the
 apples, for she longed to eat them; but when she refused, and bid her be
 content that she had deprived her of the benevolence she ought to have
@@ -1777,7 +1777,7 @@ to him, and that his offspring should never fall, and that no man should
 be too hard for his power. He also commanded him to be called Israel,
 which in the Hebrew tongue signifies *one that struggled with the divine
 angel. <span
-id="EndNote ANT 1.37a"></span>*[(37)](#EndNote%20ANT%201.37b) These
+id="EndNote ANT 1.37a"></span>*[(37)](#EndNote%20ANT%201.37b.md) These
 promises were made at the prayer of Jacob; for when he perceived him to
 be the angel of God, he desired he would signify to him what should
 befall him hereafter. And when the angel had said what is before
@@ -1823,7 +1823,7 @@ the brethren of the damsel by the same mother, agreed between themselves
 upon the action following: It being now the time of a festival, when the
 Shechemites were employed in ease and feasting, they fell upon the watch
 when they were asleep, and, coming into the city, slew all the males
-<span id="EndNote ANT 1.38a"></span>[(38)](#EndNote%20ANT%201.38b) as
+<span id="EndNote ANT 1.38a"></span>[(38)](#EndNote%20ANT%201.38b.md) as
 also the king, and his son, with them; but spared the women. And when
 they had done this without their father's consent, they brought away
 their sister.
@@ -1843,7 +1843,7 @@ there buried Rachel, who died in child-bed: she was the only one of
 Jacob's kindred that had not the honor of burial at Hebron. And when he
 had mourned for her a great while, he called the son that was born of
 her Benjamin, <span
-id="EndNote ANT 1.39a"></span>[(39)](#EndNote%20ANT%201.39b) because of
+id="EndNote ANT 1.39a"></span>[(39)](#EndNote%20ANT%201.39b.md) because of
 the sorrow the mother had with him. These are all the children of Jacob,
 twelve males and one female. - Of them eight were legitimate, - viz. six
 of Lea, and two of Rachel; and four were of the handmaids, two of each;
@@ -1867,7 +1867,7 @@ one hundred and eighty-five years, he then died.
 
 ENDNOTES
 
-<span id="EndNote ANT 1.1b"></span>[(1)](#EndNote%20ANT%201.1a) Since
+<span id="EndNote ANT 1.1b"></span>[(1)](#EndNote%20ANT%201.1a.md) Since
 Josephus, in his Preface, sect. 4, says that Moses wrote some things
 enigmatically, some allegorically, and the rest in plain words, since in
 his account of the first chapter of Genesis, and the first three verses
@@ -1880,14 +1880,14 @@ name of God just at this place, from Elohim to Jehovah Elohim, from God
 to Lord God, in the Hebrew, Samaritan, and Septuagint, does also not a
 little favor some such change in the narration or construction.
 
-<span id="EndNote ANT 1.2b"></span>[(2)](#EndNote%20ANT%201.2a) We may
+<span id="EndNote ANT 1.2b"></span>[(2)](#EndNote%20ANT%201.2a.md) We may
 observe here, that Josephus supposed man to be compounded of spirit,
 soul, and body, with St. Paul, 1 Thessalonians 5:23, and the rest of the
 ancients: he elsewhere says also, that the blood of animals was
 forbidden to be eaten, as having in it soul and spirit, Antiq. B. III.
 ch. 11. sect. 2.
 
-<span id="EndNote ANT 1.3b"></span>[(3)](#EndNote%20ANT%201.3a) Whence
+<span id="EndNote ANT 1.3b"></span>[(3)](#EndNote%20ANT%201.3a.md) Whence
 this strange notion came, which yet is not peculiar to Joseph,, but, as
 Dr. Hudson says here, is derived from older authors, as if four of the
 greatest rivers in the world, running two of them at vast distances from
@@ -1902,13 +1902,13 @@ which arises from the east, while he very well knew the literal Nile
 arises from the south; though what further allegorical sense he had in
 view, is now, I fear, impossible to be determined.
 
-<span id="EndNote ANT 1.4b"></span>[(4)](#EndNote%20ANT%201.4a) By the
+<span id="EndNote ANT 1.4b"></span>[(4)](#EndNote%20ANT%201.4a.md) By the
 Red Sea is not here meant the Arabian Gulf, which alone we now call by
 that name, but all that South Sea, which included the Red Sea, and the
 Persian Gulf, as far as the East Indies; as Reland and Hudson here truly
 note, from the old geographers.
 
-<span id="EndNote ANT 1.5b"></span>[(5)](#EndNote%20ANT%201.5a) Hence it
+<span id="EndNote ANT 1.5b"></span>[(5)](#EndNote%20ANT%201.5a.md) Hence it
 appears, that Josephus thought several, at least, of the brute animals,
 particularly the serpent, could speak before the fall. And I think few
 of the more perfect kinds of those animals want the organs of speech at
@@ -1926,7 +1926,7 @@ other subordinate creatures, are hereafter to be delivered from the
 curse then brought upon them, and at last to be delivered from that
 bondage of corruption, Romans 8:19-22.
 
-<span id="EndNote ANT 1.6b"></span>[(6)](#EndNote%20ANT%201.6a) St.
+<span id="EndNote ANT 1.6b"></span>[(6)](#EndNote%20ANT%201.6a.md) St.
 John's account of the reason why God accepted the sacrifice of Abel, and
 rejected that of Cain; as also why Cain slew Abel, on account of that
 his acceptance with God, is much better than this of Josephus: I mean,
@@ -1935,23 +1935,23 @@ slew he him? Because his own works were evil, and his brother's
 righteous," 1 John 3:12. Josephus's reason seems to be no better than a
 pharisaical notion or tradition.
 
-<span id="EndNote ANT 1.7b"></span>[(7)](#EndNote%20ANT%201.7a) From
+<span id="EndNote ANT 1.7b"></span>[(7)](#EndNote%20ANT%201.7a.md) From
 this Jubal, not improbably, came Jobel, the trumpet of jobel or jubilee;
 that large and loud musical instrument, used in proclaiming the liberty
 at the year of jubilee.
 
-<span id="EndNote ANT 1.8b"></span>[(8)](#EndNote%20ANT%201.8a) The
+<span id="EndNote ANT 1.8b"></span>[(8)](#EndNote%20ANT%201.8a.md) The
 number of Adam's children, as says the old tradition was thirty-three
 sons, and twenty-three daughters.
 
-<span id="EndNote ANT 1.9b"></span>[(9)](#EndNote%20ANT%201.9a) What is
+<span id="EndNote ANT 1.9b"></span>[(9)](#EndNote%20ANT%201.9a.md) What is
 here said of Seth and his posterity, that they were very good and
 virtuous, and at the same time very happy, without any considerable
 misfortunes, for seven generations, \[see ch. 2. sect. 1, before; and
 ch. 3. sect. 1, hereafter,\] is exactly agreeable to the state of the
 world and the conduct of Providence in all the first ages.
 
-<span id="EndNote ANT 1.10b"></span>[(10)](#EndNote%20ANT%201.10a) Of
+<span id="EndNote ANT 1.10b"></span>[(10)](#EndNote%20ANT%201.10a.md) Of
 Josephus's mistake here, when he took Seth the son of Adam, for Seth or
 Sesostris, king of Egypt, the erector of this pillar in the land of
 Siriad, see Essay on the Old Testament, Appendix, p. 159, 160. Although
@@ -1965,11 +1965,11 @@ like pillars of the Egyptian Seth or Sesostris were extant after the
 flood, in the land of Siriad, and perhaps in the days of Josephus also,
 as is shown in the place here referred to.
 
-<span id="EndNote ANT 1.11b"></span>[(11)](#EndNote%20ANT%201.11a) This
+<span id="EndNote ANT 1.11b"></span>[(11)](#EndNote%20ANT%201.11a.md) This
 notion, that the fallen angels were, in some sense, the fathers of the
 old giants, was the constant opinion of antiquity.
 
-<span id="EndNote ANT 1.12b"></span>[(12)](#EndNote%20ANT%201.12a)
+<span id="EndNote ANT 1.12b"></span>[(12)](#EndNote%20ANT%201.12a.md)
 Josephus here supposes that the life of these giants, for of them only
 do I understand him, was now reduced to 120 years; which is confirmed by
 the fragment of Enoch, sect. 10, in Authent. Rec. Part I. p. 268. For as
@@ -1984,17 +1984,17 @@ preparing\] till the deluge; which I take to be the meaning of God when
 he threatened this wicked world, that if they so long continued
 impenitent, their days should be no more than 120 years.
 
-<span id="EndNote ANT 1.13b"></span>[(13)](#EndNote%20ANT%201.13a) A
+<span id="EndNote ANT 1.13b"></span>[(13)](#EndNote%20ANT%201.13a.md) A
 cubit is about 21 English inches.
 
-<span id="EndNote ANT 1.14b"></span>[(14)](#EndNote%20ANT%201.14a)
+<span id="EndNote ANT 1.14b"></span>[(14)](#EndNote%20ANT%201.14a.md)
 Josephus here truly determines, that the year that the Flood began, our
 Hebrew and Samaritan, and perhaps Josephus's own copy, more rightly
 placed it on the 17th day, instead of the 27th, as here; for Josephus
 agrees with them, as to the distance of 150 days to the 17th day of the
 7th month, as Genesis 7. ult. with 8:3.
 
-<span id="EndNote ANT 1.15b"></span>[(15)](#EndNote%20ANT%201.15a)
+<span id="EndNote ANT 1.15b"></span>[(15)](#EndNote%20ANT%201.15a.md)
 Josephus here takes notice, that these ancient genealogies were first
 set down by those that then lived, and from them were transmitted down
 to posterity; which I suppose to be the true account of that matter. For
@@ -2003,7 +2003,7 @@ soon after they were taught to speak; and perhaps all by the Messiah
 himself, who, under the Father, was the Creator or Governor of mankind,
 and who frequently in those early days appeared to them.
 
-<span id="EndNote ANT 1.16b"></span>[(16)](#EndNote%20ANT%201.16a) This
+<span id="EndNote ANT 1.16b"></span>[(16)](#EndNote%20ANT%201.16a.md) This
 (GREEK), or Place of Descent, is the proper rendering of the Armenian
 name of this very city. It is called in Ptolemy Naxuana, and by Moses
 Chorenensis, the Armenian historian, Idsheuan; but at the place itself
@@ -2019,7 +2019,7 @@ people of the country suppose, I cannot certainly tell. Mons. Tournefort
 had, not very long since, a mind to see the place himself, but met with
 too great dangers and difficulties to venture through them.
 
-<span id="EndNote ANT 1.17b"></span>[(17)](#EndNote%20ANT%201.17a) One
+<span id="EndNote ANT 1.17b"></span>[(17)](#EndNote%20ANT%201.17a.md) One
 observation ought not here to be neglected, with regard to that Ethiopic
 war which Moses, as general of the Egyptians, put an end to, Antiq. B.
 II. ch. 10., and about which our late writers seem very much
@@ -2029,7 +2029,7 @@ Mitzraim, with their cities; which Josephus would not have said, if he
 had not had ancient records to justify those his assertions, though
 those records be now all lost.
 
-<span id="EndNote ANT 1.18b"></span>[(18)](#EndNote%20ANT%201.18a) That
+<span id="EndNote ANT 1.18b"></span>[(18)](#EndNote%20ANT%201.18a.md) That
 the Jews were called Hebrews from this their progenitor Heber, our
 author Josephus here rightly affirms; and not from Abram the Hebrew, or
 passenger over Euphrates, as many of the moderns suppose. Shem is also
@@ -2041,26 +2041,26 @@ they told Abram the Hebrew, the Septuagint renders it the passenger,
 passed over Euphrates, and is another signification of the Hebrew word,
 taken as an appellative, and not as a proper name.
 
-<span id="EndNote ANT 1.19b"></span>[(19)](#EndNote%20ANT%201.19a) It is
+<span id="EndNote ANT 1.19b"></span>[(19)](#EndNote%20ANT%201.19a.md) It is
 worth noting here, that God required no other sacrifices under the law
 of Moses, than what were taken from these five kinds of animals which he
 here required of Abram. Nor did the Jews feed upon any other domestic
 animals than the three here named, as Reland observes on Antiq. B. IV.
 ch. 4. sect. 4.
 
-<span id="EndNote ANT 1.20b"></span>[(20)](#EndNote%20ANT%201.20a) As to
+<span id="EndNote ANT 1.20b"></span>[(20)](#EndNote%20ANT%201.20a.md) As to
 this affliction of Abram's posterity for 400 years, see Antiq. B. II.
 ch. 9. sect. 1.
 
-<span id="EndNote ANT 1.21b"></span>[(21)](#EndNote%20ANT%201.21a) These
+<span id="EndNote ANT 1.21b"></span>[(21)](#EndNote%20ANT%201.21a.md) These
 sons-in-law to Lot, as they are called, Genesis 19:12-14, might be so
 styled, because they were betrothed to Lot's daughters, though not yet
 married to them. See the note on Antiq. B. XIV. ch. 13. sect. 1.
 
-<span id="EndNote ANT 1.22b"></span>[(22)](#EndNote%20ANT%201.22a) Of
+<span id="EndNote ANT 1.22b"></span>[(22)](#EndNote%20ANT%201.22a.md) Of
 the War, B. IV. ch. 8. sect. 4.
 
-<span id="EndNote ANT 1.23b"></span>[(23)](#EndNote%20ANT%201.23a) This
+<span id="EndNote ANT 1.23b"></span>[(23)](#EndNote%20ANT%201.23a.md) This
 pillar of salt was, we see here, standing in the days of Josephus, and
 he had seen it. That it was standing then is also attested by Clement of
 Rome, contemporary with Josephus; as also that it was so in the next
@@ -2080,7 +2080,7 @@ of all ancient monuments, and procure us copies of all ancient records,
 at present lost among us, we may hope for full satisfaction in such
 inquiries; but hardly before.
 
-<span id="EndNote ANT 1.24b"></span>[(24)](#EndNote%20ANT%201.24a) I see
+<span id="EndNote ANT 1.24b"></span>[(24)](#EndNote%20ANT%201.24a.md) I see
 no proper wicked intention in these daughters of Lot, when in a case
 which appeared to them of unavoidable necessity, they procured
 themselves to be with child by their father. Without such an unavoidable
@@ -2092,7 +2092,7 @@ him, shows that they despaired of persuading him to an action which, at
 the best, could not but be very suspicious and shocking to so good a
 man.
 
-<span id="EndNote ANT 1.25b"></span>[(25)](#EndNote%20ANT%201.25a) It is
+<span id="EndNote ANT 1.25b"></span>[(25)](#EndNote%20ANT%201.25a.md) It is
 well worth observation, that Josephus here calls that principal Angel,
 who appeared to Abraham and foretold the birth of Isaac, directly God;
 which language of Josephus here, prepares us to believe those other
@@ -2102,7 +2102,7 @@ homily concerning Hades, may be both genuine. Nor is the other
 expression of Divine Angel, used presently, and before, also of any
 other signification.
 
-<span id="EndNote ANT 1.26b"></span>[(26)](#EndNote%20ANT%201.26a)
+<span id="EndNote ANT 1.26b"></span>[(26)](#EndNote%20ANT%201.26a.md)
 Josephus here calls Ismael a young child or infant, though he was about
 13 years of age; as Judas calls himself and his brethren young men, when
 he was 47, and had two children, Antiq. B. II. ch. 6. sect. 8, and they
@@ -2116,13 +2116,13 @@ German expedition at about 18 years of age, of the War, B. VII. ch. 4.
 sect. 2. Samson's wife, and Ruth, when they were widows, are called
 children, Antiq. B. V. ch. 8. sect. 6, and ch. 9. sect. 2 3.
 
-<span id="EndNote ANT 1.27b"></span>[(27)](#EndNote%20ANT%201.27a) Note,
+<span id="EndNote ANT 1.27b"></span>[(27)](#EndNote%20ANT%201.27a.md) Note,
 that both here and Hebrews 11:17, Isaac is called Abraham's only
 begotten son, though he at the same time had another son, Ismael. The
 Septuagint expresses the true meaning, by rendering the text the beloved
 son.
 
-<span id="EndNote ANT 1.28b"></span>[(28)](#EndNote%20ANT%201.28a) Here
+<span id="EndNote ANT 1.28b"></span>[(28)](#EndNote%20ANT%201.28a.md) Here
 is a plain error in the copies which say that king David afterwards
 built the temple on this Mount Moriah, while it was certainly no other
 than king Solomon who built that temple, as indeed Procopius cites it
@@ -2130,7 +2130,7 @@ from Josephus. For it was for certain David, and not Solomon, who built
 the first altar there, as we learn, 2 Samuel 24:18, etc.; 1 Chronicles
 21:22, etc.; and Antiq. B. VII. ch. 13. sect. 4.
 
-<span id="EndNote ANT 1.29b"></span>[(29)](#EndNote%20ANT%201.29a) It
+<span id="EndNote ANT 1.29b"></span>[(29)](#EndNote%20ANT%201.29a.md) It
 seems both here, and in God's parallel blessing to Jacob, ch. 19. sect.
 1, that Josephus had yet no notion of the hidden meaning of that most
 important and most eminent promise, "In thy seed shall all the families
@@ -2153,17 +2153,17 @@ etc. it is always used in the singular. To which I shall add, that it is
 sometimes, as it were, paraphrased by the son of Abraham, the son of
 David, etc., which is capable of no such ambiguity.
 
-<span id="EndNote ANT 1.30b"></span>[(30)](#EndNote%20ANT%201.30a) The
+<span id="EndNote ANT 1.30b"></span>[(30)](#EndNote%20ANT%201.30a.md) The
 birth of Jacob and Esau is here said to be after Abraham's death: it
 should have been after Sarah's death. The order of the narration in
 Genesis, not always exactly according to the order of time, seems to
 have led Josephus into this error, as Dr. Bernard observes here.
 
-<span id="EndNote ANT 1.31b"></span>[(31)](#EndNote%20ANT%201.31a) For
+<span id="EndNote ANT 1.31b"></span>[(31)](#EndNote%20ANT%201.31a.md) For
 Seir in Josephus, the coherence requires that we read Esau or Seir,
 which signify the same thing.
 
-<span id="EndNote ANT 1.32b"></span>[(32)](#EndNote%20ANT%201.32a) The
+<span id="EndNote ANT 1.32b"></span>[(32)](#EndNote%20ANT%201.32a.md) The
 supper of savory meat, as we call it, Genesis 27:4, to be caught by
 hunting, was intended plainly for a festival or a sacrifice; and upon
 the prayers that were frequent at sacrifices, Isaac expected, as was
@@ -2178,7 +2178,7 @@ himself, but from God, and that an alteration was out of his power. A
 second afflatus then came upon him, and enabled him to foretell Esau's
 future behavior and foretell Esau’s future behavior and fortune also.
 
-<span id="EndNote ANT 1.33b"></span>[(33)](#EndNote%20ANT%201.33a)
+<span id="EndNote ANT 1.33b"></span>[(33)](#EndNote%20ANT%201.33a.md)
 Whether Jacob or his mother Rebeka were most blameable in this
 imposition upon Isaac in his old age, I cannot determine. However the
 blessing being delivered as a prediction of future events, by a Divine
@@ -2201,7 +2201,7 @@ was it probably any thing else that so much encouraged Esau formerly to
 marry two Canaanitish wives, without his parents' consent, as Isaac's
 unhappy fondness for him.
 
-<span id="EndNote ANT 1.34b"></span>[(34)](#EndNote%20ANT%201.34a) By
+<span id="EndNote ANT 1.34b"></span>[(34)](#EndNote%20ANT%201.34a.md) By
 this "deprivation of the kingdom that was to be given Esau of God," as
 the first-born, it appears that Josephus thought that a "kingdom to be
 derived from God" was due to him whom Isaac should bless as his
@@ -2210,7 +2210,7 @@ Messiah, who therefore was to be born of his posterity whom Isaac should
 so bless. Jacob therefore by obtaining this blessing of the first-born,
 became the genuine heir of that kingdom, in opposition to Esau.
 
-<span id="EndNote ANT 1.35b"></span>[(35)](#EndNote%20ANT%201.35a) Here
+<span id="EndNote ANT 1.35b"></span>[(35)](#EndNote%20ANT%201.35a.md) Here
 we have the difference between slaves for life and servants, such as we
 now hire for a time agreed upon on both sides, and dismiss again after
 he time contracted for is over, which are no slaves, but free men and
@@ -2225,7 +2225,7 @@ of their lives, with their several prophecies at their deaths, see the
 Testaments of these twelve patriarchs, still preserved at large in the
 Authent. Rec. Part I. p. 294-443.
 
-<span id="EndNote ANT 1.36b"></span>[(36)](#EndNote%20ANT%201.36a) I
+<span id="EndNote ANT 1.36b"></span>[(36)](#EndNote%20ANT%201.36a.md) I
 formerly explained these mandrakes, as we, with the Septuagint, and
 Josephus, render the Hebrew word Dudaim, of the Syrian Maux, with
 Ludolphus, Antbent. Rec. Part I. p. 420; but have since seen such a very
@@ -2234,21 +2234,21 @@ what we still call mandrakes, and their description by the ancient
 naturalists and physicians, as inclines me to think these here mentioned
 were really mandrakes, and no other.
 
-<span id="EndNote ANT 1.37b"></span>[(37)](#EndNote%20ANT%201.37a)
+<span id="EndNote ANT 1.37b"></span>[(37)](#EndNote%20ANT%201.37a.md)
 Perhaps this may be the proper meaning of the word Israel, by the
 present and the old Jerusalem analogy of the Hebrew tongue. In the mean
 time, it is certain that the Hellenists of the first century, in Egypt
 and elsewhere, interpreted Israel to be a man seeing God, as is evident
 from the argument fore-cited.
 
-<span id="EndNote ANT 1.38b"></span>[(38)](#EndNote%20ANT%201.38a) Of
+<span id="EndNote ANT 1.38b"></span>[(38)](#EndNote%20ANT%201.38a.md) Of
 this slaughter of the Shechemites by Simeon and Levi, see Authent. Rec.
 Part I. p. 309, 418, 432-439. But why Josephus has omitted the
 circumcision of these Shechemites, as the occasion of their death; and
 of Jacob's great grief, as in the Testament of Levi, sect. 5; I cannot
 tell.
 
-<span id="EndNote ANT 1.39b"></span>[(39)](#EndNote%20ANT%201.39a) Since
+<span id="EndNote ANT 1.39b"></span>[(39)](#EndNote%20ANT%201.39a.md) Since
 Benoni signifies the son of my sorrow, and Benjamin the son of days, or
 one born in the father's old age, Genesis 44:20, I suspect Josephus's
 present copies to be here imperfect, and suppose that, in correspondence
@@ -2263,4 +2263,4 @@ Accordingly, both the Testament of Benjamin, sect. 2, p. 401, and Philo
 de Nominum Mutatione, p. 1059, write the name Benjamin, but explain it
 not the son of the right hand, but the son of days.
 
-[Back To The Table Of Contents](index)
+[Back To The Table Of Contents](index.md)

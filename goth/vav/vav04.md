@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](vav03)  [Next](vav05) 
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](vav03)  [Next](vav05.md) 
 
 ------------------------------------------------------------------------
 
@@ -1143,4 +1143,4 @@ to the true story which I am about to tell thee."
 ------------------------------------------------------------------------
 
 [Next: The Vampire's First Story. In which a man deceives a
-woman.](vav05)
+woman.](vav05.md)

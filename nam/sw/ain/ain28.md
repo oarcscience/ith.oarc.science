@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](ain27)  [Next](ain29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](ain27)  [Next](ain29.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ There we come together to dance and to sing.
 
 ### THE DOCTOR'S SONG TO THE HUNTERS
 
-Sahn-a-mahl! <span id="fr_4"></span>[1](#fn_4)  
+Sahn-a-mahl! <span id="fr_4"></span>[1](#fn_4.md)  
 Haymohl give me the necklace!  
 Sooadack Ceeavawt give me the turquoise ear-rings!
 
@@ -23,9 +23,9 @@ Sooadack Ceeavawt give me the turquoise ear-rings!
 
 ### Footnotes
 
-<span id="fn_4"></span>[153:1](ain28.htm#fr_4) This word was not
+<span id="fn_4"></span>[153:1](ain28.htm#fr_4.md) This word was not
 translated--probably archaic and the meaning forgotten.
 
 ------------------------------------------------------------------------
 
-[Next: The Destruction of the Vahahkkees](ain29)
+[Next: The Destruction of the Vahahkkees](ain29.md)

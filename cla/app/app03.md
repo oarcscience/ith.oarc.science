@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](app02)  [Next](app04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](app02)  [Next](app04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674035011/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674035011/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancilla to the Pre-Socratic Philosophers*, by Kathleen Freeman,
 \[1948\], at Intangible Textual Heritage
 
@@ -37,7 +37,7 @@ century A.D.) is now thought to be a collection of writings of different
 periods and varying outlook, dating from the sixth century B.C. to the
 beginning of the Christian era.
 
-A large number of titles survive. <span id="fr_0"></span>[1](#fn_0)
+A large number of titles survive. <span id="fr_0"></span>[1](#fn_0.md)
 
 There are also a number of gold plates from tombs, and a few papyrus
 fragments, which give Orphic instruction to the dead.
@@ -88,7 +88,7 @@ close the doors!
 
 8\. (<span class="smallcaps">Plato</span>, *Timaeus* 40D: *the
 'descendants of the gods', as the Orphics* <span
-id="fr_1"></span>[1](#fn_1) *call themselves, give the following account
+id="fr_1"></span>[1](#fn_1.md) *call themselves, give the following account
 of the origin of the other gods*): The children of Earth and Heaven were
 Ocean and Tethys, and from these came Phorcys, Cronos and Rhea, and
 their contemporaries; and from Cronos and Rhea came Zeus and Hera and
@@ -154,7 +154,7 @@ Fates, and the male Giants and Cyclôpês. Ouranos flung the males into
 Tartarus, whereat Earth in anger produced the Titans*):
 
 Lady Earth produced the sons of Ouranos, who are also called
-Titans, <span id="fr_2"></span>[1](#fn_2) because they have been
+Titans, <span id="fr_2"></span>[1](#fn_2.md) because they have been
 punished by great starry Ouranos.
 
 14\. (<span class="smallcaps">Ps.-Demosthenes</span>: *Implacable and
@@ -163,7 +163,7 @@ says is seated beside the throne of Zeus and looks upon all mortal
 happenings*).
 
 Is. (<span class="smallcaps">Marmor Parium</span>: *From the time when*
-. . . <span id="fr_3"></span>[2](#fn_3) *son published his poem, the
+. . . <span id="fr_3"></span>[2](#fn_3.md) *son published his poem, the
 Rape of Persephone and the search of Demeter and the gift of corn to
 men*).
 
@@ -228,7 +228,7 @@ earth-born Cyclopes had not yet strengthened him with bolt, thunder and
 lightning, which give glory to Zeus*.
 
 *Gold plates from tombs in Italy and Crete*. <span
-id="fr_4"></span>[1](#fn_4)
+id="fr_4"></span>[1](#fn_4.md)
 
 17\. (*From Petelia, fourth-third century* B.C.)
 
@@ -365,22 +365,22 @@ Dionysus*): top, rattle, dice-bones, or mirror.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1:1](app03.htm#fr_0) For list and discussion,
+<span id="fn_0"></span>[1:1](app03.htm#fr_0.md) For list and discussion,
 see *Companion*, pp. 5-8.
 
-<span id="fn_1"></span>[2:1](app03.htm#fr_1) The Orphics are not named
+<span id="fn_1"></span>[2:1](app03.htm#fr_1.md) The Orphics are not named
 here, but are obviously meant.
 
-<span id="fn_2"></span>[3:1](app03.htm#fr_2) Τιτῆνες from τίνεσθαι.
+<span id="fn_2"></span>[3:1](app03.htm#fr_2.md) Τιτῆνες from τίνεσθαι.
 
-<span id="fn_3"></span>[3:2](app03.htm#fr_3) 'Orpheus, Oiagros’ and
+<span id="fn_3"></span>[3:2](app03.htm#fr_3.md) 'Orpheus, Oiagros’ and
 Calliope’s (*son*)' is supplied in the blank space here.
 
-<span id="fn_4"></span>[5:1](app03.htm#fr_4) See Harrison,
+<span id="fn_4"></span>[5:1](app03.htm#fr_4.md) See Harrison,
 *Prolegomena*, Appendix by Gilbert Murray; Guthrie, *Orpheus and Greek
 Religion*, pp. 172-31 Freeman, *Companion to the Pre-Socratic
 Philosophers* pp. 16-7.
 
 ------------------------------------------------------------------------
 
-[Next: 2. Musaeus](app04)
+[Next: 2. Musaeus](app04.md)

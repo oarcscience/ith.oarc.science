@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic075)  [Next](lfic077) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic075)  [Next](lfic077.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ engagements.
 
 ------------------------------------------------------------------------
 
-[Next: How the Shannon acquired its Name](lfic077)
+[Next: How the Shannon acquired its Name](lfic077.md)

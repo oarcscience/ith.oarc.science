@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng40)  [Next](vlsng42) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng40)  [Next](vlsng42.md) 
 
 ------------------------------------------------------------------------
 
@@ -142,4 +142,4 @@ But now with the tidings just told were these troubles stayed.
 ------------------------------------------------------------------------
 
 [Next: Chapter XL: How Gudrun cast herself into the Sea, but was brought
-ashore again.](vlsng42)
+ashore again.](vlsng42.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc26)  [Next](sfoc28) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc26)  [Next](sfoc28.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ of prayers, in the ordinary sense of the word.
 
 ------------------------------------------------------------------------
 
-[Next: Formula for Treating the Crippler (Rheumatism)](sfoc28)
+[Next: Formula for Treating the Crippler (Rheumatism)](sfoc28.md)

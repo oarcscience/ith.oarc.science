@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](yvhf11)  [Next](yvhf13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](yvhf11)  [Next](yvhf13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1432515268/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1432515268/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yoga Vashisht or Heaven Found*, by Rishi Singh Gherwal, \[1930\], at
 Intangible Textual Heritage
 
@@ -162,7 +162,7 @@ which are given out by Paramesuara \[i.e., Parameshwara—JBH.\] (Shiva).
 To the constitution of some, Yoga is the most desirable; also, to the
 constitution of others, knowledge is preferable. These two, as I have
 explained, are based upon True Wisdom. <span
-id="fr_16"></span>[\*](#fn_16)
+id="fr_16"></span>[\*](#fn_16.md)
 
 "Now I shall explain the meaning of Yoga. I shall tell you a beautiful
 story. Once upon a time I was in the company of other Rishis and heard
@@ -250,7 +250,7 @@ saying this, he increased his respect to me.'
 "I asked him how his brothers and sisters parted from him.
 
 "'Here we lived for many yugas (a yuga is more than four million years.
-Relative to "yugas" see page [80](yvhf08.htm#page_80), Great Master of
+Relative to "yugas" see page [80](yvhf08.htm#page_80.md), Great Master of
 the Himalayas). At last my brothers and sisters wearied of the body and
 gave it up for liberation. They were blessed with great power and
 longevity and disappeared at will."
@@ -385,9 +385,9 @@ back to his palace. It was heart-rending to part with such a wise one.
 
 ### Footnotes
 
-<span id="fn_16"></span>[154:\*](yvhf12.htm#fr_16) See Chapter on "The
+<span id="fn_16"></span>[154:\*](yvhf12.htm#fr_16.md) See Chapter on "The
 Goal of the Yogi. And Levitation" also" Creation of Universe."
 
 ------------------------------------------------------------------------
 
-[Next: The Goal of the Yogi and Levitation](yvhf13)
+[Next: The Goal of the Yogi and Levitation](yvhf13.md)

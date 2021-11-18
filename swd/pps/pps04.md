@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](pps03)  [Next](pps05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](pps03)  [Next](pps05.md) 
 
 ------------------------------------------------------------------------
 
@@ -600,4 +600,4 @@ teach them the Word, and falsifications of the Word will be removed. 11
 
 ------------------------------------------------------------------------
 
-[Next: 201-250](pps05)
+[Next: 201-250](pps05.md)

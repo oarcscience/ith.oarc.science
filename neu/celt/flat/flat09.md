@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](flat08)  [Next](flat10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](flat08)  [Next](flat10.md) 
 
 ------------------------------------------------------------------------
 
@@ -372,4 +372,4 @@ story.
 
 ------------------------------------------------------------------------
 
-[Next: The Confessions of Tom Bourke](flat10)
+[Next: The Confessions of Tom Bourke](flat10.md)

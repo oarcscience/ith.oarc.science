@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](jai05)  [Next](jai07) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](jai05)  [Next](jai07.md) 
 
 ------------------------------------------------------------------------
 
@@ -661,4 +661,4 @@ ancestor-worship was even more exacting than the religion of the home.
 
 ------------------------------------------------------------------------
 
-[Next: The Communal Cult](jai07)
+[Next: The Communal Cult](jai07.md)

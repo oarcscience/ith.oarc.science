@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](pjc14)  [Next](pjc16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](pjc14)  [Next](pjc16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dolorous Passion of Our Lord Jesus Christ*, by Anne Catherine
 Emmerich, \[1862\], at Intangible Textual Heritage
 
@@ -162,7 +162,7 @@ parents in Egypt, with not having saved John the Baptist from death,
 with having brought disunion into families, protected men of despicable
 character, refused to cure various sick persons, injured the inhabitants
 of Gergesa by permitting men possessed by the devil to overturn their
-vats, <span id="fr_8"></span>[1](#fn_8) and demons to make swine cast
+vats, <span id="fr_8"></span>[1](#fn_8.md) and demons to make swine cast
 themselves into the sea; with having deserted his family, and squandered
 the property of others; in one word Satan, in the hopes of causing Jesus
 to waver, suggested to him every thought by which he would have tempted
@@ -902,7 +902,7 @@ person leaned his hand upon it.
 
 ### Footnotes
 
-<span id="fn_8"></span>[101:1](pjc15.htm#fr_8) On the 11th of December
+<span id="fn_8"></span>[101:1](pjc15.htm#fr_8.md) On the 11th of December
 1812, in her visions of the public life of Jesus, she saw our Lord
 permit the devils whom he had expelled from the men of Gergesa to enter
 into a herd of swine. She also saw, on this particular occasion, that
@@ -911,4 +911,4 @@ fermented liquid.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Judas and his Band](pjc16)
+[Next: Chapter II. Judas and his Band](pjc16.md)

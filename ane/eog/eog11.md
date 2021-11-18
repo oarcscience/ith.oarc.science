@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](eog10)  [Next](eog12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](eog10)  [Next](eog12.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,13 +17,13 @@ Intangible Textual Heritage
 
 (*Gilgamish determines to seek Eternal Life*).
 
- <span id="fr_113"></span>[6](#fn_104)Gilgamish bitterly wept for his
+ <span id="fr_113"></span>[6](#fn_104.md)Gilgamish bitterly wept for his
 comrade, (for) Enkidu, ranging  
 Over the desert: "I, too—shall I not die like Enkidu also?  
 <span class="margnote">5.</span>Sorrow hath enter’d my heart; I fear
 death as I range o’er the desert,  
 I will get hence on the road to the presence of Uta-Napishtim <span
-id="fr_114"></span>[7](#fn_105),
+id="fr_114"></span>[7](#fn_105.md),
 
 <span id="page_42">p. 42</span>
 
@@ -53,12 +53,12 @@ setting\],
 are\] their summits, (and) downwards  
 (Deep) unto Hell reach their breasts: (and there) at their portals stand
 sentry  
-Scorpion-men, awful in <span id="fr_115"></span>[1](#fn_106) terror,
+Scorpion-men, awful in <span id="fr_115"></span>[1](#fn_106.md) terror,
 their (very) glance Death: (and) tremendous,  
 Shaking the hills, their magnificence; they are the Wardens of
 Shamash,  
 <span class="margnote">10.</span>Both at his <span
-id="fr_116"></span>[2](#fn_107) rising and setting. (No sooner) did
+id="fr_116"></span>[2](#fn_107) rising and setting. (No sooner.md) did
 Gilgamish see them"  
 (Than) from alarm and dismay was his countenance stricken with pallor,  
 Senseless, he grovell’d before them.  
@@ -138,16 +138,16 @@ provider of strong waters*).
 
 ### Footnotes
 
-<span id="fn_104"></span>[41:6](eog11.htm#fr_113) Assyrian Version.
+<span id="fn_104"></span>[41:6](eog11.htm#fr_113.md) Assyrian Version.
 
-<span id="fn_105"></span>[41:7](eog11.htm#fr_114) The Babylonian Noah,
+<span id="fn_105"></span>[41:7](eog11.htm#fr_114.md) The Babylonian Noah,
 with whom so much of the remainder of this story is concerned.
 
-<span id="fn_106"></span>[42:1](eog11.htm#fr_115) Lit. "their terror,
+<span id="fn_106"></span>[42:1](eog11.htm#fr_115.md) Lit. "their terror,
 and."
 
-<span id="fn_107"></span>[42:2](eog11.htm#fr_116) Lit. "of Shamash."
+<span id="fn_107"></span>[42:2](eog11.htm#fr_116.md) Lit. "of Shamash."
 
 ------------------------------------------------------------------------
 
-[Next: The Tenth Tablet: How Gilgamish Reached Uta-Napishtim](eog12)
+[Next: The Tenth Tablet: How Gilgamish Reached Uta-Napishtim](eog12.md)

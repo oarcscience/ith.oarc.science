@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](refb22)  [Next](refb24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](refb22)  [Next](refb24.md) 
 
 </div>
 
@@ -216,6 +216,6 @@ But to see her you must rise early.\[17\]
 
 ------------------------------------------------------------------------
 
-[Next: The Golden Branch](refb24)
+[Next: The Golden Branch](refb24.md)
 
 </div>

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlov28)  [Next](hlov30) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlov28)  [Next](hlov30.md) 
 
 ------------------------------------------------------------------------
 
@@ -291,4 +291,4 @@ each other and destroying the quiet, regular motion.
 
 ------------------------------------------------------------------------
 
-[Next: IV. Changes in Kilauea Crater](hlov30)
+[Next: IV. Changes in Kilauea Crater](hlov30.md)

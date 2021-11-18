@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal151)  [Next](njal153) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal151)  [Next](njal153.md) 
 
 ------------------------------------------------------------------------
 
@@ -81,4 +81,4 @@ great love with the earl.
 
 ------------------------------------------------------------------------
 
-[Next: 153. Kari Goes Abroad](njal153)
+[Next: 153. Kari Goes Abroad](njal153.md)

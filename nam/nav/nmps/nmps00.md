@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Navajo](../index)  [Index](index) 
-[Next](nmps01) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Navajo](../index)  [Index](index.md) 
+[Next](nmps01.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@ American](../../index)  [Navajo](../index)  [Index](index) 
 
 ##### WITH
 
-## TEXTS AND TRANSLATIONS <span id="fr_0"></span>[1](nmps01.htm#fn_0)
+## TEXTS AND TRANSLATIONS <span id="fr_0"></span>[1](nmps01.htm#fn_0.md)
 
 ##### BY
 
@@ -26,4 +26,4 @@ it was published prior to 1923.
 
 ------------------------------------------------------------------------
 
-[Next: Contents.](nmps01)
+[Next: Contents.](nmps01.md)

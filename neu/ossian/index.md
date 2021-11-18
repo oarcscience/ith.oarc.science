@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ Click to enlarge</td>
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](oss00)
+[Contents](#contents)    [Start Reading](oss00.md)
 
 ------------------------------------------------------------------------
 
@@ -49,15 +49,15 @@ manuscripts and books in existence today which date as far back as the
 principally on subjects such as religion, genealogy, and land grants.
 
 For this and several other reasons which are dealt with in the
-[Preliminary Discourse](oss02) *et seq*., authenticity of the work was
+[Preliminary Discourse](oss02.md) *et seq*., authenticity of the work was
 widely contested, particularly by Samuel Johnson. A huge (and probably
 excessive) backlash ensued, and conventional wisdom today brands Ossian
 as one of the great forgeries of history.
 
 In fairness, themes, characters and passages of Ossian are based on
 established Celtic and Scottish folklore. Much of the [fourth
-volume](../celt/pt4/index) of J.F. Campbell's massive [Popular Tales of
-the West Highlands](../celt/ptwh) is devoted to tracking down Ossianic
+volume](../celt/pt4/index.md) of J.F. Campbell's massive [Popular Tales of
+the West Highlands](../celt/ptwh.md) is devoted to tracking down Ossianic
 fragments in circulation prior to Macpherson, or elicited from
 illiterate Highland peasants who had never heard of Ossian.
 
@@ -67,7 +67,7 @@ wasn't even particularly fluent in Gaelic.
 
 The work has literary merits, and historical importance. The project
 resembles other Romantic era attempts at national epic-building such as
-the Finnish [Kalevala](../kveng/index); however the Kalevala is
+the Finnish [Kalevala](../kveng/index.md); however the Kalevala is
 acknowledged to be based on years of ethnographic fieldwork by Elias
 Lönnrot. Lönnrot is now believed to have composed a few bridge portions
 of the Kalevala; but he didn't pull a great deal of the work out of thin
@@ -75,7 +75,7 @@ air, as did Macpherson.
 
 Production notes: This version is based on material produced by Donal
 O'Danachair. Be sure to visit his website
-([exclassics.com](https://exclassics.com))--highly recommended! I've
+([exclassics.com](https://exclassics.com).md)--highly recommended! I've
 scanned and proofed about 200 pages of prefatory material, added the
 original illustrations and page numbers; corrected some typos and added
 a few missing footnotes to the exclassics etext.
@@ -86,14 +86,14 @@ a few missing footnotes to the exclassics etext.
 
 ------------------------------------------------------------------------
 
-[Title Page](oss00)  
-[Contents](oss01)  
-[A Preliminary Discourse](oss02)  
-[Preface](oss03)  
-[A Dissertation Concerning the Æra of Ossian](oss04)  
-[Dissertation Concerning the Poems of Ossian](oss05)  
-[A Critical Dissertation...](oss06)  
-[Funeral Song by Regner Lodbrog, translated by Olaus Wormius](oss07)  
+[Title Page](oss00.md)  
+[Contents](oss01.md)  
+[A Preliminary Discourse](oss02.md)  
+[Preface](oss03.md)  
+[A Dissertation Concerning the Æra of Ossian](oss04.md)  
+[Dissertation Concerning the Poems of Ossian](oss05.md)  
+[A Critical Dissertation...](oss06.md)  
+[Funeral Song by Regner Lodbrog, translated by Olaus Wormius](oss07.md)  
 <span id="section_000"></span>
 
 ### The Poems of Ossian
@@ -102,56 +102,56 @@ a few missing footnotes to the exclassics etext.
 
 ### Cath-loda
 
-[Duan I](oss08)  
-[Duan II](oss09)  
-[Duan III](oss10)  
+[Duan I](oss08.md)  
+[Duan II](oss09.md)  
+[Duan III](oss10.md)  
 
  
 
-[Comala, A Dramatic Poem](oss11)  
-[Carric-thura](oss12)  
-[Carthon](oss13)  
-[Oina-morul](oss14)  
-[Colna-dona](oss15)  
-[Oithona](oss16)  
-[Croma](oss17)  
-[Calthon And Colmal](oss18)  
-[The War of Caros](oss19)  
-[Cathlin of Clutha](oss20)  
-[Sul-malla of Lumon](oss21)  
-[The War of Inis-thona](oss22)  
-[The Songs of Selma](oss23)  
+[Comala, A Dramatic Poem](oss11.md)  
+[Carric-thura](oss12.md)  
+[Carthon](oss13.md)  
+[Oina-morul](oss14.md)  
+[Colna-dona](oss15.md)  
+[Oithona](oss16.md)  
+[Croma](oss17.md)  
+[Calthon And Colmal](oss18.md)  
+[The War of Caros](oss19.md)  
+[Cathlin of Clutha](oss20.md)  
+[Sul-malla of Lumon](oss21.md)  
+[The War of Inis-thona](oss22.md)  
+[The Songs of Selma](oss23.md)  
 <span id="section_002"></span>
 
 ### Fingal: An Ancient Epic Poem
 
-[Book I](oss24)  
-[Book II](oss25)  
-[Book III](oss26)  
-[Book IV](oss27)  
-[Book V](oss28)  
-[Book VI](oss29)  
+[Book I](oss24.md)  
+[Book II](oss25.md)  
+[Book III](oss26.md)  
+[Book IV](oss27.md)  
+[Book V](oss28.md)  
+[Book VI](oss29.md)  
 
  
 
-[Lathmon](oss30)  
-[Dar-thula](oss31)  
-[The Death of Cuthullin](oss32)  
-[The Battle of Lora](oss33)  
+[Lathmon](oss30.md)  
+[Dar-thula](oss31.md)  
+[The Death of Cuthullin](oss32.md)  
+[The Battle of Lora](oss33.md)  
 <span id="section_003"></span>
 
 ### Temora
 
-[Book I](oss34)  
-[Book II](oss35)  
-[Book III](oss36)  
-[Book IV](oss37)  
-[Book V](oss38)  
-[Book VI](oss39)  
-[Book VII](oss40)  
-[Book VIII](oss41)  
+[Book I](oss34.md)  
+[Book II](oss35.md)  
+[Book III](oss36.md)  
+[Book IV](oss37.md)  
+[Book V](oss38.md)  
+[Book VI](oss39.md)  
+[Book VII](oss40.md)  
+[Book VIII](oss41.md)  
 
  
 
-[Conlath and Cuthona](oss42)  
-[Berrathon](oss43)  
+[Conlath and Cuthona](oss42.md)  
+[Berrathon](oss43.md)  

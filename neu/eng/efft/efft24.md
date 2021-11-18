@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft23)  [Next](efft25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft23)  [Next](efft25.md) 
 
 ------------------------------------------------------------------------
 
-# EDWIN AND SIR TOPAZ.  <span id="fr_30"></span>[1](#fn_30)
+# EDWIN AND SIR TOPAZ.  <span id="fr_30"></span>[1](#fn_30.md)
 
 IN Britain's isle and Arthur's days,  
 When midnight faeries daunc'd the maze.  
@@ -234,9 +234,9 @@ Upon th' unworthy mind."
 
 ### Footnotes
 
-<span id="fn_30"></span>[1](efft24.htm#fr_30) T. Parnell *Poems*, Aldine
+<span id="fn_30"></span>[1](efft24.htm#fr_30.md) T. Parnell *Poems*, Aldine
 Edition, p, 55.
 
 ------------------------------------------------------------------------
 
-[Next: The Two Serving Damsels](efft25)
+[Next: The Two Serving Damsels](efft25.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg28)  [Next](btg30) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg28)  [Next](btg30.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,4 +83,4 @@ balm that will miraculously transform all sorrows into heavenly joy.
 
 ------------------------------------------------------------------------
 
-[Next: Rahula, The Son](btg30)
+[Next: Rahula, The Son](btg30.md)

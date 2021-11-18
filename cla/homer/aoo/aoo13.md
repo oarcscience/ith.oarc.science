@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](aoo12)  [Next](aoo14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](aoo12)  [Next](aoo14.md) 
 
 ------------------------------------------------------------------------
 
@@ -121,4 +121,4 @@ hollow ships.’
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV](aoo14)
+[Next: Chapter XIV](aoo14.md)

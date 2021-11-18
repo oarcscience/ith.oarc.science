@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi186)  [Next](mtsi188) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi186)  [Next](mtsi188.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ worked at him and put him together again.
 
 ------------------------------------------------------------------------
 
-[Next: 52. Opossum](mtsi188)
+[Next: 52. Opossum](mtsi188.md)

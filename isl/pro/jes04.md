@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](jes03)  [Next](jes05) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](jes03)  [Next](jes05.md) 
 
 ------------------------------------------------------------------------
 
@@ -199,4 +199,4 @@ only by God.
 
 ------------------------------------------------------------------------
 
-[Next: The Bell](jes05)
+[Next: The Bell](jes05.md)
