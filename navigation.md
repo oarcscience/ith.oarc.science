@@ -1,6 +1,6 @@
 # Intangible Textual Hertage
 
-[Home](.md)
+[Home]()
 
   * [Home](/index.md)
   * [World Religions](/world.md)
@@ -17,24 +17,24 @@
   * [Catalog](/cat/index.md)
 
 [African](/afr/index.md)
-[Age of Reason](.md)
+[Age of Reason]()
 
   * [Age of Reason](/aor/index.md)
   * [Darwin](/aor/darwin/index.md)
   * [Paine](/aor/paine/index.md)
 
-[Alchemy](.md)
+[Alchemy]()
 
   * [Alchemy](/alc/index.md)
   * [Hermetic Museum](/alc/hermmuse/index.md)
 
 [Americana](/ame/index.md)
-[Ancient Near East](.md)
+[Ancient Near East]()
 
   * [Ancient Near East](/ane/index.md)
   * [Records of the Past](/ane/rp/index.md)
 
-[Astrology—Baha'i](.md)
+[Astrology—Baha'i]()
 
   * [Astrology](/astro/index.md)
   * [Asia](/asia/index.md)
@@ -42,7 +42,7 @@
   * [Australia](/aus/index.md)
   * [Basque](/neu/basque/index.md)
   * [Baha'i](/bhi/index.md)
-[Bible](.md)
+[Bible]()
 
   * [Bible](/bib/index.md)
   * [Critical Views](/bib/cv/index.md)
@@ -52,14 +52,14 @@
 
 [Book of Shadows](/bos/index.md)
 [Buddhism](/bud/index.md)
-[Celtic](.md)
+[Celtic]()
 
   * [Celtic](/neu/celt/index.md)
   * [PTWH](/neu/celt/ptwh.md)
   * [Carmina Gadelica](/neu/celt/cg.md)
   * [Barddas](/neu/celt/bim.md)
 
-[Christianity](.md)
+[Christianity]()
 
   * [Christianity](/chr/index.md)
   * [Apocrypha](/chr/apo/index.md)
@@ -70,7 +70,7 @@
   * [Luther](/chr/luther/index.md)
   * [Shakers](/chr/shaker/index.md)
 
-[Classics](.md)
+[Classics]()
 
   * [Classics](/cla/index.md)
   * [Aristotle](/cla/ari/index.md)
@@ -90,7 +90,7 @@
   * [Gibbon](/cla/gibbon/index.md)
   * [Archimedes](/cla/archim/index.md)
 
-[Comparative—England](.md)
+[Comparative—England]()
 
   * [Comparative](/comp/index.md)
   * [Confucianism](/cfu/index.md)
@@ -99,14 +99,14 @@
   * [Egyptian](/egy/index.md)
   * [England](/neu/eng/index.md)
   
-[Esoteric and Occult](.md)
+[Esoteric and Occult]()
 
   * [Esoteric and Occult](/eso/index.md)
   * [Chaos Magic](/eso/chaos/index.md)
   * [Enochian Magic](/eso/enoch/index.md)
   * [Rosicrucians](/eso/ros/index.md)
 
-[Evil—Hinduism](.md)
+[Evil—Hinduism]()
 
   * [Evil](/evil/index.md)
   * [Fortean](/fort/index.md)
@@ -115,7 +115,7 @@
   * [Gnosticism](/gno/index.md)
   * [Grimoires](/grim/index.md)
 
-[Hinduism](.md)
+[Hinduism]()
 
   * [Hinduism](/hin/index.md)
   * [Mahabharata](/hin/maha/index.md)
@@ -127,23 +127,23 @@
   * [Bain](/hin/bain/index.md)
 
 [I Ching](/ich/index.md)
-[Islam](.md)
+[Islam]()
 
   * [Islam](/isl/index.md)
   * [Shiite](/isl/shi.md)
 
-[Icelandic—Journals](.md)
+[Icelandic—Journals]()
 
   * [Icelandic](/neu/ice/index.md)
   * [Jainism](/jai/index.md)
   * [Journals](/journals/index.md)
 
-[Judaism](.md)
+[Judaism]()
 
   * [Judaism](/jud/index.md)
   * [Talmud](/jud/talmud.md)
 
-[Legends and Sagas](.md)
+[Legends and Sagas]()
 
   * [Legends and Sagas](/neu/index.md)
   * [Basque](/neu/basque/index.md)
@@ -158,14 +158,14 @@
 
 [Legendary Creatures](/lcr/index.md)
 [LGBT](/lgbt/index.md)
-[Miscellaneous](.md)
+[Miscellaneous]()
 
   * [Miscellaneous](/etc/index.md)
   * [Christmas](/etc/xmas/index.md)
 
 [Mormonism](/mor/index.md)
 [Mysticism](/myst/index.md)
-[Native American](.md)
+[Native American]()
 
   * [Native American](/nam/index.md)
   * [Aztec](/nam/aztec/index.md)
@@ -185,18 +185,18 @@
   * [Southwestern](/nam/sw/index.md)
   * [Zuñi](/nam/zuni/index.md)
 
-[Necronomicon](.md)
+[Necronomicon]()
   
   * [Necronomicon](/nec/index.md)
   * [H.P. Lovecraft](/nec/hpl/index.md)
 
-[New Thought](.md)
+[New Thought]()
 
   * [New Thought](/nth/index.md)
   * [Shinn](/nth/shinn/index.md)
   * [Unity](/nth/unity/index.md)
 
-[Wicca and Neopaganism—Parapsychology](.md)
+[Wicca and Neopaganism—Parapsychology]()
 
   * [Wicca and Neopaganism](/pag/index.md)
   * [Nostradamus](/nos/index.md)
@@ -205,12 +205,12 @@
   * [Paleolithic](/nel/index.md)
   * [Parapsychology](/psi/index.md)
 
-[Philosophy](.md)
+[Philosophy]()
 
   * [Philosophy](/phi/index.md)
   * [Spinoza](/phi/spinoza/index.md)
 
-[Piri Re'is Map—Shamanism](.md)
+[Piri Re'is Map—Shamanism]()
 
   * [Piri Re'is Map](/piri/index.md)
   * [Prophecy](/pro/index.md)
@@ -220,12 +220,12 @@
   * [Shakespeare](/sks/index.md)
   * [Shamanism](/sha/index.md)
 
-[Shinto](.md)
+[Shinto]()
 
   * [Shinto](/shi/index.md)
   * [Ainu](/shi/ainu/index.md)
 
-[Symbolism—Theosophy](.md)
+[Symbolism—Theosophy]()
 
   * [Symbolism](/sym/index.md)
   * [Sikhism](/skh/index.md)
@@ -237,19 +237,19 @@
   * [Thelema](/oto/index.md)
   * [Theosophy](/the/index.md)
 
-[Time](.md)
+[Time]()
 
   * [Time](/time/index.md)
   * [Sacred Calendar Systems](/time/cal/index.md)
 
 [Tolkien](/ring/index.md)
-[UFOs](.md)
+[UFOs]()
 
   * [UFOs](/ufo/index.md)
   * [Mars](/ufo/mars/index.md)
   * [UFO BBS Files](/ufo/ufobbs.md)
 
-[Utopia—Zoroastrianism](.md)
+[Utopia—Zoroastrianism]()
 
   * [Utopia](/utopia/index.md)
   * [Women](/wmn/index.md)
