@@ -1,6 +1,6 @@
----
-title: "Sacred Texts: Ancient Near East"
-titleh1: "Ancient Near East"
+
+# Sacred Texts: Ancient Near East
+<title>Intangible Textual Heritage: Ancient Near East</title>
 ---
 ### General
 

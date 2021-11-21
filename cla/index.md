@@ -1,7 +1,7 @@
 ---
 title: "Sacred Texts: The Classics"
 pathh1: "img/sounion0.jpg"
-titleh1: "The Classics"
+<title>Intangible Textual Heritage: The Classics</title>
 ---
 [Greek Texts](#greek)   [Roman Texts](#roman.md)  
   [General Books](#general.md)  

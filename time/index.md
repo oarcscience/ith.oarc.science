@@ -1,7 +1,7 @@
----
-title: "Sacred Time"
-titleh1: "Sacred Time"
----
+
+# Sacred Time
+<title>Intangible Textual Heritage: Sacred Time</title>
+
 
 This page has links to resources at Intangible Textual Heritage related
 to time: chronology of sacred texts and religion, and information about

@@ -1,5 +1,5 @@
 ---
-title: "Jain Texts"
+# Jain Texts
 pathh1: "jain.jpg"
 titleh1: "Jainism"
 ---

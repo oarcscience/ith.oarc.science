@@ -1,6 +1,6 @@
----
-title: "Eliphas Levi"
----
+
+# Eliphas Levi
+
 <span class="p-small"> </span>
 
 [Esoteric](../index.md)

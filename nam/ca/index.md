@@ -3,7 +3,7 @@ keywords: "Native American Indian California Karok Karuk Hupa Hupa Achomawi Yuro
 title: "Native Californians"
 categories: ' <A HREF="../index">Native American</A>&nbsp;'
 pathh1: "bigsur.jpg"
-titleh1: "Native Californians"
+<title>Intangible Textual Heritage: Native Californians</title>
 ---
 [General](#general)  [Northern](#north)  [Southern](#south.md) 
 [Missions](#missions)  [Nevada](#nevada.md)

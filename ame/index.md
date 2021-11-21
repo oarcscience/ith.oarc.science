@@ -1,5 +1,5 @@
 ---
-title: "Americana"
+# Americana
 titleh1: "Americana"
 ---
 This page includes texts relating to uniquely American expressions of

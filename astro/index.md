@@ -1,7 +1,7 @@
----
-title: "Astrology"
-titleh1: "Astrology and Sky Lore"
----
+
+# Astrology
+<title>Intangible Textual Heritage: Astrology and Sky Lore</title>
+
 This page indexes resources related to the lore of the sky, and
 celestial objects, at Intangible Textual Heritage, including Astrology
 and historical texts on Astronomy.

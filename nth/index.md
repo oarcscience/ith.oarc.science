@@ -1,7 +1,7 @@
----
-title: "Sacred Texts: New Thought"
-titleh1: "New Thought"
----
+
+# Sacred Texts: New Thought
+<title>Intangible Textual Heritage: New Thought</title>
+
 The New Thought movement, which originated in the late 19th and early
 20th century, has at its core a belief that a higher power pervades all
 existence, and that individuals can create their own reality via

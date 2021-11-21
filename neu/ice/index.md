@@ -1,7 +1,7 @@
----
-title: "Icelandic Lore"
-titleh1: "Icelandic Lore"
----
+
+# Icelandic Lore
+<title>Intangible Textual Heritage: Icelandic Lore</title>
+
 This page indexes all of the content at Intangible Textual Heritage
 related to Icelandic lore, including the [Eddas](#eddas.md) and
 [Sagas](#sagas). There are also [modern retellings](#retellings.md) of

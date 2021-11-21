@@ -1,5 +1,5 @@
 ---
-title: "The Apocrypha Index"
+# The Apocrypha Index
 pathh1: "img/madbook.jpg"
 alttext1: "Madonna with the Book, Sandro Botticelli [1483] (Public Domain Image)"
 titleh1: "The Apocrypha"

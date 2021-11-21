@@ -1,7 +1,7 @@
 ---
-description: "Grimoires at Intangible Textual Heritage"
+<meta name="description" content="Grimoires at Intangible Textual Heritage">
 keywords: "Grimoires Ritual Magic Majick Magick Goetia Occult Sixth Seventh Book of Moses Key of Solomon Powwow Pow-Wow Hex Magus Waite Crowley Key Solomon Claviculo Solominis"
-title: "Grimoires"
+# Grimoires
 categories: ' <BR> <A HREF="../pag/index">Wicca/Neo-Paganism</A> <A HREF="../eso/index">Esoteric &amp Occult</A><BR>'
 ---
 <table width="75%">

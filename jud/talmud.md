@@ -1,6 +1,6 @@
----
-title: "The Talmud"
----
+
+# The Talmud
+
 # <span class="c_dt">The Babylonian Talmud</span>
 
 ### Translated by <span class="c_da">Michael L. Rodkinson</span>

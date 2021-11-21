@@ -1,7 +1,7 @@
 ---
 title: "Shiite Translations"
 alttext1: "Five Pillars: Image &copy Copyright J.B. Hare 1999, All Rights Reserved"
-titleh1: "Shiite Documents"
+<title>Intangible Textual Heritage: Shiite Documents</title>
 ---
 Not many primary Shiite texts were translated into English during the
 19th century. The following are translations of Shiite documents,

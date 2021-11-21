@@ -1,7 +1,7 @@
----
-title: "Sacred Texts: Buddhism"
-titleh1: "Buddhism"
----
+
+# Sacred Texts: Buddhism
+<title>Intangible Textual Heritage: Buddhism</title>
+
 [Modern works](#modern)  [Southern Buddhism](#south.md)  [Northern
 Buddhism](#north)  [Jataka](#jataka) [Links](#links.md)
 

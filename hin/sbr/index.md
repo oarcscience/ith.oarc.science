@@ -1,5 +1,5 @@
 ---
-title: "Sacred-Texts: Satapatha Brahmana"
+# Sacred-Texts: Satapatha Brahmana
 ---
 ### The Satapatha Brahmana
 

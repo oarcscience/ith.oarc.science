@@ -1,11 +1,11 @@
 ---
-description: "Max Mullers' translation of the Upanishads."
+<meta name="description" content="Max Mullers' translation of the Upanishads.">
 keywords: "Hinduism Upanishad Upanishads"
 title: "The Upanishads, Max M&uuml;ller, translator"
 categories: ' <A HREF="../index">Hinduism</A> <BR>  <BR>  <A HREF="https://www.amazon.com/exec/obidos/ASIN/048620992X/internetsacredte"> Buy volume 1 of the Upanishads at Amazon.com</A><BR> <A HREF="https://www.amazon.com/exec/obidos/ASIN/0486209938/internetsacredte"> 0'
 pathh1: "aum.jpg"
-titleh1: "The Upanishads"
----
+<title>Intangible Textual Heritage: The Upanishads</title>
+
 <span class="c_e"><span class="c_t">[Upanishads, Part One (SBE
 1)](../sbe01/index.md)</span></span>  
 <span class="c_e"><span class="c_t">[Upanishads, Part Two (SBE

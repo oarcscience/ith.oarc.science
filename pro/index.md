@@ -1,8 +1,8 @@
 ---
 keywords: "Prophecies Prophet Prophets Prediction Nostradamus Paracelsus Apocyalypse Seer Clarivoyant Divination"
-title: "Sacred Texts: Prophecy and Divination"
-titleh1: "Prophecy and Divination"
----
+# Sacred Texts: Prophecy and Divination
+<title>Intangible Textual Heritage: Prophecy and Divination</title>
+
 What does the future hold? This is one of the big questions we'd all
 like answered. This page has links to resources at Intangible Textual
 Heritage that relate to prophecy and divination.

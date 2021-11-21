@@ -1,7 +1,7 @@
----
-title: "William Morris"
-titleh1: "The Works of William Morris"
----
+
+# William Morris
+<title>Intangible Textual Heritage: The Works of William Morris</title>
+
 [The Earthly Paradise](#ep)  [Translations from the Sagas](#saga.md) 
 [Utopian](#utopia)  [Fantasy](#fantasy.md) 
 

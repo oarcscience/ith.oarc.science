@@ -1,5 +1,5 @@
 ---
-title: "Internet Book of Shadows Index"
+# Internet Book of Shadows Index
 ---
 <span class="p-small"> <span class="p-small2"> </span></span>
 

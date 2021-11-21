@@ -1,6 +1,6 @@
----
-title: "An H.P. Lovecraft Anthology Index"
----
+
+# An H.P. Lovecraft Anthology Index
+
 <span class="p-small2"> </span>
 
 <table width="75%">

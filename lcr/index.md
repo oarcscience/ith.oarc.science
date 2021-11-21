@@ -1,7 +1,7 @@
----
-title: "Legendary Creatures"
-titleh1: "Legendary Creatures"
----
+
+# Legendary Creatures
+<title>Intangible Textual Heritage: Legendary Creatures</title>
+
 Legendary creatures play important roles in many ancient texts.
 Sometimes they are symbols of the hermetic processes of alchemy; in
 other cases they crop up in antique accounts of natural history. No

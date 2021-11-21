@@ -1,6 +1,6 @@
 ---
-description: "Sacred Texts: Atlantis"
-title: "Sacred Texts: Atlantis"
+<meta name="description" content="Sacred Texts: Atlantis">
+# Sacred Texts: Atlantis
 alttext1: ""
 titleh1: "Atlantis"
 ---

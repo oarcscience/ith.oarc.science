@@ -1,8 +1,8 @@
 ---
 title: "Apollonius of Tyana"
-description: "Sacred-Texts.com: Classics: Apollonius of Tyana"
+<meta name="description" content="Sacred-Texts.com: Classics: Apollonius of Tyana">
 pathh1: "aot.jpg"
-titleh1: "Apollonius of Tyana"
+<title>Intangible Textual Heritage: Apollonius of Tyana</title>
 ---
 This page lists resources at this site about Apollonius of Tyana, the
 philosopher and reputed wonder-worker of the first century Roman world.

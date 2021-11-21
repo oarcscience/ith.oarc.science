@@ -4,7 +4,7 @@ title: "Shinto Documents"
 categories: ' <BR> <A HREF="../cfu/index">Confucianism</A>&nbsp; <A HREF="../bud/index">Buddhism</A>&nbsp; <A HREF="../sha/index">Shamanism</A>&nbsp; <A HREF="../tao/index">Taoism</A>&nbsp;  <A HREF="https://www.religioustolerance.org/shinto">OCRT: Shinto</A>  0'
 alttext1: "Tori: Copyright J.B. Hare 1999, All Rights Reserved"
 titleh1: "Shinto and Japanese Religions"
----
+
 This section has [scriptures of the Shinto religion](#shinto.md), as well
 as [other texts](#gen.md) that relate to the spirituality of Japan, which
 combines Shinto, [Buddhism](../bud/index), [Confucianism](../cfu/index.md),

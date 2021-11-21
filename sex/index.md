@@ -1,7 +1,7 @@
 ---
-description: "Sacred Texts: Sexuality"
-title: "Sacred Texts: Sexuality"
----
+<meta name="description" content="Sacred Texts: Sexuality">
+# Sacred Texts: Sexuality
+
   
 [Hinduism](../hin/index)  [Tantra](../tantra/index.md) 
 [Paganism](../pag/index.md)  

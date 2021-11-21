@@ -1,7 +1,7 @@
----
-title: "Works of Thomas Paine"
-titleh1: "Works of Thomas Paine"
----
+
+# Works of Thomas Paine
+<title>Intangible Textual Heritage: Works of Thomas Paine</title>
+
 This page indexes resources at this site relating to Thomas Paine.
 
 <span class="c_da"></span>

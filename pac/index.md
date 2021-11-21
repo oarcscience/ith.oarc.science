@@ -1,7 +1,7 @@
----
+
 
 # "Pacific Islander Religions"
----
+
 [General](#general)  [Easter Island](#easter)  [New Zealand](#maori.md) 
 [Hawaii](#hawaii)  [Samoa](#samoa)  [Tahiti](#tahiti.md) 
 [Melanesia](#melanesia.md)

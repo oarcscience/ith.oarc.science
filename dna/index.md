@@ -1,7 +1,7 @@
----
-title: "Sacred Texts: The Genetic Code"
-titleh1: "The Genetic Code"
----
+
+# Sacred Texts: The Genetic Code
+<title>Intangible Textual Heritage: The Genetic Code</title>
+
 <span class="c_e"> <span class="c_t">[First 1000 lines of Chromosome One
 of the Human Genome](hgp011k.md).</span> </span> *61,010 bytes*.  
 This is the first 60,000 'letters' of chromosome one of the draft public

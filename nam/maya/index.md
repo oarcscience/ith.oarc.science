@@ -1,5 +1,5 @@
----
-description: "Sacred Texts: Maya"
+
+<meta name="description" content="Sacred Texts: Maya">
 keywords: "Maya Religion Mythology Prophecy texts"
 title: "Maya Religion"
 alttext1: "Jungle Ruins, (c) 2000 J. B. Hare, All Rights Reserved"

@@ -1,7 +1,7 @@
----
-title: "Sacred Texts: Women and Religion"
-titleh1: "Women and Religion"
----
+
+# Sacred Texts: Women and Religion
+<title>Intangible Textual Heritage: Women and Religion</title>
+
 All of the major world religions deprecate women to some degree. This
 page archives texts which relate specifically to women and religion from
 a female perspective. This includes [historic feminist texts](#feminist.md)

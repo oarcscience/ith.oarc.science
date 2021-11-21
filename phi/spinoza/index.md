@@ -1,5 +1,5 @@
 ---
-title: "The Writings of Spinoza"
+# The Writings of Spinoza
 titleh1: "The Writings of Spinoza"
 ---
 This page indexes writings of the philosopher Baruch Spinoza at

@@ -1,8 +1,8 @@
----
+
 keywords: "Africa South Africa Nigeria Bushman Bushmen Khoisan Xhosa Mythology Folklore Hottentot Kalihari Angola Kaffir Nigeria JuJu Animism Orisha Yoruba Santeria Macumba Voodoo Haiti Jamaica Rastafari Rastafarianism Ganja Haile Selassie Ethiopia Voudun Voudou Vodun Candomble Witchcraft Witchdoctor"
-title: "Sacred Texts: African Religion"
-titleh1: "African Religion"
----
+# Sacred Texts: African Religion
+<title>Intangible Textual Heritage: African Religion</title>
+
   
 
 [South Africa](#south_africa)  [The Bantu](#bantu.md)  [West and Central

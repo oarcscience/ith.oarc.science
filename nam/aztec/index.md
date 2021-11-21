@@ -1,5 +1,5 @@
 ---
-title: "Aztec Religion"
+# Aztec Religion
 titleh1: "Aztec Religion"
 ---
 This index lists resources at Intangible Textual Heritage relating to

@@ -1,6 +1,6 @@
 ---
 title: "World Bible"
-titleh1: "The World Bible"
+<title>Intangible Textual Heritage: The World Bible</title>
 ---
 This page has links to non-English translations of the Bible at
 Intangible Textual Heritage in (primarily) modern languages. Most of

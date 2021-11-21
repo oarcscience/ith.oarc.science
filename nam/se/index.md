@@ -1,5 +1,5 @@
 ---
-title: "Religions of Southeastern Native Americans"
+# Religions of Southeastern Native Americans
 alttext1: "Detail of Woodcut from A BREFE AND TRUE REPORT OF THE NEW FOUND LAND OF VIRIGINA, by Thomas Herriot (1590) [Public domain image]"
 titleh1: "Southeastern Native Americans"
 ---

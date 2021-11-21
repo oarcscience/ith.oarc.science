@@ -1,7 +1,7 @@
----
-title: "Zoroastrian Sacred Texts"
-titleh1: "Zoroastrianism"
----
+
+# Zoroastrian Sacred Texts
+<title>Intangible Textual Heritage: Zoroastrianism</title>
+
 [The Zend-Avesta](#avesta)  [Pahlavi Texts](#pahlavi)  [Links](#links.md) 
 
 Zoroastrianism, in spite of its small current number of adherents, has

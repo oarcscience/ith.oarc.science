@@ -1,6 +1,6 @@
----
-title: "ith.oarc.science: Privacy Policy"
----
+
+# ith.oarc.science: Privacy Policy
+
  
 
 ### Privacy Policy

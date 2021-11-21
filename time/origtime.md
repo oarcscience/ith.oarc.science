@@ -1,7 +1,7 @@
----
+
 margcss: margcss
-title: "Origin of Major Religions"
----
+# Origin of Major Religions
+
 [Sacred Time index](index)  [Timeline of Sacred Texts](timeline.md) 
 
 ------------------------------------------------------------------------

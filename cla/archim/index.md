@@ -1,5 +1,5 @@
 ---
-title: "The Works of Archimedes"
+# The Works of Archimedes
 categories: ' <A HREF="../index">Classics</A>&nbsp;'
 pathh1: "archim.jpg"
 alttext1: "Archimedes (public domain image)"

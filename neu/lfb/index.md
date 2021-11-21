@@ -1,7 +1,7 @@
----
-title: "Sacred-Texts: Lang Fairy Books"
-titleh1: "Lang Fairy Books"
----
+
+# Sacred-Texts: Lang Fairy Books
+<title>Intangible Textual Heritage: Lang Fairy Books</title>
+
 This part of sacred-texts is devoted to the 'Colored' Fairy Books
 compiled by Andrew Lang. Currently, we have the complete text of this
 series. We are in the process of adding page numbering and illustrations

@@ -163,7 +163,7 @@ unusual rhythm as though an electric charge was passing through
 them. Or as one scientist suggested, "as if they formed some
 part of an electrical circuit." At some time, they had clearly
 been exposed to extraordinarily high voltages.
----
+
 ------------------------------------------------------------------------
 
 [Next: The Mysterious Chupacabras](chupacab.md)

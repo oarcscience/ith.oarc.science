@@ -1,7 +1,7 @@
----
-title: "Sacred Texts: Wisdom of the East"
-titleh1: "Wisdom of the East"
----
+
+# Sacred Texts: Wisdom of the East
+<title>Intangible Textual Heritage: Wisdom of the East</title>
+
 This page spotlights the books in the series The Wisdom of the East,
 most of which were published in the first two decades of the twentieth
 century under the editorship of L. Cranmer-Byng and S.A. Kapadia. We are

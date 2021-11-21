@@ -1,7 +1,7 @@
----
-title: "Popular Tales of the West Highlands, by J.F. Campbell"
-titleh1: "Popular Tales of the West Highlands"
----
+
+# Popular Tales of the West Highlands, by J.F. Campbell
+<title>Intangible Textual Heritage: Popular Tales of the West Highlands</title>
+
 <span class="c_e"> <span class="c_t">[Popular Tales of the West
 Highlands, Vol. I](pt1/index.md)</span>   by <span class="c_a">J. F.
 Campbell</span> \[<span class="c_d">1890</span>\]  

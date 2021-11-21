@@ -1,7 +1,7 @@
 ---
 title: "St. Augustine Index"
 alttext1: "St. Ausutine"
-titleh1: "St. Augustine"
+<title>Intangible Textual Heritage: St. Augustine</title>
 ---
 This page indexes books by St. Augustine at Intangible Textual Heritage.
 

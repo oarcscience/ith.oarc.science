@@ -1,6 +1,6 @@
----
-title: "Thelema Texts"
----
+
+# Thelema Texts
+
   
 [Esoteric](../eso/index)  [Neopaganism](../pag/index.md)  [OCRT -
 Thelema](https://www.religioustolerance.org/thelema.md)  

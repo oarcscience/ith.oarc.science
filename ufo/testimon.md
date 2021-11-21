@@ -69,7 +69,7 @@ the Committee for the Scientific Investigation of Claims of the
 Paranormal, 3965 Rensch Road, Buffalo, NY 14228, published quarterly
 with a membership/subscription rate of $25/yr.)
 
----
+
 Much of the evidence relating to paranormal phenomena consists of
 eyewitness testimony. However, a large body of experimental research has
 shown that such testimony can be extremely unreliable. For example, in

@@ -588,7 +588,7 @@ acceptance or rejection, one may well burst out in laughter!"
 
 
 
----
+
 Nam kay tar tug ta yay sem chan nam May all beings, whose number is as
 infinite as the sky, --- Ma bed zhin du ku sum ngon gyur te Realize the
 Three Bodies of the Buddha --- Pa ma dro drug sem chan ma lu pa May my

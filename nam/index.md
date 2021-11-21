@@ -1,6 +1,6 @@
 ---
 keywords: "Native American Indian Maya Inca Sioux Cherokee Iroquois Inuit Walum Olum Zuni"
-title: "Sacred Texts: Native American"
+# Sacred Texts: Native American
 pathh1: "prayer.jpg"
 titleh1: "Native American Religions"
 ---

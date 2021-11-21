@@ -1,7 +1,7 @@
----
-title: "Texts of Judaism"
-titleh1: "Judaism"
----
+
+# Texts of Judaism
+<title>Intangible Textual Heritage: Judaism</title>
+
 [Tanakh](#tanakh)  [Talmud](#talmud)  [Haggada](#haggada.md) 
 [Kabbalah](#kabbalah)  [Midrash](#midrash)  [Haggadah](#haggadah.md) 
 [Prayer Books (Siddur)](#siddur)  [Ancient/Medieval](#other.md) 

@@ -453,7 +453,7 @@ appointed to the Congressional Committee for the 2003 Wright Brothers
 Centennial.  Smith is currently doing research for a forthcoming book
 cataloging early American heavier-than-air flying machines.]
 
----
+
 ------------------------------------------------------------------------
 
 [Next: Eyewitness Testimony and the Paranormal](testimon.md)

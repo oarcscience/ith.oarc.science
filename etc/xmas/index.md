@@ -1,11 +1,11 @@
 ---
-description: "Christmas texts, at Intangible Textual Heritage"
+<meta name="description" content="Christmas texts, at Intangible Textual Heritage">
 title: "Christmas Texts"
 categories: ' <A HREF="../index">Miscellaneous</A>&nbsp;'
 pathh1: "santa.jpg"
 alttext1: "Santa by Thomas Nast, Harper's Weekly Jan. 1. 1881, p. 8-9 (Public domain)"
 titleh1: "Christmas Texts"
----
+
 This page indexes resources at Intangible Textual Heritage relating to
 the Christmas holiday.
 

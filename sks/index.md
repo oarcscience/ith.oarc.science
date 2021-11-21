@@ -1,4 +1,4 @@
----
+
 title: "Shakespeare Index"
 alttext1: "William Shakespeare"
 titleh1: "Shakespeare"

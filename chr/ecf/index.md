@@ -2,7 +2,7 @@
 title: "Early Church Fathers"
 pathh1: "staug.jpg"
 titleh1: "Early Church Fathers"
----
+
 This section of sacred-texts presents a comprehensive collection of
 early Christian writings.
 

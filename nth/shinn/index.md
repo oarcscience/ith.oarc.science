@@ -1,7 +1,7 @@
----
-title: "Works of Florence Scovel Shinn"
-titleh1: "Works of Florence Scovel Shinn"
----
+
+# Works of Florence Scovel Shinn
+<title>Intangible Textual Heritage: Works of Florence Scovel Shinn</title>
+
 [Texts](#texts.md)
 
 ------------------------------------------------------------------------

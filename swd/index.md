@@ -1,7 +1,7 @@
----
-title: "Swedenborg"
-titleh1: "Swedenborg"
----
+
+# Swedenborg
+<title>Intangible Textual Heritage: Swedenborg</title>
+
 Emanuel Swedenborg (1688-1772) was a Swedish philosopher and scientist
 who, at 56, had a spiritual awakening and wrote numerous books on his
 theological views and related topics. He advocated a version of

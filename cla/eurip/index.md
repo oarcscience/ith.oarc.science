@@ -1,4 +1,4 @@
----
+
 title: "The Dramas of Euripides"
 alttext1: ""
 titleh1: "The Dramas of Euripides"

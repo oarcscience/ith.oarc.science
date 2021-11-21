@@ -1,4 +1,4 @@
----
+
 title: "How to prepare content"
 ---
 ### HOW TO PREPARE CONTENT FOR SACRED-TEXTS.COM

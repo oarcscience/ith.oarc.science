@@ -1,4 +1,4 @@
----
+
 keywords: "Hopi Religion Spirituality Indian Native American"
 title: "The Hopi"
 titleh1: "Hopi Religion"

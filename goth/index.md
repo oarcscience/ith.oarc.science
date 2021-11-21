@@ -2,7 +2,7 @@
 keywords: "Gothic Vampire Vampyre Byron Shelley Wollstonecraft Dracula Frankenstein Buffy"
 title: "Gothic Texts"
 titleh1: "Gothic Texts"
----
+
 Gothic refers to a Romantic literary style which can include
 supernatural aspects, particularly vampires. This is because many of
 these stories are set in locales with Gothic architecture. This page

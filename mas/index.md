@@ -1,7 +1,7 @@
----
-title: "Freemasonry"
-titleh1: "Freemasonry"
----
+
+# Freemasonry
+<title>Intangible Textual Heritage: Freemasonry</title>
+
 The Internet has long been home to all kinds of sites about Freemasonry,
 *pro* and *con*. However, it has been hard to find reliable, vetted
 information on the web on this topic. This page has electronic editions

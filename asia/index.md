@@ -1,7 +1,7 @@
----
-title: "Asia"
-titleh1: "Asian Traditional People"
----
+
+# Asia
+<title>Intangible Textual Heritage: Asian Traditional People</title>
+
 This page links together resources at Intangible Textual Heritage
 pertaining to traditional people of Asia, including Siberia and
 Southeast Asia.

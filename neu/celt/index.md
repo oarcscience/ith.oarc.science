@@ -1,7 +1,7 @@
----
-title: "Celtic Folklore"
-titleh1: "Celtic Folklore"
----
+
+# Celtic Folklore
+<title>Intangible Textual Heritage: Celtic Folklore</title>
+
 [Ireland](#ireland)  [Wales](#wales)  [Scotland](#scotland.md) 
 [Brittany](#brittany)  [Cornwall](#cornwall)  [Manx](#manx.md) 
 [Fairies](#fairies)  [General](#general)  [Links](#links.md)

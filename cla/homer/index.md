@@ -1,5 +1,5 @@
 ---
-title: "Homer"
+# Homer
 titleh1: "The Works of Homer"
 ---
 [Works of Homer](#homer)   [Homerica](#homerica.md)

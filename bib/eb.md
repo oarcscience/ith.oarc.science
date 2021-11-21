@@ -1,7 +1,7 @@
----
-title: "Additional English Bible"
-titleh1: "English Bibles"
----
+
+# Additional English Bible
+<title>Intangible Textual Heritage: English Bibles</title>
+
 This page has links to English translations of the Bible at Intangible
 Textual Heritage. These files (except for the KJV) were derived from
 data provided by the [The Unbound

@@ -1,6 +1,6 @@
----
-title: "Works of Frater Achad"
----
+
+# Works of Frater Achad
+
 [Thelema](../index.md)
 
 ------------------------------------------------------------------------

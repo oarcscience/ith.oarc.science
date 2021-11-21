@@ -1,8 +1,8 @@
 ---
-description: "Sacred Texts: Comparative Religion, Mythology and Folklore"
+<meta name="description" content="Sacred Texts: Comparative Religion, Mythology and Folklore">
 title: "Sacred Texts: Comparative Religion, Mythology and Folklore"
 categories: ' <BR>'
-titleh1: "Comparative Religion, Mythology and Folklore"
+<title>Intangible Textual Heritage: Comparative Religion, Mythology and Folklore</title>
 ---
 This page provides resources at Intangible Textual Heritage which
 compare two or more religions. This page also indexes comparative

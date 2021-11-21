@@ -1,5 +1,5 @@
 ---
-title: "List of gaps in Septuagint verse and chapter numbering"
+# List of gaps in Septuagint verse and chapter numbering
 ---
 <span class="p-small2"> </span>
 

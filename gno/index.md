@@ -1,7 +1,7 @@
----
-title: "Gnosticism"
-titleh1: "Gnosticism and Hermetica"
----
+
+# Gnosticism
+<title>Intangible Textual Heritage: Gnosticism and Hermetica</title>
+
 This page indexes resources about Gnosticism, the Hermetica, and other
 related belief systems at Intangible Textual Heritage.
 

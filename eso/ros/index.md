@@ -1,7 +1,7 @@
----
-title: "Rosicrucian Texts"
-titleh1: "Rosicrucian Texts"
----
+
+# Rosicrucian Texts
+<title>Intangible Textual Heritage: Rosicrucian Texts</title>
+
 These texts are historical documents relating to the 'Brotherhood of the
 Rosy Cross', a renaissance German secret society. This group had a huge
 impact on more recent organizations such as the Golden Dawn, and is

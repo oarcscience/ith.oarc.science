@@ -1,7 +1,7 @@
----
-title: "Sacred Texts: Baha'i texts"
-titleh1: "Baha'i"
----
+
+# Sacred Texts: Baha'i texts
+<title>Intangible Textual Heritage: Baha'i</title>
+
 ### Formatted texts
 
 <span class="c_e"> <span class="c_t">[The Kitab-i-Aqdas](aqdas.md)</span>

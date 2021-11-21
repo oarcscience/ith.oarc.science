@@ -1,6 +1,6 @@
 ---
 keywords: "Cherokee Tsagali"
-title: "Cherokee Religion"
+# Cherokee Religion
 titleh1: "The Cherokee"
 ---
 <span class="c_e"> <span class="c_t">[Sacred Formulas of the

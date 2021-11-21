@@ -1,6 +1,6 @@
----
-title: "Utopia/Dystopia"
----
+
+# Utopia/Dystopia
+
 |                                        |
 |----------------------------------------|
 | <img src="utopia.jpg" width="250" />   |

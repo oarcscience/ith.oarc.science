@@ -1,8 +1,8 @@
 ---
-title: "The Writings of Rabindranath Tagore"
+# The Writings of Rabindranath Tagore
 pathh1: "img/tagore.jpg"
-titleh1: "The Writings of Rabindranath Tagore"
----
+<title>Intangible Textual Heritage: The Writings of Rabindranath Tagore</title>
+
 Rabindranath Tagore (1861-1941) was a Bengali poet, philosopher, artist,
 playwright, composer and novelist. India's first Nobel laureate, Tagore
 won the 1913 Nobel Prize for Literature. He composed the text of both

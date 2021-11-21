@@ -1,8 +1,8 @@
----
-title: "Records of the Past"
+
+# Records of the Past
 categories: ' <A HREF="../index">Ancient Near East</A>&nbsp; <A HREF="../../egy/index">Ancient Egypt</A>&nbsp;'
-titleh1: "Records of the Past"
----
+<title>Intangible Textual Heritage: Records of the Past</title>
+
 This is the index page for the series Records of the Past, which
 published translations of Near Eastern and Ancient Egyptian texts at the
 end of the 19th century.

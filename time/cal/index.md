@@ -1,6 +1,6 @@
----
-title: "Sacred Calendar Systems"
----
+
+# Sacred Calendar Systems
+
 ------------------------------------------------------------------------
 
 <span class="p-small"> <span class="p-small2"> </span></span>

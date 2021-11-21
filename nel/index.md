@@ -1,6 +1,6 @@
----
-title: "Paleolithic Cave Paintings"
----
+
+# Paleolithic Cave Paintings
+
 |                                |
 |--------------------------------|
 | **Paleolithic Cave Paintings** |

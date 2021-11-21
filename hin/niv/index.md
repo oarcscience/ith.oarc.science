@@ -1,5 +1,5 @@
 ---
-title: "Writings of Sister Nivedita (Margaret Noble)"
+# Writings of Sister Nivedita (Margaret Noble)
 pathh1: "nivedita.jpg"
 titleh1: "The Writings of Sister Nivedita (Margaret E. Noble)"
 ---

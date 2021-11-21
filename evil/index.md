@@ -1,6 +1,6 @@
----
-title: "Sacred Texts: Evil"
----
+
+# Sacred Texts: Evil
+
 <table width="75%">
 <colgroup>
 <col style="width: 50%" />

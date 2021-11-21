@@ -1,7 +1,7 @@
 ---
-description: "Sacred Texts of Hinduism; complete translation of the Rig-Veda, transcribed Sanskrit Rig-Veda, Max Mullers' translation of the Upanishads, the Bhaghavad Gita, and other Hinduism texts."
+<meta name="description" content="Sacred Texts of Hinduism; complete translation of the Rig-Veda, transcribed Sanskrit Rig-Veda, Max Mullers' translation of the Upanishads, the Bhaghavad Gita, and other Hinduism texts.">
 title: "Sacred-Texts: Hinduism"
----
+
 <table width="75%">
 <colgroup>
 <col style="width: 50%" />

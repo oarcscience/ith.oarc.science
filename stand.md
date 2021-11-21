@@ -1,6 +1,6 @@
----
-title: "Intangible Textual Heritage: Document Coding Standards"
----
+
+# Intangible Textual Heritage: Document Coding Standards
+
  
 
 ### Document Encoding Standards

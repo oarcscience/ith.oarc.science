@@ -1,7 +1,7 @@
----
-title: "English Folklore"
-titleh1: "England"
----
+
+# English Folklore
+<title>Intangible Textual Heritage: England</title>
+
 [Folklore](#folklore)  [Chronicles](#history.md)  [Geoffrey
 Chaucer](#chaucer)  [Wiliam Blake](#blake)  [Wiliam Morris](#morris.md) 
 [Fairies](#fairies)  [Ley Lines](#leylines)  [Stonehenge](#stonehenge.md) 

@@ -1,6 +1,6 @@
----
-title: "Enochian Magic"
----
+
+# Enochian Magic
+
 <span class="p-small2"> [Internet Book of Shadows](../../bos/index.md) 
 [Esoteric/Occult](../index.md)  </span>
 

@@ -1,7 +1,7 @@
----
-title: "William Butler Yeats "
-titleh1: "William Butler Yeats"
----
+
+# William Butler Yeats 
+<title>Intangible Textual Heritage: William Butler Yeats</title>
+
 William Butler Yeats (born 1865, died 1939), a key figure in the Celtic
 literary revival at the turn of the 20th Century, also moved in occult
 circles and knew many of the key figures of the Golden Dawn. He served

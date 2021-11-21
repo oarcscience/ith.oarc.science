@@ -1,7 +1,7 @@
----
-title: "Works of Charles Darwin"
-titleh1: "Works of Charles Darwin"
----
+
+# Works of Charles Darwin
+<title>Intangible Textual Heritage: Works of Charles Darwin</title>
+
 <span class="c_da"></span> <span class="c_e"><span class="c_t">[Origin
 of Species](origin/index.md)</span> \[<span class="c_d">1872</span>\]
 </span>

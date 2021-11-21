@@ -1,5 +1,5 @@
 ---
-title: "ith.oarc.science: Etext Bibliography"
+# ith.oarc.science: Etext Bibliography
 ---
  
 

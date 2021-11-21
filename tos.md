@@ -1,6 +1,6 @@
 ---
 title: "Intangible Textual Heritage: Terms of Service"
----
+
  
 
 ### Terms of Service

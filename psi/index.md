@@ -1,7 +1,7 @@
----
-title: "Intangible Textual Heritage: Parapsychology"
-titleh1: "Parapsychology"
----
+
+# Intangible Textual Heritage: Parapsychology
+<title>Intangible Textual Heritage: Parapsychology</title>
+
 This page indexes resources at this site about parapsychology (the study
 of ESP), including telepathy, clairvoyance, and other psychic phenomena.
 

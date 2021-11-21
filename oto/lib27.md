@@ -29,7 +29,7 @@ and the Yang
 
 \*  
 \*  
----
+
 
 > Now cometh the glory of the Single One, as an imperfection and stain.
 
@@ -67,7 +67,7 @@ and the Yang
 
 \*  
 ---  
----
+
 
 > Now then a giant arose, of terrible strength; and asserted the Spirit
 > in a secret rite.
@@ -81,7 +81,7 @@ and the Yang
 
 \*  
 - -  
----
+
 
 > Against him the Brothers of the Left-hand Path, confusing the symbols.
 > They concealed their horror \[in this symbol\]; for in truth they were
@@ -100,7 +100,7 @@ and the Yang
 
 ---  
 \*  
----
+
 
 > Also certain secret ones concealed the Light of Purity in themselves,
 > protecting it from the Persecutions.
@@ -114,7 +114,7 @@ and the Yang
 
 \- -  
 \*  
----
+
 
 > But the Enemy confused them. They pretended to conceal that Light,
 > that they might betray it, and profane it.
@@ -155,7 +155,7 @@ and the Yang
 
 ---  
 ---  
----
+
 
 > Then only was Heaven established to bear sway; for only in the lowest
 > corruption is form manifest.
@@ -168,13 +168,13 @@ and the Yang
 
 ---  
 - -  
----
+
 
 > And in soft light.
 
 \- -  
 ---  
----
+
 
 > Then were the waters gathered together from the heaven,
 
@@ -192,7 +192,7 @@ and the Yang
 
 \- -  
 - -  
----
+
 
 > And men began to light fires upon the earth.
 

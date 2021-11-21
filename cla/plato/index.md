@@ -1,4 +1,4 @@
----
+
 title: "Dialogues of Plato"
 categories: ' <A HREF="../index">Classics</A>&nbsp;'
 pathh1: "schath.jpg"

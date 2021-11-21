@@ -114,7 +114,7 @@ Peace and Happiness.
 ___
  X WinQwk 2.0 a#0 X Unregistered Evaluation Copy
 
----
+
 \* Origin: \*\* So many Pleiadian women..so little time :-) \*\*
 (88:4205/1.1)
 ------------------------------------------------------------------------

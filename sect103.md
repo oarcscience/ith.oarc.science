@@ -1,4 +1,4 @@
----
+
 title: "Collection Copyright"
 ---
 <span class="p-small2"> [Index](index)  [About](about.md) 

@@ -1,6 +1,6 @@
----
-title: "Index of Journal Articles"
----
+
+# Index of Journal Articles
+
 ------------------------------------------------------------------------
 
 |                      |

@@ -1,7 +1,7 @@
----
-title: "Tarot"
-titleh1: "The Tarot"
----
+
+# Tarot
+<title>Intangible Textual Heritage: The Tarot</title>
+
 The best known Tarot deck is the
 [Rider-Waite-Smith](https://www.amazon.com/exec/obidos/ASIN/0880796863/internetsacredte.md)
 deck. There are hundreds of others, but the images of the RWS Tarot are

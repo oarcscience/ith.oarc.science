@@ -1,6 +1,6 @@
 ---
-title: "Christian Texts"
-description: "Christian Texts at Sacred-Texts.com"
+# Christian Texts
+<meta name="description" content="Christian Texts at Sacred-Texts.com">
 keywords: "Christianity Christian Bible Apocrypha Hermetica Catholicism Protestantism"
 titleh1: "Christianity"
 ---

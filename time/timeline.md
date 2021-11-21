@@ -1,6 +1,6 @@
----
-title: "Sacred Texts Timeline"
----
+
+# Sacred Texts Timeline
+
 [![](../cdshop/ithlogo.png)](../index.md)
 
 ------------------------------------------------------------------------

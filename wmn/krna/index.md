@@ -1,6 +1,6 @@
----
-title: "The Koranna of Mother Goddess, Index"
----
+
+# The Koranna of Mother Goddess, Index
+
 <span class="p-small2"> </span>
 
 [Women](../index.md)

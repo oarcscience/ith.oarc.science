@@ -1,7 +1,7 @@
----
-title: "Western Esoteric Texts"
-titleh1: "Esoteric and Occult"
----
+
+# Western Esoteric Texts
+<title>Intangible Textual Heritage: Esoteric and Occult</title>
+
 This page indexes resources at this site in the Western Esoteric
 tradition. There is much more related to this topic at this site, listed
 [below](#_xrefs.md).

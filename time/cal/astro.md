@@ -1,6 +1,6 @@
----
-title: "Plantary Positions"
----
+
+# Plantary Positions
+
 [![](../../cdshop/ithlogo.png)](../../index.md)
 
 ------------------------------------------------------------------------

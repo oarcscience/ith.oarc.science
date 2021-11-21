@@ -1,7 +1,7 @@
----
-title: "Sacred Texts: Unity"
-titleh1: "Unity Church"
----
+
+# Sacred Texts: Unity
+<title>Intangible Textual Heritage: Unity Church</title>
+
 These are the key writings of the Unity Church, a major New Thought
 movement. Most of the early writings of Charles Fillmore, the founder of
 Unity, are in the public domain in the US because they were not renewed

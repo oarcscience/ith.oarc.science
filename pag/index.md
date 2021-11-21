@@ -1,6 +1,6 @@
----
-title: "Sacred Texts: Wicca and Neo-Paganism"
----
+
+# Sacred Texts: Wicca and Neo-Paganism
+
   
 [Internet Book of Shadows](../bos/index)  [Grimoires](../grim/index.md) 
 [Esoteric and Occult](../eso/index)  [Legends and Sagas](../neu/index.md) 

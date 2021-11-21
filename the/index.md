@@ -5,7 +5,7 @@ categories: ' <BR> <A HREF="../atl/index">Atlantis</A>&nbsp; <A HREF="../bud/ind
 pathh1: "hpb.jpg"
 alttext1: "H.P. Blavatsky"
 titleh1: "Theosophy"
----
+
 <span class="c_e"> <span class="c_t">[Isis Unveiled](iu/index.md)</span>  
 by <span class="c_a">Helena P. Blavatsky</span> \[<span
 class="c_d">1877</span>\]  

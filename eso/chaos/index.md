@@ -1,6 +1,6 @@
----
-title: "Chaos Magic"
----
+
+# Chaos Magic
+
 <span class="p-small2"> [Esoteric and Occult](../index.md)   
 [Mark Chaos' Website \[External Site\]](https://jaq.chaosmagic.com.md) 
 </span>

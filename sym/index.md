@@ -1,7 +1,7 @@
----
-title: "Intangible Textual Heritage: Symbols"
-titleh1: "Symbols"
----
+
+# Intangible Textual Heritage: Symbols
+<title>Intangible Textual Heritage: Symbols</title>
+
 One of the key markers of intelligence is the ability to manipulate
 symbolic thought. Symbols are found in mythology and folklore worldwide,
 and here are some books at this site on this topic.

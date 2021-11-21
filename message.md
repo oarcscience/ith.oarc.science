@@ -1,7 +1,7 @@
----
-title: "Message"
-title: "Message"
----
+
+# Message
+# Message
+
 <span class="p-small2"> [Index](index)  [About](about.md) 
 [Bibliography](stbib)  [Books](books)  [Copyrights](cnote.md) 
 [Contact](contact)  [Donate](donate.md)   

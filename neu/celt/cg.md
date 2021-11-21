@@ -1,7 +1,7 @@
----
-title: "The Carmina Gadelica by Alexander Carmicheal"
-titleh1: "The Carmina Gadelica"
----
+
+# The Carmina Gadelica by Alexander Carmicheal
+<title>Intangible Textual Heritage: The Carmina Gadelica</title>
+
 # The Carmina Gadelica
 
 ### by Alexander Carmicheal

@@ -1,7 +1,7 @@
----
-title: "Taoist Texts"
-titleh1: "Taoism"
----
+
+# Taoist Texts
+<title>Intangible Textual Heritage: Taoism</title>
+
 These are principal texts of Taoism. Taoism, along with Confucianism and
 Buddhism was one of the principal religions of feudal China.
 

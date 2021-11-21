@@ -1,11 +1,11 @@
 ---
-description: "Sacred Texts: Alchemy"
+<meta name="description" content="Sacred Texts: Alchemy">
 keywords: "Alchemy Paracelsus Esoteric"
 title: "Alchemy Index"
 pathh1: "img/alc.jpg"
 alttext1: "Mutus Liber, pl. 2, detail, (18th cent.) public domain image"
 titleh1: "Alchemy"
----
+
 Although the alchemists' fundamental goal of elemental transmutation was
 flawed, on a deeper level the work of alchemy (cloaked in allegorical
 images) also represented the transformation of the soul. Modern science

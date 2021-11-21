@@ -1,7 +1,7 @@
----
-title: "Confucian Documents"
-titleh1: "Confucianism and Traditional Chinese beliefs"
----
+
+# Confucian Documents
+<title>Intangible Textual Heritage: Confucianism and Traditional Chinese beliefs</title>
+
 ## The Chinese Classics
 
 These are key texts of Confucianism, the traditional state religion of

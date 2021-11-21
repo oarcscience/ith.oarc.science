@@ -1,6 +1,6 @@
----
-title: "The Age of Reason"
----
+
+# The Age of Reason
+
 What if God doesn't exist? What if humanity is not the center of the
 universe? What if there is no absolute truth? Here are some texts by
 free-thinking pioneers of our era that address these questions.

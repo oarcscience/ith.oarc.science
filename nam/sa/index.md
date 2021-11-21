@@ -1,5 +1,5 @@
 ---
-title: "Religions of Native South Americans"
+# Religions of Native South Americans
 ---
 |                            |
 |----------------------------|

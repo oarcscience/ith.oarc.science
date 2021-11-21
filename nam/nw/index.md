@@ -1,4 +1,4 @@
----
+
 title: "Religions of Northwestern Native Americans"
 categories: ' <A HREF="../index">Native American</A>'
 ---

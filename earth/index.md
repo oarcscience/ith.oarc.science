@@ -1,7 +1,7 @@
----
-title: "Earth Mysteries"
-titleh1: "Earth Mysteries"
----
+
+# Earth Mysteries
+<title>Intangible Textual Heritage: Earth Mysteries</title>
+
 [General](#general.md)  
 [Shape](#shape): [Flat](#flat) \|  [Hollow](#hollow.md)  
 [Ancient Monuments](#monuments) \|  [Legendary Creatures](#animals.md) \| 

@@ -1,7 +1,7 @@
 ---
 title: "Virgil"
 pathh1: "aeneas.jpg"
-titleh1: "The Works of Virgil"
+<title>Intangible Textual Heritage: The Works of Virgil</title>
 ---
 <span class="c_da"></span>
 

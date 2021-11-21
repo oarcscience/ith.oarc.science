@@ -1,4 +1,4 @@
----
+
 title: "Shinto Documents"
 ---
 [Japan](../index.md)  

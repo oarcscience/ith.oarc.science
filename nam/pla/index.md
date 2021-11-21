@@ -1,7 +1,7 @@
----
-title: "Plains Native American Religion"
+
+# Plains Native American Religion
 pathh1: "offer.jpg"
-titleh1: "Plains Native American Religion"
+<title>Intangible Textual Heritage: Plains Native American Religion</title>
 ---
 This index has links to resources at Intangible Textual Heritage about
 religion, spiritual practices, and folklore of Native Americans of the

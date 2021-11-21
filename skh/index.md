@@ -1,6 +1,6 @@
----
-title: "Sikh Texts"
----
+
+# Sikh Texts
+
 <span class="p-small2"> </span>
 
   

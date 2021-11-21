@@ -1,7 +1,7 @@
----
+
 title: "Sappho"
-titleh1: "Sappho"
----
+<title>Intangible Textual Heritage: Sappho</title>
+
 Usually paired with Homer as one of the two greatest ancient Greek
 poets, Sappho's poety has come down to us only in fragments. Even these
 fragments are so evocative, however, that Sappho has become a mirror
