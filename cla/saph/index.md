@@ -1,8 +1,5 @@
 ---
 title: "Sappho"
-categories: ' <A HREF="../index">Classics</A>&nbsp;'
-pathh1: "sappho.jpg"
-alttext1: "Frontispiece to Mary Robinson translation of Sappho [1796] (Public Domain Image)"
 titleh1: "Sappho"
 ---
 Usually paired with Homer as one of the two greatest ancient Greek

@@ -1,9 +1,6 @@
 ---
 description: "Sacred Texts: Atlantis"
-keywords: "Atlantis Mu Lemuria Atlantean Hyperborea Daitya Ruta Poseidonis Dzyan Vril Plato Ignatius Donnelly Hapgood Cayce Von Daniken Zecharia Sitchen Piri Reis Bimini Deluge Flood Antediluvian Thera Santorini Sir Edward Bulwer-Lytton Helena Blatavsky Scott-Elliot It was a dark and stormy night"
 title: "Sacred Texts: Atlantis"
-categories: ' <BR> <A HREF="../eso/index">Esoteric &amp; Occult</A>&nbsp; <A HREF="../piri/index">Piri Re'is Map</A><BR>'
-pathh1: "vesuvius.jpg"
 alttext1: ""
 titleh1: "Atlantis"
 ---

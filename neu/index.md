@@ -1,10 +1,5 @@
 ---
-description: "Sacred Texts: Legends and Sagas"
-keywords: "Kalevala Finland Celtic Anglo-Saxon Iceland Germany Mythology Pagan Iceland Ireland Wales Mabinogion Cooley Burnt Njal Edda Eddas Voluspa Volsung Saga Beowulf Nibelungenlied Wagner Odin Wotan Thor Loki Baldur Vallhalla Valkure Ragnarok"
 title: "Sacred Texts: Legends and Sagas"
-categories: ' <BR> <A HREF="../pag/index">Neo-Paganism</A>&nbsp; <A HREF="../cla/index">Classical Mythology</A>&nbsp; <A HREF="../ring/index">Lord of the Rings</A><BR>'
-pathh1: "grail01.jpg"
-alttext1: "Grail Maiden: Public Domain Image by Arthur Rackham"
 titleh1: "Legends and Sagas"
 ---
 [General](#comp)  [Northern European](#neu)  [Arabia](#arabia.md) 

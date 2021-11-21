@@ -1,9 +1,6 @@
 ---
 
 title: "Religions of Southwestern Native Americans"
-categories: ' <A HREF="../index">Native American</A>'
-pathh1: "zuni.jpg"
-alttext1: "Zuni dancers: detail of photograph by Edward Curtis: 1914, [public domain]"
 titleh1: "Southwestern Native Americans"
 ---
 This index has links to resources at Intangible Textual Heritage about

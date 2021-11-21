@@ -1,5 +1,4 @@
 ---
-description: "Works of Hesiod at Intangible Textual Heritage"
 keywords: "Hesiod Theogony Goddess Pagan Classics Classical Mythology Greek"
 title: "Hesiod"
 categories: ' <A HREF="../index">Classics</A>&nbsp; <A HREF="../homer/index">Homer</A>&nbsp;'

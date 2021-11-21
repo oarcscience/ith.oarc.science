@@ -1,10 +1,5 @@
 ---
-description: "Sacred Texts: Astrology and Sky Lore"
-keywords: "Sky Lore Astronomy Folklore Mythology Moon Mars Planets Stars"
 title: "Astrology"
-categories: ' <BR>'
-pathh1: "astro.jpg"
-alttext1: "Dust Pillars (Hubble image) and Harmonia Macrocosmica, A. Cellarius [1660]. Collage (c) 2006 J.B. Hare"
 titleh1: "Astrology and Sky Lore"
 ---
 This page indexes resources related to the lore of the sky, and

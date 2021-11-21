@@ -1,10 +1,6 @@
 ---
-description: "Sacred Texts: Cherokee"
 keywords: "Cherokee Tsagali"
 title: "Cherokee Religion"
-categories: ' <A HREF="../index">Native American</A>&nbsp; <A HREF="../se/index">Southeastern</A>&nbsp;'
-pathh1: "sequoyah.jpg"
-alttext1: "Sequoyah, the inventor of the Cherokee alphabet (public domain image)"
 titleh1: "The Cherokee"
 ---
 <span class="c_e"> <span class="c_t">[Sacred Formulas of the

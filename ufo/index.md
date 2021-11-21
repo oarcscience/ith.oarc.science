@@ -1,10 +1,5 @@
 ---
-description: "Sacred Texts: UFOs"
-keywords: "grey mib sacred texts ufo spirituality xfiles"
 title: "The UFO Files Index"
-categories: ' <BR> <A HREF="../eso/index">Esoteric &amp; Occult</A> &nbsp; <A HREF="../myst">Mysteries</A><BR>  &nbsp;  <BR>'
-pathh1: "ww2ufo2.jpg"
-alttext1: "Image Copyright (c) 2007, J.B. Hare"
 titleh1: "The UFO Files"
 ---
 <span class="c_e"> <span class="c_t">[From India to the Planet

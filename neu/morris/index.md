@@ -1,10 +1,5 @@
 ---
-description: "William Morris at Intangible Textual Heritage"
-keywords: "William Morris Literature Poetry Drama Arts Crafts England English Celtic"
 title: "William Morris"
-categories: ' <A HREF="../index">Legends and Sagas</A>&nbsp; <A HREF="../eng/index">England</A>'
-pathh1: "guin.jpg"
-alttext1: "Guinevere [1857] -- William Morris"
 titleh1: "The Works of William Morris"
 ---
 [The Earthly Paradise](#ep)  [Translations from the Sagas](#saga.md) 

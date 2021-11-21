@@ -1,9 +1,5 @@
 ---
-description: "St. Thomas Aquinas at Intangible Textual Heritage"
-keywords: "St Thomas Aquinas Catholic Theology Summa Theologica"
 title: "St. Thomas Aquinas"
-categories: ' <A HREF="../index">Christianity</A>'
-pathh1: "aquinas.jpg"
 alttext1: "St. Thomas Aquinas, by Fra Angelico [13th cent.] File from wikimedia. This image is in the public domain in the US."
 titleh1: "St. Thomas Aquinas"
 ---

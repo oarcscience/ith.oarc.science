@@ -1,8 +1,5 @@
 ---
 title: "Rosicrucian Texts"
-categories: ' <A HREF="../index">Esoteric</A>&nbsp; <A HREF="../../sro/index">Sub Rosa</A> <BR> <A HREF="../../index">Buy CD-ROM</A>'
-pathh1: "fama.jpg"
-alttext1: "The Fama Fraternitatis: public domain image"
 titleh1: "Rosicrucian Texts"
 ---
 These texts are historical documents relating to the 'Brotherhood of the

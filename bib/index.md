@@ -1,8 +1,5 @@
 ---
 title: "The Hypertext Bible"
-categories: ' <BR> <A HREF="../chr/index">Christianity</A>&nbsp; <A HREF="../chr/apo/index">Apocrypha</A>&nbsp; <A HREF="../jud/index">Judaism</A>&nbsp; <A HREF="../isl/index">Islam</A>&nbsp; <A HREF="../isl/htq/index">Hypertext Qur'an</A>&nbsp; <A HREF="../wmn/wb/index">Woman's Bible</A><BR>  0'
-pathh1: "kells.jpg"
-alttext1: ""
 titleh1: "The Hypertext Bible"
 ---
 -   [Hypertext Bible Table](#index.md)

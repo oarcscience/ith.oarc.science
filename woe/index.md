@@ -1,10 +1,5 @@
 ---
-description: "Sacred Texts: Wisdom of the East"
-keywords: "Hinduism Buddhism Taoism Confucianism Sikhism Judaism"
 title: "Sacred Texts: Wisdom of the East"
-categories: ''
-pathh1: "sun.jpg"
-alttext1: "Logo of the Wisdom of the East"
 titleh1: "Wisdom of the East"
 ---
 This page spotlights the books in the series The Wisdom of the East,

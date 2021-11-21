@@ -1,10 +1,5 @@
 ---
-description: "Sacred Texts: Gnosticism"
-keywords: "Gnostic Gnosticism Christianity Hermetica"
 title: "Gnosticism"
-categories: ' <BR> <A HREF="../chr/index">Christianity</A>&nbsp; <A HREF="../chr/apo/index">Apocrypha</A>&nbsp; <A HREF="../sro/index">Sub Rosa</A> <BR>'
-pathh1: "angel.jpg"
-alttext1: "Dantis Amore, by Dante Gabriel Rossetti [1859-60] (Public Domain Image)"
 titleh1: "Gnosticism and Hermetica"
 ---
 This page indexes resources about Gnosticism, the Hermetica, and other

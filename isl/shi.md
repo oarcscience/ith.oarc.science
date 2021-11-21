@@ -1,9 +1,5 @@
 ---
 title: "Shiite Translations"
-description: "Shiite Translations at Intangible Textual Heritage"
-keywords: "Islam Islamic Mohammed Koran Qur'an Shiia Shiite"
-categories: ' <BR>'
-pathh1: "islam.jpg"
 alttext1: "Five Pillars: Image &copy Copyright J.B. Hare 1999, All Rights Reserved"
 titleh1: "Shiite Documents"
 ---

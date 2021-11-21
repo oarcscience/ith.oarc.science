@@ -1,8 +1,5 @@
 ---
 title: "Taoist Texts"
-categories: ' <BR> <A HREF="../cfu/index">Confucianism</A>&nbsp; <A HREF="../ich/index">I Ching</A>&nbsp; <A HREF="../bud/index">Buddhism</A>&nbsp;<BR> <A HREF="../cfu/etc/index">Articles: Traditional Chinese Religion</A>  <A HREF="https://www.religioustolerance.org/taoism">OCRT: Taoism</A><BR>'
-pathh1: "yinyang.jpg"
-alttext1: "Image &copy Copyright J.B. Hare 1999, All Rights Reserved"
 titleh1: "Taoism"
 ---
 These are principal texts of Taoism. Taoism, along with Confucianism and

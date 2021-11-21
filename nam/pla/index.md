@@ -1,8 +1,6 @@
 ---
 title: "Plains Native American Religion"
-categories: ' <A HREF="../index">Native American</A>'
 pathh1: "offer.jpg"
-alttext1: ""
 titleh1: "Plains Native American Religion"
 ---
 This index has links to resources at Intangible Textual Heritage about

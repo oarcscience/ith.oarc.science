@@ -1,10 +1,7 @@
 ---
-description: "Sacred Texts: Native American"
 keywords: "Native American Indian Maya Inca Sioux Cherokee Iroquois Inuit Walum Olum Zuni"
 title: "Sacred Texts: Native American"
-categories: ' <BR> <A HREF="../sha/index">Shamanism</A>&nbsp; <A HREF="../aus/index">Australian</A>&nbsp; <A HREF="../afr/index">African</A>&nbsp; <A HREF="../time/cal/mayacal">Mayan Calendar</A>&nbsp;  <A HREF="https://www.religioustolerance.org/nataspir">OCRT: Native American Spirituality</A><BR>'
 pathh1: "prayer.jpg"
-alttext1: "Prayer to the Mystery: Edward Curtis 1907 [Public Domain Image] Oglala Sioux man, Picket Pin, wearing breechcloth, holding pipe with mouthpiece pointing skyward, buffalo skull at his feet."
 titleh1: "Native American Religions"
 ---
 <table width="100%">

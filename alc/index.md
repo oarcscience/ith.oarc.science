@@ -2,7 +2,6 @@
 description: "Sacred Texts: Alchemy"
 keywords: "Alchemy Paracelsus Esoteric"
 title: "Alchemy Index"
-categories: ' <BR> <A HREF="../eso/index">Esoteric</A>&nbsp;<BR>'
 pathh1: "img/alc.jpg"
 alttext1: "Mutus Liber, pl. 2, detail, (18th cent.) public domain image"
 titleh1: "Alchemy"

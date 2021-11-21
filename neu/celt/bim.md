@@ -1,10 +1,5 @@
 ---
-description: "The Barddas of Iolo Morganwg at Intangible Textual Heritage"
-keywords: "Druid Religion Ceremony Ritual Knowledge Celt Celtic Druidic Druids"
 title: "The Barddas of Iolo Morganwg"
-categories: ' <BR> <A HREF="../index">Legends and Sagas</A>&nbsp; <A HREF="index">Celtic Folklore</A><BR>'
-pathh1: "bim1/img/iolo.jpg"
-alttext1: "Iolo Morganwg"
 titleh1: "The Barddas of Iolo Morganwg"
 ---
 # The Barddas of Iolo Morganwg

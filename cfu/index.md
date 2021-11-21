@@ -1,10 +1,5 @@
 ---
 title: "Confucian Documents"
-description: "Texts of Confucianism at Intangible Textual Heritage"
-keywords: "Confucius Confucian Canon China Chinese Religion Analects Great Learning Doctrine of the Mean I Ching Shu Ching Shih Ching Book of Odes Book of Changes Book of Records"
-categories: ' <BR> <A HREF="../tao/index">Taoism</A>&nbsp; <A HREF="../bud/index">Buddhism</A>&nbsp; <A HREF="../ich/index">I Ching</A>&nbsp; <A HREF="etc/index">Journal Articles: Chinese Religion</A>&nbsp; <A HREF="https://www.religioustolerance.org/confuciu">OCRT: Confucianism</A><BR>'
-pathh1: "../tao/yinyang.jpg"
-alttext1: "Yin and Yang in the Valley: Image &copy Copyright J.B. Hare 1999, All Rights Reserved"
 titleh1: "Confucianism and Traditional Chinese beliefs"
 ---
 ## The Chinese Classics

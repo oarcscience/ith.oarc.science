@@ -1,10 +1,6 @@
 ---
-description: "Sacred Texts: Prophecies"
 keywords: "Prophecies Prophet Prophets Prediction Nostradamus Paracelsus Apocyalypse Seer Clarivoyant Divination"
 title: "Sacred Texts: Prophecy and Divination"
-categories: ' <BR> <A HREF="../nos/index">Nostradamus</A>&nbsp; <A HREF="../ich/index">I Ching</A>&nbsp; <A HREF="../eso/index">Esoteric</A>&nbsp; <A HREF="../tarot/index">Tarot</A> <BR> <BR>'
-pathh1: "911.jpg"
-alttext1: "(c) 2003 J.B. Hare"
 titleh1: "Prophecy and Divination"
 ---
 What does the future hold? This is one of the big questions we'd all

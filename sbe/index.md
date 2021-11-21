@@ -1,6 +1,5 @@
 ---
 title: "Sacred Books of the East Index"
-categories: ' <BR> <A HREF="../hin/index">Hinduism</A>&nbsp; <A HREF="../tao/index">Taoism</A>&nbsp; <A HREF="../cfu/index">Confucianism</A>&nbsp; <A HREF="../bud/index">Buddhism</A>&nbsp; <A HREF="../jai/index">Jainism</A>&nbsp; <A HREF="../isl/index">Islam</A>&nbsp; <A HREF="../zor/index">Zoroastrianism</A><BR>'
 pathh1: "library.jpg"
 alttext1: "Library (c) 2003 J.B. Hare"
 titleh1: "Sacred Books of the East Index"

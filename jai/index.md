@@ -1,8 +1,6 @@
 ---
 title: "Jain Texts"
-categories: ' <BR> <A HREF="../bud/index">Buddhism</A>&nbsp; <A HREF="../hin/index">Hinduism</A><BR>'
 pathh1: "jain.jpg"
-alttext1: "Jain Tirthankara and Worshippers (ca. mid-18th century) [Public Domain Image]"
 titleh1: "Jainism"
 ---
 ### Jain Texts

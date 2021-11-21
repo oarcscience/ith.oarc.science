@@ -1,6 +1,4 @@
 ---
-description: "Enochian Magic at Intangible Textual Heritage"
-keywords: "Enochian Magic Majik Magick Occult Esoteric Discordian Dee"
 title: "Enochian Magic"
 ---
 <span class="p-small2"> [Internet Book of Shadows](../../bos/index.md) 

@@ -1,10 +1,6 @@
 ---
-description: "Sacred Texts: Hopi"
 keywords: "Hopi Religion Spirituality Indian Native American"
 title: "The Hopi"
-categories: ' <A HREF="../index">Native American</A>&nbsp; <A HREF="../sw/index">Southwest</A>&nbsp;'
-pathh1: "hopicirc.jpg"
-alttext1: "Image from H.R. Voth, The Oraibi Marau Ceremony, Field Museum Anth. Publ. Vol. XI, No. 1 (Chicago, 1912)"
 titleh1: "Hopi Religion"
 ---
 The Hopi, who occupy an area in the high desert plateaus of the

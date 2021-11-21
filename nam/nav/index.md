@@ -1,10 +1,5 @@
 ---
-description: "Sacred Texts: Navajo"
-keywords: "Navajo Navajo Religion Spirituality Indian Native American"
 title: "Navajo Religion"
-categories: ' <A HREF="../index">Native American</A>&nbsp; <A HREF="../sw/index">Southwest</A>&nbsp;'
-pathh1: "navaho.jpg"
-alttext1: "Navajo: mage &copy copyright J.B. Hare 2001"
 titleh1: "The Navajo"
 ---
 The Navajo, who call themselves *Diné* ("The People") are the largest

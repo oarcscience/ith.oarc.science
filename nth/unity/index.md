@@ -1,10 +1,5 @@
 ---
-description: "Sacred-Texts.com: Unity"
-keywords: "Unity New Thought"
 title: "Sacred Texts: Unity"
-categories: ' <A HREF="../index">New Thought</A>    <BR>'
-pathh1: "img/unity.jpg"
-alttext1: "The Unity Wings"
 titleh1: "Unity Church"
 ---
 These are the key writings of the Unity Church, a major New Thought

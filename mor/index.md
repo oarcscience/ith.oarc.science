@@ -1,5 +1,4 @@
 ---
-description: "Sacred Texts - Mormon Scriptures"
 keywords: "Mormon Mormonism LDS Latter-Day Saints Book of Mormon Pearl of Great Price Doctrine Covenants Articles of Faith"
 title: "Sacred Texts: Mormons"
 ---

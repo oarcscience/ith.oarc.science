@@ -1,10 +1,5 @@
 ---
-description: "Works of Calvin at Intangible Textual Heritage"
-keywords: "John Calvin Protestant Protestantism"
 title: "Works of John Calvin"
-categories: ' <A HREF="../index">Christianity</A>'
-pathh1: "calvin.jpg"
-alttext1: "John Calvin. File from wikimedia. This image is in the public domain in the US."
 titleh1: "Works of John Calvin"
 ---
 This page indexes resources at this site relating to John Calvin.

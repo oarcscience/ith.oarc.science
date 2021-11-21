@@ -1,8 +1,5 @@
 ---
-description: "Sacred Texts: Evil"
-keywords: "Evil Devil Satan Satanism"
 title: "Sacred Texts: Evil"
-categories: ' <BR> <A HREF="../goth/index">Gothic</A>&nbsp; <BR>'
 ---
 <table width="75%">
 <colgroup>

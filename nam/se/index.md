@@ -1,7 +1,5 @@
 ---
 title: "Religions of Southeastern Native Americans"
-categories: ' <A HREF="../index">Native American</A>'
-pathh1: "harriot.jpg"
 alttext1: "Detail of Woodcut from A BREFE AND TRUE REPORT OF THE NEW FOUND LAND OF VIRIGINA, by Thomas Herriot (1590) [Public domain image]"
 titleh1: "Southeastern Native Americans"
 ---

@@ -1,8 +1,6 @@
 ---
 title: "Virgil"
-categories: ' <A HREF="../index">Classics</A>&nbsp;'
 pathh1: "aeneas.jpg"
-alttext1: "Aeneas flees burning Troy by Federico Barocci, 1598 [Public Domain Image]"
 titleh1: "The Works of Virgil"
 ---
 <span class="c_da"></span>

@@ -1,10 +1,5 @@
 ---
-description: "Sacred Texts: Roma Folklore"
-keywords: "Gypsy Gypsies Roma Rom Romani Romany Folklore Magic Fortune Telling Witchcraft"
 title: "Sacred Texts: Gypsy Folklore"
-categories: ' <BR> <A HREF="../index">Legends and Sagas</A>&nbsp;'
-pathh1: "img/roma.jpg"
-alttext1: "Roma family"
 titleh1: "Roma Folklore"
 ---
 This page links together resources at Intangible Textual Heritage about

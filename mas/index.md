@@ -1,10 +1,5 @@
 ---
-description: "Sacred Texts: Freemasonry"
-keywords: "Freemasonry Freemason Masonic Mason Text Book Morals Dogma Pike"
 title: "Freemasonry"
-categories: ' <BR>'
-pathh1: "royarch.jpg"
-alttext1: "Royal Arch"
 titleh1: "Freemasonry"
 ---
 The Internet has long been home to all kinds of sites about Freemasonry,

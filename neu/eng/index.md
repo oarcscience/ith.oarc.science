@@ -1,10 +1,5 @@
 ---
-description: "English Folklore at Intangible Textual Heritage"
-keywords: "English Folklore belinus.co.uk"
 title: "English Folklore"
-categories: ' <BR> <A HREF="../index">Legends and Sagas</A>&nbsp; <A HREF="../celt/index">Celtic Folklore</A><BR>'
-pathh1: "henge.jpg"
-alttext1: "Henge, &copy; 2001 J.B. Hare, All Rights Reserved"
 titleh1: "England"
 ---
 [Folklore](#folklore)  [Chronicles](#history.md)  [Geoffrey

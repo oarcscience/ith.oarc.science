@@ -59,7 +59,6 @@ to take away the devil, which 'was done accordingly; and the second year
 after the changeling died.' It is hardly probable that the child was
 very well fed during the two years that this pious process was going on.
 Its starved ravenous appetite indeed is indicated in Luther's
-description: It 'would eat as much as two threshers, would laugh and be
 joyful when any evil happened in the house, but would cry and be very
 sad when all went well.'
 

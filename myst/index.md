@@ -1,5 +1,4 @@
 ---
-description: "Sacred-Texts.com: Mysticism"
 keywords: "Mystic Mysticism Mystical Occult Esoteric"
 title: "Sacred Texts: Mysticism"
 categories: ''

@@ -1,8 +1,5 @@
 ---
 title: "The Dramas of Sophocles"
-categories: ' <A HREF="../index">Classics</A>&nbsp;'
-pathh1: "oedipus.jpg"
-alttext1: ""
 titleh1: "The Dramas of Sophocles"
 ---
 <span class="c_da"></span>

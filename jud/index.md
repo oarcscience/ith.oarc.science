@@ -1,10 +1,5 @@
 ---
-description: "Texts of Judaism at Intangible Textual Heritage"
-keywords: "Judaism Tanakh Tanach Torah Talmud Jewish Jew Judaica Kabbalah Kabalah Kabala Qabalah Qabbalistic Midrash Haggada Samaritan Haggadah"
 title: "Texts of Judaism"
-categories: ' <BR> <A HREF="etc/index">Journal Articles: Judaism</A>&nbsp;  <A HREF="https://www.religioustolerance.org/judaism">ORCT: Judaism</A>&nbsp;  <A HREF="../time/cal/jdate">Jewish Date</A> <A HREF="sam/index">Samaritans</A>&nbsp; <BR>'
-pathh1: "judaism.jpg"
-alttext1: "Desert: Image Copyright J.B. Hare 1999, All Rights Reserved"
 titleh1: "Judaism"
 ---
 [Tanakh](#tanakh)  [Talmud](#talmud)  [Haggada](#haggada.md) 

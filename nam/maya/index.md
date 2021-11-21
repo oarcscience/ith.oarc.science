@@ -2,8 +2,6 @@
 description: "Sacred Texts: Maya"
 keywords: "Maya Religion Mythology Prophecy texts"
 title: "Maya Religion"
-categories: ' <A HREF="../index">Native American</A>&nbsp; <A HREF="../aztec/index">Aztec</A>'
-pathh1: "../maya.jpg"
 alttext1: "Jungle Ruins, (c) 2000 J. B. Hare, All Rights Reserved"
 titleh1: "The Maya"
 ---

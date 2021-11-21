@@ -31,7 +31,6 @@ REMAIN IN THE FIRST CREATION IN THE WONDER OF GOD TO HIS OWN
 MANIFESTATION AND GLORY</span>
 
 1\. <span class="smallcaps">This</span> is an open gate of the foregoing
-description: Every one says, "Shew me the way to the manifestation of
 the good." Hear and observe well, dear reason; thou must thyself be the
 way, the understanding must be born in thee, otherwise I cannot shew it
 thee; thou must enter into it, so that the understanding of the work in

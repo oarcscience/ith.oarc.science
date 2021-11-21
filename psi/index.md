@@ -1,10 +1,5 @@
 ---
 title: "Intangible Textual Heritage: Parapsychology"
-description: "Intangible Textual Heritage: Parapsychology"
-keywords: "Parapsychology ESP Extrasensory Perception"
-categories: ' <BR>'
-pathh1: "img/zener.jpg"
-alttext1: "Image &copy Copyright J.B. Hare 2008, All Rights Reserved"
 titleh1: "Parapsychology"
 ---
 This page indexes resources at this site about parapsychology (the study

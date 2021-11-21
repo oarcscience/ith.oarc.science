@@ -1,10 +1,8 @@
 ---
-description: "Sacred Texts: Native Californians"
 keywords: "Native American Indian California Karok Karuk Hupa Hupa Achomawi Yurok Miwok Maidu Shasta Yahi Modoc Chumash Ohlone Costanoan Salinan Esselen Luiseno Gabrieleno Mission"
 title: "Native Californians"
 categories: ' <A HREF="../index">Native American</A>&nbsp;'
 pathh1: "bigsur.jpg"
-alttext1: "Big Sur, Image (c) 2001 J.B. Hare, All Rights Reserved"
 titleh1: "Native Californians"
 ---
 [General](#general)  [Northern](#north)  [Southern](#south.md) 

@@ -1,10 +1,6 @@
 ---
-description: "Classical Paganism at Intangible Textual Heritage"
-keywords: "Classical Mythology Pagan Roman Greek Zeus Jupiter Athena Aphrodite Posidon Homer Troy Trojan Iliad Odyssey Aeneid Ovid Bullfinch Sappho"
 title: "Sacred Texts: The Classics"
-categories: ' <BR> <A HREF="../neu/index">Legends &amp; Sagas</A>&nbsp; <A HREF="../pag/index">Paganism</A>&nbsp; <A HREF="../egy/index">Egypt</A>&nbsp; <A HREF="../ane/index">Ancient Near East</A><BR>'
 pathh1: "img/sounion0.jpg"
-alttext1: "Temple of Posiedon at Sounioun, (c) J.B. Hare 2002"
 titleh1: "The Classics"
 ---
 [Greek Texts](#greek)   [Roman Texts](#roman.md)  

@@ -1,10 +1,5 @@
 ---
-description: "Sacred Texts: Americana"
-keywords: "Americana Folklore Customs Pennsylvania Dutch Pow-wow Hoodoo"
 title: "Americana"
-categories: ' <BR>'
-pathh1: "img/yo.jpg"
-alttext1: "Looking Down Yosemite, by Albert Bierstadt [1865] (public domain image)"
 titleh1: "Americana"
 ---
 This page includes texts relating to uniquely American expressions of

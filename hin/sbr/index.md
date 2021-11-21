@@ -1,8 +1,5 @@
 ---
-description: "The Satapatha Brahmana at Intangible Textual Heritage"
-keywords: "Hinduism Satapatha Brahmana"
 title: "Sacred-Texts: Satapatha Brahmana"
-categories: ' <A HREF="../index">Hinduism</A> <BR>'
 ---
 ### The Satapatha Brahmana
 

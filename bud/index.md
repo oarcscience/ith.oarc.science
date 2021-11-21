@@ -1,10 +1,5 @@
 ---
-description: "Buddhist texts at Intangible Textual Heritage. Theravada, Mahayana, Tibetan, and other primary texts of Buddhism"
-keywords: "Buddha Buddhism Dharma Karma Reincarnation Liberation Tibet Tibetan Dalai Lama Aum Mani Padme Hum Theravada Mahayana Dhammapada Diamond Sutra Lotus Sutra"
 title: "Sacred Texts: Buddhism"
-categories: ' <BR> <A HREF="etc/index">Journal Articles: Buddhism</A>&nbsp;  <A HREF="https://www.religioustolerance.org/buddhism">OCRT: Buddhism</A><BR>'
-pathh1: "buddhism.jpg"
-alttext1: "Wheel in an empty sky; Image &copy Copyright J.B. Hare 1999, All Rights Reserved"
 titleh1: "Buddhism"
 ---
 [Modern works](#modern)  [Southern Buddhism](#south.md)  [Northern

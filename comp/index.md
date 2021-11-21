@@ -1,10 +1,7 @@
 ---
 description: "Sacred Texts: Comparative Religion, Mythology and Folklore"
-keywords: "Comparative Religion Religious Studies Folklore"
 title: "Sacred Texts: Comparative Religion, Mythology and Folklore"
 categories: ' <BR>'
-pathh1: "../img/library.jpg"
-alttext1: "Library (c) 2009 J.B. Hare"
 titleh1: "Comparative Religion, Mythology and Folklore"
 ---
 This page provides resources at Intangible Textual Heritage which

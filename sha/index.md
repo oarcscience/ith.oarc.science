@@ -1,9 +1,6 @@
 ---
-description: "Shamanism at Intangible Textual Heritage"
-keywords: "Shamanism Shaman Aboriginal Siberia Koryak Chuckhee Ainu Tungus Yughahir Eskimo Kamchatka Myths Legends Folklore Transvestite Drum Drumming Malaysia Sufi"
 title: "Intangible Textual Heritage: Shamanism"
 categories: ' <BR> <A HREF="../nel/index">Paleolithic</A>&nbsp; <A HREF="../pag/index">Neopaganism</A>&nbsp; <A HREF="../nam/index">Native American</A>&nbsp; <A HREF="../asia/index">Traditional Asian</A><BR>'
-pathh1: "sis/img/ainubear.jpg"
 alttext1: "Bear Feast: Public domain image"
 titleh1: "Shamanism"
 ---

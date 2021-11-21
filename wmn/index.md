@@ -1,10 +1,5 @@
 ---
-description: "Sacred Texts: Women"
-keywords: "Spirituality Women feminism religion Goddess"
 title: "Sacred Texts: Women and Religion"
-categories: ' <BR> <A HREF="../cla/index">Classical Paganism</A>&nbsp; <A HREF="../pag/index">Neo-Paganism</A><BR>'
-pathh1: "blessed.jpg"
-alttext1: "The Blessed Damozel (detail) by Dante Gabriel Rossetti [1875-1878] (Public Domain Image)"
 titleh1: "Women and Religion"
 ---
 All of the major world religions deprecate women to some degree. This

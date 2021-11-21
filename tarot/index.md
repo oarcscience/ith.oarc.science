@@ -1,10 +1,5 @@
 ---
-description: "Sacred Texts: Tarot"
-keywords: "Tarot Divination Waite Rider Cards"
 title: "Tarot"
-categories: ' <BR> <A HREF="../eso/index">Esoteric</A>&nbsp; <A HREF="../pag/index">Neopagan</A>&nbsp; <A HREF="../pro/index">Prophecy and Divination</A><BR>'
-pathh1: "pkt/img/smar01.jpg"
-alttext1: ""
 titleh1: "The Tarot"
 ---
 The best known Tarot deck is the

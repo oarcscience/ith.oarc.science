@@ -1,6 +1,5 @@
 ---
 title: "Religions of Northeastern Native Americans"
-categories: ' <A HREF="../index">Native American</A>'
 ---
 |                                   |
 |-----------------------------------|

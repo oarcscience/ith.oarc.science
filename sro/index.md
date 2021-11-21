@@ -1,10 +1,5 @@
 ---
-description: "Sacred-Texts.com: Sub Rosa"
-keywords: "Da Vinci Code Gnostic Gnostics Templar Templars Freemason Freemasonry Masonry Rosicrucian Rosicrucians Jesus Bloodline Priory Sion"
 title: "Intangible Textual Heritage: Sub Rosa"
-categories: ' <BR>  <A HREF="../mas/index">Masonry</A>&nbsp; <A HREF="../eso/index">Esoteric</A>&nbsp; <A HREF="../eso/ros/index">Rosicrucians</A>&nbsp; <A HREF="../chr/apo/index">Apocrypha</A>&nbsp; <A HREF="../gno/index">Gnosticism</A>'
-pathh1: "subrosa.jpg"
-alttext1: "Subrosa: Image (c) Copyright J.B. Hare 2006, All Rights Reserved"
 titleh1: "Sub Rosa"
 ---
 This section of sacred-texts contains resources related to secret

@@ -1,7 +1,5 @@
 ---
 title: "Shakespeare Index"
-categories: ' <A HREF="ff/index">First Folio</A>&nbsp;'
-pathh1: "shake.gif"
 alttext1: "William Shakespeare"
 titleh1: "Shakespeare"
 ---

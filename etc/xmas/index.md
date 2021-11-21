@@ -1,6 +1,5 @@
 ---
 description: "Christmas texts, at Intangible Textual Heritage"
-keywords: "Christmas Texts"
 title: "Christmas Texts"
 categories: ' <A HREF="../index">Miscellaneous</A>&nbsp;'
 pathh1: "santa.jpg"

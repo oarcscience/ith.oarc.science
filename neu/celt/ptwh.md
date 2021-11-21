@@ -1,10 +1,5 @@
 ---
-description: "Popular Tales of the West Highlands, by J.F. Campbell at Intangible Textual Heritage"
-keywords: "Scotland Scottish Folklore Legend Myth"
 title: "Popular Tales of the West Highlands, by J.F. Campbell"
-categories: ' <BR> <A HREF="../index">Legends and Sagas</A>&nbsp; <A HREF="index">Celtic Folklore</A><BR>'
-pathh1: "img/seaspell.jpg"
-alttext1: "A Sea Spell, by Dante Gabriel Rossetti [1877] (Public Domain Image)"
 titleh1: "Popular Tales of the West Highlands"
 ---
 <span class="c_e"> <span class="c_t">[Popular Tales of the West

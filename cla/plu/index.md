@@ -1,8 +1,5 @@
 ---
 title: "The Works of Plutarch"
-categories: ' <A HREF="../index">Classical Paganism</A>&nbsp;'
-pathh1: "plu.jpg"
-alttext1: "Plutarch"
 titleh1: "The Works of Plutarch"
 ---
 Plutarch was born in 46 C.E. in Chaeronea, in Boeotia, Greece, and died

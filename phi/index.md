@@ -2,7 +2,6 @@
 title: "Western Philosophy at Intangible Textual Heritage"
 categories: ''
 pathh1: "schath.jpg"
-alttext1: "The School of Athens, Raphael, Public Domain Image"
 titleh1: "Western Philosophy"
 ---
   

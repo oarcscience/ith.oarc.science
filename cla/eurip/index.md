@@ -1,7 +1,5 @@
 ---
 title: "The Dramas of Euripides"
-categories: ' <A HREF="../index">Classics</A>&nbsp;'
-pathh1: "../img/sounion1.jpg"
 alttext1: ""
 titleh1: "The Dramas of Euripides"
 ---

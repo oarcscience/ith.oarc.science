@@ -1,10 +1,5 @@
 ---
-description: "William Bulter Yeats at Intangible Textual Heritage"
-keywords: "William Butler Yeats Literature Poetry Drama Ireland Irish Celtic"
 title: "William Butler Yeats "
-categories: ' <A HREF="../index">Legends and Sagas</A>&nbsp; <A HREF="../celt/index">Celtic Folklore</A>'
-pathh1: "wbyeats.jpg"
-alttext1: "Photograph of W.B. Yeats"
 titleh1: "William Butler Yeats"
 ---
 William Butler Yeats (born 1865, died 1939), a key figure in the Celtic

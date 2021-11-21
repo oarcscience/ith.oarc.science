@@ -2,9 +2,6 @@
 title: "Christian Texts"
 description: "Christian Texts at Sacred-Texts.com"
 keywords: "Christianity Christian Bible Apocrypha Hermetica Catholicism Protestantism"
-categories: ' <BR> <A HREF="etc/index">Journal Articles: Christianity</A>&nbsp; <A HREF="https://www.religioustolerance.org/christ">OCRT: Christianity</A><BR>'
-pathh1: "chr.jpg"
-alttext1: "Sunrise with Cross: Image &copy Copyright J.B. Hare 1999, All Rights Reserved"
 titleh1: "Christianity"
 ---
 [The Scriptures](#scripture)    [Gnosticism](#gnostic.md)    [Early

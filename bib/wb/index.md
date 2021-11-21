@@ -1,8 +1,5 @@
 ---
 title: "World Bible"
-categories: ' <A HREF="../index">Hypertext Bible</A><BR>&nbsp; <A HREF="../cv/index">Critical Views</A>&nbsp; <A HREF="../eb">English Bibles</A>'
-pathh1: "earth.jpg"
-alttext1: ""
 titleh1: "The World Bible"
 ---
 This page has links to non-English translations of the Bible at

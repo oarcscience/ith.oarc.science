@@ -1,7 +1,5 @@
 ---
 title: "Tantra"
-categories: ' <BR> <A HREF="../sex/index">Sacred Sexuality</A>&nbsp; <A HREF="../hin/index">Hinduism</A>&nbsp; <A HREF="../pag/index">Neo-Paganism</A>&nbsp; <A HREF="../bud/index">Buddhism</A><BR>'
-pathh1: "shakti.jpg"
 alttext1: "Shakti and Shiva. Image (c) 2003 J. B. Hare, all rights reserved"
 titleh1: "Tantra"
 ---

@@ -1,10 +1,5 @@
 ---
-description: "Esoteric and Occult texts at Intangible Textual Heritage"
-keywords: "Magic Majik Magick Occult Esoteric Discordian Aleister Crowley Ordo Templi Orientis OTO Theosophy Blavatsky Secret Doctrine Fort Fortean Rosicrucian Nostradamus Golden Dawn Rosy Cross Hakim Bey TAZ Temporary Autonomous Zone Eris Enochian Dee"
 title: "Western Esoteric Texts"
-categories: ' <BR> <A HREF="../pag/index">Neopaganism</A>&nbsp; <A HREF="../grim/index">Grimoires</A><BR>'
-pathh1: "beyond.jpg"
-alttext1: "Traveller going beyond horizon: public domain image"
 titleh1: "Esoteric and Occult"
 ---
 This page indexes resources at this site in the Western Esoteric

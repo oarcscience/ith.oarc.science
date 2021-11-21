@@ -1,9 +1,4 @@
 ---
-description: "Sacred Texts: Miscellaneous"
-keywords: "Sacred Texts: Miscellaneous"
-categories: ' <BR> <BR>'
-pathh1: "library.jpg"
-alttext1: "Library (c) 2003 J.B. Hare"
 titleh1: "Miscellaneous"
 ---
 This page indexes etexts which don't currently have a category at this

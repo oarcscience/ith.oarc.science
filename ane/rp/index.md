@@ -1,8 +1,6 @@
 ---
 title: "Records of the Past"
 categories: ' <A HREF="../index">Ancient Near East</A>&nbsp; <A HREF="../../egy/index">Ancient Egypt</A>&nbsp;'
-pathh1: "img/tablet.jpg"
-alttext1: "Cuneiform"
 titleh1: "Records of the Past"
 ---
 This is the index page for the series Records of the Past, which

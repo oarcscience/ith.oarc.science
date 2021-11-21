@@ -1,8 +1,5 @@
 ---
 title: "Additional English Bible"
-categories: ' <A HREF="index">Hypertext Bible</A><BR> <A HREF="cv/index">Critical Views</A>&nbsp; <A HREF="wb/index">World Bible</A>'
-pathh1: "img/babel.jpg"
-alttext1: ""
 titleh1: "English Bibles"
 ---
 This page has links to English translations of the Bible at Intangible

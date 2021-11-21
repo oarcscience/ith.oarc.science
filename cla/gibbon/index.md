@@ -1,8 +1,6 @@
 ---
 title: "Edward Gibbon's Decline and Fall of the Roman Empire: Master Index"
-categories: ' <A HREF="../index">Classics</A>&nbsp;'
 pathh1: "../img/rome01.jpg"
-alttext1: "Roman Colosseum, Photograph (c) 2007 J.B. Hare, All Rights Reserved"
 titleh1: "Edward Gibbons' Decline and Fall of the Roman Empire"
 ---
 This is the master index for Edward Gibbon's Decline and Fall of the

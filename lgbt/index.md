@@ -1,5 +1,4 @@
 ---
-description: "Sacred Texts: LGBT"
 keywords: "LGBT Lesbian Gay Transgender Bisexual Homosexual Spirituality Mysticism Literature Mythology Books Texts"
 title: "LGBT Texts"
 categories: ' <BR>'

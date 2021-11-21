@@ -2,9 +2,7 @@
 description: "Yoga at Intangible Textual Heritage"
 keywords: "Yoga Hindu Hinduism Asana Prana Raja Hatha"
 title: "Sacred-Texts: Hinduism"
-categories: ' <A HREF="../index">Hinduism</A>'
 pathh1: "lotus.jpg"
-alttext1: ""
 titleh1: "Yoga"
 ---
 <span class="c_e"> <span class="c_t">[The Yoga Sutras of

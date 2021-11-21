@@ -1,6 +1,5 @@
 ---
 description: "Sacred Texts: Sexuality"
-keywords: "Sex Sex Sex Kama Sutra Ananga Ranga Perfumed Garden Tantra Tantric Tantrik Mahanirvana Tantra Arthur Avalon Sir John Woodruffe Sir Richard Burton"
 title: "Sacred Texts: Sexuality"
 ---
   

@@ -1,10 +1,5 @@
 ---
-description: "Sacred Texts: Human Genome"
-keywords: "DNA Human Genome Chromosome"
 title: "Sacred Texts: The Genetic Code"
-categories: ' <BR> <A HREF="../nel/index">Paleolithic</A>&nbsp; <A HREF="../ich/index">I Ching</A><BR>'
-pathh1: "dblhelix.jpg"
-alttext1: "DNA: &copy; Copyright J.B. Hare 2001, All Rights Reserved."
 titleh1: "The Genetic Code"
 ---
 <span class="c_e"> <span class="c_t">[First 1000 lines of Chromosome One

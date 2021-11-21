@@ -1,11 +1,8 @@
 ---
-description: "Australian Aboriginal Mythology and Legends at Intangible Textual Heritage"
 keywords: "Australia Australian Aborigine Abo Native Dreamtime Alcheringa Bayahmee Mariah Mythology Legend Folklore Langloh Parker"
 
 # "Australia"
-categories: ' <BR> <A HREF="../sha/index">Shamanism</A>&nbsp; <A HREF="../afr/index">African</A>&nbsp; <A HREF="../nam/index">Native American</A><BR>'
 pathh1: "alchrnga.jpg"
-alttext1: "Alcheringa: Image &copy Copyright J.B. Hare 2000, All Rights Reserved"
 titleh1: "Australia"
 ---
 Finding texts about Australian Aboriginal religion in the public domain

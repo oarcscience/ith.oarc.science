@@ -1,8 +1,5 @@
 ---
 title: "Bible Commentary"
-categories: ' <A HREF="../index">Hypertext Bible</A><BR>&nbsp; <A HREF="../cv/index">Critical Views</A>&nbsp; <A HREF="../eb">English Bibles</A>'
-pathh1: "coatmc.jpg"
-alttext1: ""
 titleh1: "Bible Commentary"
 ---
 This page indexes fifteen Biblical commentaries, all believed to be in

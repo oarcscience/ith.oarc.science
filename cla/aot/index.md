@@ -1,10 +1,7 @@
 ---
 title: "Apollonius of Tyana"
 description: "Sacred-Texts.com: Classics: Apollonius of Tyana"
-keywords: "Pagan Christ Christian Paganism Rome Greek Philosophy Philosophers"
-categories: ' <A HREF="../index">Classics</A>&nbsp;'
 pathh1: "aot.jpg"
-alttext1: "Apollonius of Tyana [Public Domain Image]"
 titleh1: "Apollonius of Tyana"
 ---
 This page lists resources at this site about Apollonius of Tyana, the

@@ -1,6 +1,4 @@
 ---
-description: "Chaos Magic at Sacred-Texts.com"
-keywords: "Chaos Magic Majik Magick Occult Esoteric Discordian IOT ZOS AOS Zos Kia Cultus"
 title: "Chaos Magic"
 ---
 <span class="p-small2"> [Esoteric and Occult](../index.md)   

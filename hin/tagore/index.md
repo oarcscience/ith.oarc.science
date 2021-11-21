@@ -1,8 +1,6 @@
 ---
 title: "The Writings of Rabindranath Tagore"
-categories: ' <A HREF="../index">Hinduism</A>'
 pathh1: "img/tagore.jpg"
-alttext1: ""
 titleh1: "The Writings of Rabindranath Tagore"
 ---
 Rabindranath Tagore (1861-1941) was a Bengali poet, philosopher, artist,

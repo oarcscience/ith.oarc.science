@@ -1,10 +1,5 @@
 ---
-description: "Sacred Texts: Baha'i"
-keywords: "Baha'i Bab Baha'u'llah 'Abudu'l-Baha"
 title: "Sacred Texts: Baha'i texts"
-categories: ' <A HREF="https://www.religioustolerance.org/bahai">OCRT: Baha'i Faith</A>  <BR>'
-pathh1: "milleflr.gif"
-alttext1: ""
 titleh1: "Baha'i"
 ---
 ### Formatted texts

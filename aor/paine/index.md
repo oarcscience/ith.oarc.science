@@ -1,10 +1,5 @@
 ---
-description: "Sacred Texts: Works of Thomas Paine"
-keywords: "Atheism Atheist Agnosticism Agnostic Deism Deist American America Paine Revolution History Philosophy"
 title: "Works of Thomas Paine"
-categories: ' <A HREF="../index">Age of Reason</A>    <BR>'
-pathh1: "paine.jpg"
-alttext1: "Thomas Paine (public domain image)"
 titleh1: "Works of Thomas Paine"
 ---
 This page indexes resources at this site relating to Thomas Paine.

@@ -1,9 +1,5 @@
 ---
 title: "Texts of Islam"
-description: "Texts of Islam at Intangible Textual Heritage"
-keywords: "Islam Islamic Mohammed Koran Quran Qur'an Hadith Gulistan Sa'di Sufi Rumi Hafiz Masnavi Rubayyat Omar Khayyam Orientalism Orientalist"
-categories: ' <BR> <A HREF="etc/index">Journal Articles: Islam</A>&nbsp;  <A HREF="https://www.religioustolerance.org/islam">OCRT: Islam</A>  <BR>'
-pathh1: "islam.jpg"
 alttext1: "Five Pillars: Image &copy Copyright J.B. Hare 1999, All Rights Reserved"
 titleh1: "Islam"
 ---

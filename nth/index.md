@@ -1,10 +1,5 @@
 ---
-description: "Sacred-Texts.com: New Thought"
-keywords: "New Thought"
 title: "Sacred Texts: New Thought"
-categories: ' <BR>'
-pathh1: "snight.jpg"
-alttext1: "Starry Night, by Van Gogh [1889] (Public Domain Image)"
 titleh1: "New Thought"
 ---
 The New Thought movement, which originated in the late 19th and early

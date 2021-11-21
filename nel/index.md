@@ -1,6 +1,5 @@
 ---
 title: "Paleolithic Cave Paintings"
-categories: ' <BR> <A HREF="../sha/index">Shamanism</A>&nbsp; <A HREF="../pag/index">Neopaganism</A><BR>'
 ---
 |                                |
 |--------------------------------|

@@ -1,9 +1,6 @@
 ---
-description: "Pacific Ocean Sacred Texts at ith.oarc.science"
-keywords: "Hawaii New Zealand Polynesia Mythology Maui Maori"
 
 # "Pacific Islander Religions"
-categories: ' <BR> <A HREF="../aus/index">Australian</A><BR>'
 ---
 [General](#general)  [Easter Island](#easter)  [New Zealand](#maori.md) 
 [Hawaii](#hawaii)  [Samoa](#samoa)  [Tahiti](#tahiti.md) 

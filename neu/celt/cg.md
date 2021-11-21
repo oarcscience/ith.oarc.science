@@ -1,10 +1,5 @@
 ---
-description: "The Carmina Gadelica by Alexander Carmicheal, at Intangible Textual Heritage"
-keywords: "Scotland Scottish Folklore Legend Myth Celtic Spirituality Song Poetry Goddess"
 title: "The Carmina Gadelica by Alexander Carmicheal"
-categories: ' <BR> <A HREF="../index">Legends and Sagas</A>&nbsp; <A HREF="index">Celtic Folklore</A><BR>'
-pathh1: "cg1/img/05800.jpg"
-alttext1: ""
 titleh1: "The Carmina Gadelica"
 ---
 # The Carmina Gadelica

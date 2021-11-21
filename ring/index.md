@@ -1,5 +1,4 @@
 ---
-description: "Sacred Texts: Sources of Lord of the Rings"
 keywords: "Tolkien Middle Earth Kalevala Edda Volsung Beowulf"
 title: "Sacred-Texts: Sources of Lord of the Ring"
 categories: ' <BR> <A HREF="../neu/index">Sagas and Legends</A><BR> <A HREF="../index">Buy Sacred-Texts CD-ROM</A>&nbsp;   <A HREF="links">Links</A>'

@@ -1,10 +1,6 @@
 ---
-description: "Sacred Texts: Gothic"
 keywords: "Gothic Vampire Vampyre Byron Shelley Wollstonecraft Dracula Frankenstein Buffy"
 title: "Gothic Texts"
-categories: ' <BR> <A HREF="../eso/index">Esoteric</A>&nbsp; <A HREF="../evil/index">Evil</A><BR> <A HREF="../lcr/index">Legendary Creatures</A><BR>'
-pathh1: "piran.jpg"
-alttext1: ""
 titleh1: "Gothic Texts"
 ---
 Gothic refers to a Romantic literary style which can include

@@ -1,5 +1,4 @@
 ---
-description: "Sacred Texts: Theosophy"
 keywords: "Theosophy Blatavsky"
 title: "Theosophy"
 categories: ' <BR> <A HREF="../atl/index">Atlantis</A>&nbsp; <A HREF="../bud/index">Buddhism</A>&nbsp; <A HREF="../eso/index">Esoteric</A>&nbsp; <A HREF="../hin/index">Hinduism</A> <BR>'

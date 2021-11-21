@@ -1,8 +1,6 @@
 ---
 description: "Sacred Texts of Hinduism; complete translation of the Rig-Veda, transcribed Sanskrit Rig-Veda, Max Mullers' translation of the Upanishads, the Bhaghavad Gita, and other Hinduism texts."
-keywords: "Hinduism Rig Veda Vedic  Sama Veda Atharva Veda Yajur Veda Upanishad Laws of Manu Yoga Sutras Gitanjali Bhagavad-Gita Gita Ramayana Mahabharata Kabir Tagore Patanjali"
 title: "Sacred-Texts: Hinduism"
-categories: ' <BR> <A HREF="etc/index">Journal Articles: Hinduism</A>&nbsp;  <A HREF="https://www.religioustolerance.org/hinduism"> OCRT: Hinduism</A><BR>'
 ---
 <table width="75%">
 <colgroup>

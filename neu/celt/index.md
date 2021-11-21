@@ -1,10 +1,5 @@
 ---
-description: "Celtic Folklore at Intangible Textual Heritage"
-keywords: "Celtic Folklore belinus.co.uk"
 title: "Celtic Folklore"
-categories: ' <BR> <A HREF="../index">Legends and Sagas</A>&nbsp; <A HREF="../eng/index">England</A><BR>'
-pathh1: "img/danae.jpg"
-alttext1: ""
 titleh1: "Celtic Folklore"
 ---
 [Ireland](#ireland)  [Wales](#wales)  [Scotland](#scotland.md) 

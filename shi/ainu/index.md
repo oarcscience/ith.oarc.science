@@ -1,6 +1,4 @@
 ---
-description: "Ainu Texts at Intangible Textual Heritage"
-keywords: "Ainu Aino Japan Sakhalin"
 title: "Shinto Documents"
 ---
 [Japan](../index.md)  

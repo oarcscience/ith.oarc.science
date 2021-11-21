@@ -1,6 +1,5 @@
 ---
 title: "Religions of Native South Americans"
-categories: ' <A HREF="../index">Native American</A>&nbsp; <A HREF="../inca/index">Incas</A>'
 ---
 |                            |
 |----------------------------|

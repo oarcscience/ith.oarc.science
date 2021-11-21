@@ -1,10 +1,5 @@
 ---
-description: "Sacred Texts: Aztec"
-keywords: "Aztec Religion Mythology texts"
 title: "Aztec Religion"
-categories: ' <A HREF="../index">Native American</A>&nbsp; <A HREF="../maya/index">Maya</A>'
-pathh1: "../maya.jpg"
-alttext1: "Jungle Ruins, (c) 2000 J. B. Hare, All Rights Reserved"
 titleh1: "Aztec Religion"
 ---
 This index lists resources at Intangible Textual Heritage relating to

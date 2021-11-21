@@ -1,8 +1,5 @@
 ---
 title: "Inca Religion"
-categories: ' <A HREF="../index">Native American</A>&nbsp; <A HREF="../sa/index">South American</A>&nbsp;'
-pathh1: "tiagate.jpg"
-alttext1: "Gate at Tiahuanaco; this image (c) 2008, J.B. Hare"
 titleh1: "Inca Religion"
 ---
 Here are some extracts from historical accounts of the religion of the

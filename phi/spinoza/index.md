@@ -1,10 +1,5 @@
 ---
-description: "The Writings of Spinoza, at Intangible Textual Heritage"
-keywords: "Philosophy Spinoza"
 title: "The Writings of Spinoza"
-categories: ' <A HREF="../index">Philosophy</A>&nbsp;'
-pathh1: "spinoza.jpg"
-alttext1: "Portrait of Spinoza (Public domain)"
 titleh1: "The Writings of Spinoza"
 ---
 This page indexes writings of the philosopher Baruch Spinoza at

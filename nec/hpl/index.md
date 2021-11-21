@@ -1,8 +1,5 @@
 ---
-description: "An H.P. Lovecraft Anthology, at Intangible Textual Heritage"
-keywords: "Lovecraft Cthulu Necronomicon Horror Literature"
 title: "An H.P. Lovecraft Anthology Index"
-categories: ' <A HREF="../index">Necronomicon</A>&nbsp;'
 ---
 <span class="p-small2"> </span>
 

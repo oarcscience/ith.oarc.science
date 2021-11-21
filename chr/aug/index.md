@@ -1,7 +1,5 @@
 ---
 title: "St. Augustine Index"
-categories: ' <A HREF="../index">Christianity Index</A>&nbsp;'
-pathh1: "staug.jpg"
 alttext1: "St. Ausutine"
 titleh1: "St. Augustine"
 ---

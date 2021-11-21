@@ -1,10 +1,5 @@
 ---
-description: "Sacred Texts: Legendary Creatures"
-keywords: "Cryptobiology Cryptozoology Legendary Creatures"
 title: "Legendary Creatures"
-categories: ' <BR>'
-pathh1: "unicorn.jpg"
-alttext1: "Unicorn [public domain image]"
 titleh1: "Legendary Creatures"
 ---
 Legendary creatures play important roles in many ancient texts.

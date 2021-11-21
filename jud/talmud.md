@@ -1,8 +1,5 @@
 ---
-description: "The Talmud at Intangible Textual Heritage"
-keywords: "Judaism Tanakh Tanach Torah Talmud Jewish Jew Judaica Midrash Haggada Samaritan"
 title: "The Talmud"
-categories: ' <A HREF="index">Judaism</A>&nbsp; <BR>'
 ---
 # <span class="c_dt">The Babylonian Talmud</span>
 

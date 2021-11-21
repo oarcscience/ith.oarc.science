@@ -2,7 +2,6 @@
 title: "Aristotle"
 categories: ' <A HREF="../index">Classics</A>&nbsp;'
 pathh1: "ari.jpg"
-alttext1: "bust of Aristotle"
 titleh1: "Aristotle"
 ---
 <span class="c_da"></span> <span class="c_e"> <span class="c_t">[The

@@ -1,7 +1,5 @@
 ---
 title: "Inuit Religion"
-categories: ' <A HREF="../../sha/index">Shamanism</A>&nbsp; <A HREF="../../asia/index.htm#siberia">Siberia</A>&nbsp; <A HREF="../index">Native American</A>&nbsp;'
-pathh1: "tte/247.jpg"
 alttext1: ""
 titleh1: "Inuit Religion"
 ---

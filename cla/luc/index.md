@@ -1,8 +1,5 @@
 ---
 title: "The Works of Lucian of Samosata"
-categories: ' <A HREF="../index">Classics</A>&nbsp;'
-pathh1: "lucian.jpg"
-alttext1: "portrait of Lucian of Samosata"
 titleh1: "Lucian of Samosata"
 ---
 Lucian of Samosata was a writer known for his satire. He was born in

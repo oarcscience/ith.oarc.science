@@ -1,8 +1,5 @@
 ---
 title: "Earth Mysteries"
-categories: ' </CENTER> <HR> <CENTER> <A HREF="../ufo/mars/index">Mars</A>&nbsp;&nbsp; <A HREF="../astro/index">Sky lore</A>'
-pathh1: "em.jpg"
-alttext1: ""
 titleh1: "Earth Mysteries"
 ---
 [General](#general.md)  

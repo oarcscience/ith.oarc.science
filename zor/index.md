@@ -1,10 +1,5 @@
 ---
 title: "Zoroastrian Sacred Texts"
-description: "Zoroastrian Sacred Texts at Intangible Textual Heritage"
-keywords: "Zoroastrian Zoroastrianism Avesta"
-categories: ' <BR> <A HREF="etc/index">Journal Articles: Zoroastrianism</A>&nbsp;  <A HREF="https://www.religioustolerance.org/zoroastr"> OCRT: Zoroastrianism</A>  <BR>'
-pathh1: "../ane/ziggurat.jpg"
-alttext1: "Image &copy Copyright J.B. Hare 1999, All Rights Reserved"
 titleh1: "Zoroastrianism"
 ---
 [The Zend-Avesta](#avesta)  [Pahlavi Texts](#pahlavi)  [Links](#links.md) 

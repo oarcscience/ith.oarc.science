@@ -41,7 +41,6 @@ alone folk-habits, but equally as much religious ceremonial and rite.
 #### RELIGIOUS DEFENSES
 
 The methods of warding off the spirits fell into three general
-categories: 1. to drive them away, or at least to render them powerless
 by the application of certain approved means; 2. to buy them off with
 gifts, to bribe them and thus conciliate them; 3. to deceive them by
 disguising their intended victims, or by pretending that the situation

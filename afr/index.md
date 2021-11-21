@@ -1,10 +1,6 @@
 ---
-description: "Sacred-Texts.com: African Mythology Page"
 keywords: "Africa South Africa Nigeria Bushman Bushmen Khoisan Xhosa Mythology Folklore Hottentot Kalihari Angola Kaffir Nigeria JuJu Animism Orisha Yoruba Santeria Macumba Voodoo Haiti Jamaica Rastafari Rastafarianism Ganja Haile Selassie Ethiopia Voudun Voudou Vodun Candomble Witchcraft Witchdoctor"
 title: "Sacred Texts: African Religion"
-categories: ' <BR>  <A HREF="https://www.religioustolerance.org/santeri"> OCRT: Santeria</A>&nbsp; <A HREF="https://www.religioustolerance.org/voodoo"> OCRT: Vodun</A>&nbsp;  <A HREF="../aus/index">Australian</A>&nbsp; 0'
-pathh1: "zimbabwe.jpg"
-alttext1: "Zimbabwe: Image (c) Copyright J.B. Hare 1999, All Rights Reserved"
 titleh1: "African Religion"
 ---
   

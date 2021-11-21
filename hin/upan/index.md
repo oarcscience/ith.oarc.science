@@ -4,7 +4,6 @@ keywords: "Hinduism Upanishad Upanishads"
 title: "The Upanishads, Max M&uuml;ller, translator"
 categories: ' <A HREF="../index">Hinduism</A> <BR>  <BR>  <A HREF="https://www.amazon.com/exec/obidos/ASIN/048620992X/internetsacredte"> Buy volume 1 of the Upanishads at Amazon.com</A><BR> <A HREF="https://www.amazon.com/exec/obidos/ASIN/0486209938/internetsacredte"> 0'
 pathh1: "aum.jpg"
-alttext1: ""
 titleh1: "The Upanishads"
 ---
 <span class="c_e"><span class="c_t">[Upanishads, Part One (SBE

@@ -1,8 +1,5 @@
 ---
-description: "Sacred Texts: Age of Reason"
-keywords: "Atheism Agnosticism Darwin Einstein Paine Twain Giordano Bruno"
 title: "The Age of Reason"
-categories: ' <BR> </CENTER> <HR> <P><B><span class="splashtitle">The Age of Reason</span></B></P>  <CENTER> <IMG SRC="aor.jpg" WIDTH="450" alt="Moons of Jupiter: Copyright (c) 1999 J.B. Hare, All rights reserved">'
 ---
 What if God doesn't exist? What if humanity is not the center of the
 universe? What if there is no absolute truth? Here are some texts by

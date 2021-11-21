@@ -1,10 +1,5 @@
 ---
-description: "Sacred Time"
-keywords: "Religion Mythology Calendar Time"
 title: "Sacred Time"
-categories: ''
-pathh1: "cosmic.jpg"
-alttext1: "Cosmic noise"
 titleh1: "Sacred Time"
 ---
 

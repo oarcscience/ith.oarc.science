@@ -1,10 +1,5 @@
 ---
-description: "Sacred Texts: Lang Fairy Books"
-keywords: "Colored Fairy Books Fairy Tales Tale Folklore Folk lore Children Literature"
 title: "Sacred-Texts: Lang Fairy Books"
-categories: ' <A HREF="../index">Legends and Sagas</A>&nbsp;<BR> <A HREF="../../index">Buy Sacred-Texts CD-ROM</A>    <BR>'
-pathh1: "img/rainbow.jpg"
-alttext1: "~Fairer than a fairy Summons the Rainbow: Yellow Fairy Book, p. 130"
 titleh1: "Lang Fairy Books"
 ---
 This part of sacred-texts is devoted to the 'Colored' Fairy Books

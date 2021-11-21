@@ -1,10 +1,5 @@
 ---
-description: "Works of Florence Scovel Shinn, at Intangible Textual Heritage"
-keywords: "Philosophy Florence Scovel Shinn"
 title: "Works of Florence Scovel Shinn"
-categories: ' <A HREF="../index">New Thought</A>&nbsp;'
-pathh1: "shinn.jpg"
-alttext1: "Portrait of Florence Scovel Shinn [1899] (Public domain)"
 titleh1: "Works of Florence Scovel Shinn"
 ---
 [Texts](#texts.md)

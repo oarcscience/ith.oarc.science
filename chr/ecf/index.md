@@ -1,8 +1,6 @@
 ---
 title: "Early Church Fathers"
-categories: '<A HREF="../index">Christianity</A><BR> <A HREF="#prodnotes">Production Notes</A>'
 pathh1: "staug.jpg"
-alttext1: "St. Augustine, by Sandro Botticelli [Public Domain Image]"
 titleh1: "Early Church Fathers"
 ---
 This section of sacred-texts presents a comprehensive collection of

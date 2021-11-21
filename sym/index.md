@@ -1,10 +1,5 @@
 ---
-description: "Sacred-Texts.com: Symbols"
-keywords: "symbol symbolic symbols symbolism symbology"
 title: "Intangible Textual Heritage: Symbols"
-categories: ' <BR>  <A HREF="../eso/index">Esoteric</A>&nbsp; <A HREF="../sro/index">Sub Rosa</A>&nbsp;'
-pathh1: "handfate.jpg"
-alttext1: "The Hand of Fate"
 titleh1: "Symbols"
 ---
 One of the key markers of intelligence is the ability to manipulate

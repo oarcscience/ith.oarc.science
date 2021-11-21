@@ -1,6 +1,5 @@
 ---
 description: "Sacred Texts: The Prophecies of Nostradamus"
-keywords: "Nostradamus Prophecy Prophet Divination WTC World Trade Center 9/11"
 title: "Nostradamus Index"
 categories: ' <BR> <A HREF="../eso/index">Esoteric</A>&nbsp; <A HREF="../tarot/index">Tarot</A>&nbsp; <A HREF="../ich/index">I Ching</A>&nbsp; <A HREF="../pro/index">Prophecy</A><BR> <A HREF="..//cdshop/dvd90/index">Buy Flash-Drive</A>&nbsp; <BR>'
 ---

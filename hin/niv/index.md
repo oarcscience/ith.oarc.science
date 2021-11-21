@@ -1,10 +1,6 @@
 ---
-description: "Writings of Sister Nivedita (Margaret Noble), at Intangible Textual Heritage"
-keywords: "Hinduism India Hindu Hinduism Nivedita"
 title: "Writings of Sister Nivedita (Margaret Noble)"
-categories: ' <A HREF="../index">Hinduism</A>&nbsp;'
 pathh1: "nivedita.jpg"
-alttext1: "Sister Nivedita (Public Domain Image)"
 titleh1: "The Writings of Sister Nivedita (Margaret E. Noble)"
 ---
 <span class="c_e"><span class="c_t">[Kali the

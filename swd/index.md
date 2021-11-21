@@ -1,10 +1,5 @@
 ---
-description: "Sacred Texts: Swedenborg"
-keywords: "Swedenborg Esoteric"
 title: "Swedenborg"
-categories: ' <BR>'
-pathh1: "swedenborg.jpg"
-alttext1: "Emanuel Swedenborg"
 titleh1: "Swedenborg"
 ---
 Emanuel Swedenborg (1688-1772) was a Swedish philosopher and scientist

@@ -1,10 +1,5 @@
 ---
-description: "Sacred Texts: Ancient Near East"
-keywords: "Babylon Sumer Assyria Mythology Texts Adapa Ishtar Marduk"
 title: "Sacred Texts: Ancient Near East"
-categories: ' <BR> <A HREF="../egy/index">Egyptian</A>&nbsp; <A HREF="../bib/index">Bible</A>&nbsp; <A HREF="../jud/index">Judaism</A>&nbsp; <BR>'
-pathh1: "ziggurat.jpg"
-alttext1: "Ziggurat: (c) J.B. Hare 1999"
 titleh1: "Ancient Near East"
 ---
 ### General

@@ -1,10 +1,5 @@
 ---
-description: "Sacred Texts: Lord Dunsany"
-keywords: "Dunsany Middle Earth Kalevala Edda Volsung Beowulf"
 title: "Sacred-Texts: Lord Dunsany"
-categories: ' <A HREF="../index">Legends and Sagas</A>&nbsp;<BR> <A HREF="../../index">Buy Sacred-Texts CD-ROM</A>    <BR>'
-pathh1: "img/bower.jpg"
-alttext1: "The Bower Meadow, by Dante Gabriel Rossetti [1871-2] (Public Domain Image)"
 titleh1: "The Works of Lord Dunsany"
 ---
 Edward Plunkett, the 18th Baron of Dunsany, (July 24, 1878-Oct 25, 1957)

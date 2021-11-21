@@ -1,10 +1,6 @@
 ---
-description: "The Indian Stories of F.W. Bain, at Intangible Textual Heritage"
-keywords: "Hinduism India Hindu Hinduism F.W. Bain Folklore Fairytales"
 title: "The Indian Stories of F.W. Bain"
-categories: ' <A HREF="../index">Hinduism</A>&nbsp;'
 pathh1: "gopis.jpg"
-alttext1: "Krishna and Gopis--detail of medieval painting (Public domain)"
 titleh1: "The Indian Stories of F.W. Bain"
 ---
 The Indian Stories of Francis William Bain (b. 1863, d. 1940) were

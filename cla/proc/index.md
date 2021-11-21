@@ -1,6 +1,5 @@
 ---
 title: "The Works of Procopius"
-categories: ' <A HREF="../index">Classical Paganism</A>&nbsp;'
 pathh1: "justin.jpg"
 alttext1: "Justinian"
 titleh1: "The Works of Procopius"

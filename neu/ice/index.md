@@ -1,10 +1,5 @@
 ---
-description: "Icelandic Lore at Intangible Textual Heritage"
-keywords: "Iceland Icelandic Saga Mythology Legend Viking Norse"
 title: "Icelandic Lore"
-categories: ' <BR> <A HREF="../index">Legends and Sagas</A>&nbsp;'
-pathh1: "viking.jpg"
-alttext1: ""
 titleh1: "Icelandic Lore"
 ---
 This page indexes all of the content at Intangible Textual Heritage

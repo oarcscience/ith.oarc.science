@@ -1,10 +1,5 @@
 ---
-description: "Works of Homer at Intangible Textual Heritage"
-keywords: "Homer Iliad Odyssey Troy Trojan Goddess Pagan Classics Classical Mythology Greek"
 title: "Homer"
-categories: ' <A HREF="../index">Classical Paganism</A>&nbsp; <A HREF="../hesiod/index">Hesiod</A>&nbsp;'
-pathh1: "../img/mycenae0.jpg"
-alttext1: "Entrance to the Treasury of Atreus at Mycenae &copy; J.B. Hare 2002"
 titleh1: "The Works of Homer"
 ---
 [Works of Homer](#homer)   [Homerica](#homerica.md)

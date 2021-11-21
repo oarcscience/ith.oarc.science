@@ -1,10 +1,5 @@
 ---
-description: "Sacred Texts: Necronomicon"
-keywords: "Necronomicon Lovecraft Cthulhu"
 title: "Necronomicon"
-categories: ' <BR> <A HREF="../grim/index">Grimoires</A>&nbsp; <A HREF="../goth/index">Gothic</A>&nbsp; <A HREF="../eso/index">Esoteric</A>&nbsp; <BR>'
-pathh1: "beast.jpg"
-alttext1: "Ripley Scroll, 16th Century"
 titleh1: "Necronomicon"
 ---
 The Necronomicon originated as a fictional book in the works of H.P.

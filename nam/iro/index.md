@@ -3,7 +3,6 @@ description: "Sacred Texts: Iroquois"
 keywords: "Iroquois Religion Spirituality Indian Native American"
 title: "Iroquois Religion"
 categories: ' <A HREF="../index">Native American</A>&nbsp; <A HREF="../ne/index">Northeastern</A>&nbsp;'
-pathh1: "irowmn.jpg"
 alttext1: "Iroquois women [1664] (Public Domain Image)"
 titleh1: "The Iroquois"
 ---

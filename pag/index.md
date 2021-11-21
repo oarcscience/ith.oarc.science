@@ -1,7 +1,5 @@
 ---
 title: "Sacred Texts: Wicca and Neo-Paganism"
-description: "Texts of Wicca and Neo-Paganism at Intangible Textual Heritage"
-keywords: "Paganism Wicca Witch Witchcraft Goddess Aradia Diana Isis Kali Amaterasu"
 ---
   
 [Internet Book of Shadows](../bos/index)  [Grimoires](../grim/index.md) 

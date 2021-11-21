@@ -1,8 +1,5 @@
 ---
-description: "Internet Book of Shadows, at Intangible Textual Heritage. Collection copyright &copy; 2003-2008, Internet Sacred Text Archive."
-keywords: "Book of Shadows Pagan Wicca"
 title: "Internet Book of Shadows Index"
-categories: ' <A HREF="../index">Intangible Textual Heritage</A>&nbsp;'
 ---
 <span class="p-small"> <span class="p-small2"> </span></span>
 

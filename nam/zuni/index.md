@@ -1,10 +1,6 @@
 ---
-description: "Sacred Texts: Zuni"
-keywords: "Zuni Zu&ntilde;i Acoma Frank Hamilton Cushing Ruth Bunzel Edward Curtis"
 title: "Zu&ntilde;i Religion"
 categories: ' <A HREF="../index">Native American</A>&nbsp; <A HREF="../sw/index">Southwest</A>&nbsp;'
-pathh1: "acoma.jpg"
-alttext1: "A Feast Day at Acoma: photograph by Edward S. Curtis"
 titleh1: "The Zu&ntilde;i"
 ---
 The Zuñi are a Southwest American Indian nation. Their spiritual beliefs

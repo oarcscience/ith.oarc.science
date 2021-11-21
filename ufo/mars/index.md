@@ -1,8 +1,6 @@
 ---
 title: "Mars"
 categories: ' <A HREF="../index">UFOs</A>'
-pathh1: "marsface.jpg"
-alttext1: "Nasa photo [Public Domain Image]"
 titleh1: "Mars"
 ---
 In the early years of the twentieth century Percivel Lowell and others

@@ -1,7 +1,5 @@
 ---
 title: "Legends and Sagas: Basque Folklore"
-description: "Sacred Texts: Basque Folklore"
-keywords: "Basque Folklore Legend History Spain France Euskara"
 ---
 <table data-border="0" data-cellpadding="0" data-cellspacing="0" width="800">
 <colgroup>

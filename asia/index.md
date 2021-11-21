@@ -1,8 +1,5 @@
 ---
 title: "Asia"
-categories: ' <BR> <A HREF="../bud/index">Buddhism</A>&nbsp; <A HREF="../cfu/index">Confucianism</A>&nbsp; <A HREF="../hin/index">Hinduism</A>&nbsp; <A HREF="../sha/index">Shamanism</A>&nbsp; <A HREF="../tao/index">Taoism</A>&nbsp; <BR>'
-pathh1: "east.jpg"
-alttext1: ""
 titleh1: "Asian Traditional People"
 ---
 This page links together resources at Intangible Textual Heritage
