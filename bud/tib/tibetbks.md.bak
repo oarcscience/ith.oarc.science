@@ -1,0 +1,977 @@
+     ============================================================================
+
+               Tibetan Meditation, Yoga, and Spiritual Practice Sources
+
+     ============================================================================
+
+     ============================================================================
+
+                   Buddhism - General
+                   ==================
+
+            "550 Books on Buddhism"
+             Dharma Publishing
+
+        "Bodhisattva of Compassion"
+         by John Blofeld
+         Shambhala Publications
+
+        "Entering the Stream"              Excellent Introduction to Buddhism
+             An Introduction to the Buddha and His Teachings
+         by Samuel Burcholz and Sherab Chodzin Kohn
+         Shambhala Publications
+
+        "How the Swans Came to the Lake"
+         A History of Buddhism in America
+         Dharma Communications
+
+        "The Shambhala Dictionary of Buddhism and Zen"
+         Shambhala Publications
+
+        "Ways of Enlightenment"               Techniques of Spritual Practice
+             Buddhist Studies at Nyingma Institute
+         Dharma Publishing        Excellent Introduction to Buddhist Practice
+
+
+     ============================================================================
+
+              Tibetan Buddhism - General
+              ==========================
+
+             Note:    Anyone interested in the practice or study of Tibetan
+                   Buddhism should obtain the book catalogs from:
+                   Dharma Publishing
+               Shambhala Publications Inc.
+                   Snow Lion Publications
+                   Dharma Communications
+                   and "550 Books on Buddhism"
+
+             Note:    There are many excellent books by The 14th Dalai Lama,
+                   Tenzin Gyatso.
+
+        "Kindness, Clarity, and Insight"
+         by The 14th Dalai Lama, Tenzin Gyatso
+
+        "Magic and Mystery in Tibet"
+             Penguin Book
+            "Initiations and Initiates in Tibet"
+             Shambhala Publications, Inc.
+             by Alexandra David-Neel
+
+            "Memoirs of Political Officer's Wife in Tibet, Sikkim, and Bhutan"
+         by Margret D. Williamson
+             in collaboration with John Snelling
+             Wisdom Publications
+
+        "Ocean of Wisdom"
+         by The 14th Dalai Lama, Tenzin Gyatso
+
+        "Opening of the Wisdom Eye"
+             by The 14th Dalai Lama, Tenzin Gyatso
+
+            "Princess in the Land of Snows"
+         by Jamyang Sakya and Julie Emery
+             Shambhala Publishing
+
+        "Reflections of a Himalayan Pilgrim"
+            "Way of the White Clouds"
+             by Lama Anagarika Govinda
+
+            "Tibetan Buddhism from the Ground Up"
+             A Practical Approach for Modern Life
+             by B. Alan Wallace
+         Dharmacrafts
+
+
+     ============================================================================
+
+                  Meditation - Practice
+                  =====================
+
+             Note:    Many of the best books on meditation and yoga are
+                   advertised in "Yoga International" Magazine.
+
+             Note:    Many meditation and yoga books by all publishers
+                   listed here are available from Dharma Communications
+                   or Shambhala Publications. Both have catalogs and do
+                   extensive mail order.
+
+             Note:    Anyone interested in the practice or study of
+                   Buddhism should obtain the book "550 Books on Buddhism"
+                   from Dharma Publishing.
+
+
+     ============================================================================
+
+                          Introduction To Meditation Books
+                          ================================
+
+             These are particularly good first books, but not only first
+             books, on meditation.
+
+            "How to Meditate"
+             A Practical Guide
+             by Kathleen McDonald
+             edited by Robina Courtin
+         Dharma Communications
+
+            "Meditation"                                             Kagyu Master
+             Advice to Beginners
+             by Bokar Rinpoche
+         Dharma Communications
+
+            "The Practice of Tranquility and Insight"                                            Kagyu Master
+             A Guide to Tibetan Buddhist Meditation
+             by Khenchen Thrangu
+         Dharma Communications
+
+
+     ============================================================================
+
+                  Meditation - Practice
+                      =====================
+
+        "Kum Nye" Volumes 1 and 2                Good sections on meditation,
+         by Lama Tarthang Tulku                  Tibetan Yoga, and self
+         Dharma Publishing                       massage
+
+        "Meditation"
+         Advice to Beginners
+             by Bokar Rinpoche
+         DharmaCrafts
+
+        "Openness Mind"
+         by Lama Tarthang Tulku
+         Dharma Publishing
+
+            "The Practice of Tranquillity and Insight"
+             A Guide to Tibetan Buddhist Meditation
+             by Kenchen Thrangu
+
+
+     ============================================================================
+
+                   Tibetan
+                   =======
+
+            "A Flash of Lightning in the Dark of Night"
+             A Guide to the Bodhisattva's Way of Life
+             by H.H. the Dalai Lama
+         DharmaCrafts
+
+        "Gesture of Balance"
+         by Lama Tarthang Tulku
+             Dharma Publishing
+
+            "Introduction to Tibetan Buddhism"
+             by John Powers
+         Snow Lion Publications
+
+            "Shambhala - Sacred Path of the Warrior"
+             by Lama Chogyam Trungpa
+             Shambhala Publishing
+
+            "The Practice of Tranquility and Insight"      Practical guide
+             A Guide to Tibetan Buddhist Meditation        Beginning and advanced
+             by Khenchen Trangyu
+         DharmaCrafts
+
+            "The Snow Lion's Turquoise Mane"
+             Wisdom Tales from Tibet
+             by Surya Das
+             introduction by the Dalai Lama
+             foreward by Daniel Goleman
+
+            "The Tibetan Book of the Dead"    One of the first Tibetan spiritual
+             The Great Liberation through     books ever transalated into English
+             Hearing in the Bardo
+             transalated with commentary
+             by Francesca Freemantle and Lama Chogyam Trungpa
+         Shambhala Publications
+
+            "The Tibetan Book of Living and Dying"
+             by Sogyal Rinpoche
+         Snow Lion Publications
+
+            "The World of Tibetan Buddhism"                  Numerous other books
+             An Overview of Its Philosophy and Practice      by the Dalai Lama
+             by Tenzin Gyatzo, The 14th Dalai Lama
+             Translated, edited, and annotated by Geshe Thupten Jinpa
+         Wisdom Publications
+
+
+     ============================================================================
+
+                               Tantra
+                               ======
+
+        "Introduction to Tantra"
+             A Vision of Totality
+         by Lama Yeshe
+             edited by Jonathan Landaw
+         Dharma Communications
+
+            "Passionate Enlightenment:
+             Women in Tantric Buddhism"
+             by Miranda Shaw
+             Princeton University Press
+                    This thoroughly researched treatise is an excellent book
+                 on the correct, practical aspects of tantric practice.
+
+            "Mother of the Universe:                 -- Ramprasad and Application
+             Visions of the Goddess and Tantric Hymns of Enlightenment"
+             by Les Hixson
+             Quest Books
+
+        "Tantra"
+         by Philup Rawson
+
+        "Tantric Mysticsm of Tibet"
+         by John Blofeld
+
+        "Tantric Practices in Nying-Ma"
+         by Khetsun Sangpo Rinpoche
+
+            "Yoga, Tantra, and Meditation in Daily Life"
+             by Swami Janakananda
+             Pyramid Books
+
+
+     ============================================================================
+
+              Applying Meditation And Spiritual Life To Everyday Life
+                                  Path of Action
+              =======================================================
+
+             Note:    Many books on application of meditation and spiritual
+                   practice to daily life are listed in the catalogs of Dharma
+                   Communications and Parallax Press.
+
+        "A Guide to Walking Meditation"
+         by Thich Nhat Hanh
+         Fellowship Publications
+                      Note: A practical instruction book by Zen Master
+                   Thich Nhat Hanh on how to extend formal meditation to the
+                   process of walking.
+
+            "Chenrezig, Lord of Love"
+             Principles and Methods of Deity Meditation
+             by Bokar Rinpoche
+             DharmaCrafts
+
+        "Enlightened Courage"
+             An Explanation of Atisha's
+             Seven Point Mind Training
+         by Dilgo Khyentse Rinpoche
+         DharmaCrafts
+
+        "Mastering Successful Work"      Techniques on how to apply spiritual
+         by Lama Tarthang Tulku          practices to work.
+         Dharma Publishing
+
+        "Skillful Means"                 Techniques on how to apply spiritual
+         by Lama Tarthang Tulku          practices in daily life.
+         Dharma Publishing
+
+        "Start Where You Are"
+             A Guide to Compassionate Living
+         by Pema Chodron
+         DharmaCrafts
+
+        "Transforming Problems Into Happiness"
+         by Lama Zopa Rinpoche
+         Wisdom Publications
+
+
+     ============================================================================
+
+              Retreat -- Ascetic Practice
+              ===========================
+
+        "Jamgon Kontrul's Retreat Manual"
+         translated by Ngawang Zangpo
+         DharmaCrafts
+
+        "Living With the Himalayan Masters"
+         by Swami Rama
+         Himalayan Institute Publishing
+
+            "Sanctuaries"
+             The Northeast A Guide
+             to Lodgings in Monasteries, Abbeys,
+             and Retreats in the United States
+             by Jack and Marcia Kelley
+             Shambhala Publications
+
+      ============================================================================
+
+                               Women's Spirituality
+                               ====================
+
+            "Mother of Knowledge"               Formost Disciple of Padmasambhava
+             Biography of Lady Yeshes mTsho-rgyal
+             Dharma Publishing
+
+            "Passionate Enlightenment:
+             Women in Tantric Buddhism"
+             by Miranda Shaw
+             Princeton University Press
+                    This thoroughly researched treatise is an excellent book
+                 on the correct, practical aspects of tantric practice.
+
+
+      ============================================================================
+
+                               Children's Spiritual Books
+                               ==========================
+
+             Note: DharmaCrafts has many spiritual books for children.
+
+            "A Treasury of Wise Action"           Jataka Tales for Older Children
+             Jataka Tales of Compassion And Wisdom
+         Dharma Communications
+
+            "Dharma Family Treasures"
+             Sharing Mindfulness with Children
+             edited by Sandy Eastoak
+         DharmaCrafts
+
+            "Jataka Tales"                     Classic Series of Buddhist Stories
+             Dharma Publishing
+         Dharma Communications
+
+            "Learning from the Dalai Lama"    Simple introduction to the Buddhist
+             Secrets of the Wheel of Time     way of life for children. How to
+             by Karen Pandell & Barry Bryant  make mandalas at home.
+             foreward by Richard Gere         Kalachakra
+         Dharma Communications
+
+
+     ============================================================================
+
+             Martial Arts/Warrior Path And Spiritual Practice Books
+             ======================================================
+
+            "The Door to Satisfaction"
+             The Heart Advice of an
+             Tibetan Buddhist Master
+             by Lama Thubten Zopa Rinpoche
+         DharmaCrafts
+
+
+     ============================================================================
+
+                        The Arts And Spiritual Practice Books
+                        =====================================
+
+            "Creating Mandalas"
+             For Insight, Healing, and Self-Expression
+             by Susanne F. Fincher
+             Foreward by Robert A. Johnson
+             Shambhala Publications
+
+
+     ============================================================================
+
+                Spiritual Practice Book Publishers and Distributors
+                ===================================================
+
+        Book catalogues are generally available :
+
+                21st Century Bookstore              -- Spiritual Children's Books
+                P.O. Box 702                        -- Imports from India
+                Fairfield, IA  52556
+                (515) 472-5105
+
+                Asian Humanities Press
+                P.O. Box 3523
+                Fremont, CA  94539
+                (510) 659-8272
+                (510) 659-0501  -- Fax
+
+                Bodhi Tree Bookstore             Catalog and Extensive Mail Order
+                8585 Melrose Ave.
+                West Hollywood, CA  90069
+                (800) 825-9798
+
+                Blue Dolphin Press                        Tibetan and Kagyu books
+                12380 Nevada City Highway
+                Nevada City, CA  95959
+                (916) 265-6923
+
+            Dharma Communications                      Zen Mountain Monastery
+            P.O. Box 156
+                South Plank Road
+            Mt. Tremper, NY  12457
+            (914) 688-7993
+
+            Dharma Publishing                             Nyingmapa Institute
+            2425 Hillside Ave.
+            Berkeley, CA  94704
+            (510) 548-5407
+
+            DharmaCrafts
+            405 Waltham St.
+                Suite 234
+                Lexington, MA  02173
+            (617) 862-9211
+
+            East West Bookshop
+            1170 El Camino Real
+            Menlo Park, CA  94025
+            (415) 325-5709
+
+            Element Books
+            42 Broadway
+            Rockport, MA  01966
+
+            Heian International, Inc.
+            1815 West 205th Street
+                Suite 301
+            Torrance, CA  90501
+
+            Himalayan Academy Publications
+            1819 Second St.
+            Concord, CA 94519
+
+            Himalayan Institute Publishing
+                RR1  Box 400
+                Honesdale, PA  18431
+                (800) 822-4547
+
+            Inner Directions                          Taoist books and others
+            P.O. Box 231486
+            Encinitas, CA  92023
+            (800) 545-9119
+
+                Kamtsang Choling USA Bookstore                Tibetan Kagyu books
+                P.O. Box 27901-452
+                San Francisco, CA  94127
+                (415) 661-6467
+
+            Nilgiri Press                     Books for translating spiritual
+            Box 256                           ideals into daily life
+            Tomales, CA  94971
+            (800) 475-2369
+
+                Parallax Press                  Books on meditation, application
+                P.O. Box 7355                   to daily life and social activity
+                Berkeley, CA 94707              Books by Thich Hhat Hanh
+
+            Pacific Spirit Whole Life Products
+                The Mystic Trader   Large selection of Tibetan Religious articles
+            Forest Grove, OR 97116
+            (800) 634-9057
+
+            Pyramid Books
+                New Age Collection
+            P.O. Box 3333
+                Altid Park
+            Chelmsford, MA  01824-0933
+            (800) 333-4220
+
+            Samuel Weisner Books                            One of the oldest
+            Box 612
+                York Beach, ME  03910-0612
+                (800) 423-7087
+
+            Shambhala Publications Inc.                       Major publisher
+            300 Massachusetts Ave.
+                Horticultural Hall
+            Boston, MA  02115
+                (617) 424-0228
+
+            Shasta Abbey Buddhist Supplies                         Zen Center
+            Box 199
+            Mt. Shasta, CA  96067
+            (916) 926-6682 -- Customer Service
+            (800) 653-3315 -- Orders
+            (916) 926-5796 -- Fax
+
+            Snow Lion Publications
+            P.O. Box 6483                Extensive Tibetan Books and Material
+            Ithaca, NY  14851
+            (800) 950-0313
+                (607) 273-8519
+
+            State University of New York Press
+            C/O CUP Services
+            P.O. Box 6525
+                Ithaca, NY 14851
+            (800) 666-2211               Orders
+                (607) 277-2211               Customer Service
+
+            Triumph Books
+            Box 216
+                Liguori, MO  63057-9999
+                (800) 325-9521, ext. 216
+
+            Wisdom Publications
+            361 Newbury St,
+            Boston, MA  02115
+                (800) 272-4050
+
+            Windhorse Publications      Buddhist Books by Ven. Sangharakshita
+            Heartwood Circle
+            Newmarket, NH  003857
+                (603) 659-5456
+
+                Yes International Publishers
+                (800) 866-2672
+
+            ====================================================
+            Spiritual Art, Statues, Thankas, Meditation Supplies
+            ====================================================
+
+            Charles O.Hara
+                P.O. Box121
+            Susquehana, PA  18847
+            (717) 853-4725
+
+            Dharma Communications                      Zen Mountain Monastery
+            P.O. Box 156
+                South Plank Road
+            Mt. Tremper, NY  12457
+            (914) 688-7993
+
+            Dharma Publications                           Nyingmapa Institute
+            2425 Hillside Ave.
+            Berkeley, CA  94704
+            (510) 845-1710
+
+            DharmaCrafts
+            405 Waltham St.
+                Suite 234
+                Lexington, MA  02173
+            (617) 862-9211
+
+            Pacific Spirit Whole Life Products
+            1334 Pacific Ave.
+            Forest Grove, OR 97116
+            (800) 634-9057
+
+            Pyramid Books
+                New Age Collection
+            P.O. Box 3333
+                Altid Park
+            Chelmsford, MA  01824-0933
+            (800) 333-4220
+
+            Shasta Abbey Buddhist Supplies                         Zen Center
+            Box 199
+            Mt. Shasta, CA  96067
+            (916) 926-6682 -- Customer Service
+            (800) 653-3315 -- Orders
+            (916) 926-5796 -- Fax
+
+            Tara Enterprises
+                Kunzang Palyul Choling Monastery                          Tibetan
+            (800) 775-TARA
+
+
+            =======================================================
+            Spiritual Practice Video, Audio, Material for the Blind
+            =======================================================
+
+            Audio Literature Presents                  Buddhist Books on Cassette
+            3800 Palos Verdes Way
+            South San Francisco, CA  94080
+            (415) 952-3400
+            (800) 841-2665
+
+            Dharma Communications                          Zen Mountain Monastery
+        P.O. Box 156                                   Large selection
+            South Plank Road
+        Mt. Tremper, NY  12457
+        (914) 688-7993
+               Specific Videos:
+                  "Introduction to Zen Meditation"
+                  "Introduction to Zen Buddhism"
+                  "The Home Practice Tape"
+
+            DharmaCrafts
+        405 Waltham St.
+            Suite 234
+            Lexington, MA  02173
+        (617) 862-9211
+
+        Pacific Spirit
+        1334 Pacific Ave.
+        Forest Grove, OR 97116
+        (800) 634-9057
+
+            ====================================================================
+        Periodicals -- Magazines
+            ========================
+
+            Gesar                                        Tibetan Buddhism Journal
+            Dharma Publishing
+            2145 Hillside Ave.
+            Berkeley, CA  94704
+            (510) 548-5407
+
+            Kagyu Life International                        Tibetan Kagyu Journal
+            P.O. Box 27901-452
+            San Francisco, CA  94127
+            (415) 661-6467
+
+            Mandala                                                       Journal
+            The Foundation for the Preservation of the Mahayana Tradition
+            FPMT Central Office
+            P.O. Box 1778
+            Soquel, CA  95073
+            (408) 476-8435
+
+            Purple Lotus Journal
+            Amitabha Publishing
+        628 San Mateo Ave.
+        San Bruno, CA  94066
+            (415) 589-9559
+
+            Shambhala Sun
+            1365 Spruce St.
+        Boulder, CO  80302-4886
+            (902) 422-8404
+
+            Tantra
+            P.O. Box 108
+            Torreon, NM  87061-0108
+            (505) 384-2292
+
+            Tricycle, The Buddhist Reveiw
+            P.O. Box 3000
+            Denville, NJ 07834-9897
+            (800) 950-7008
+
+
+            =====================================================================
+            Book Stores -- Meditation, Yoga
+            =====================================================================
+
+            Bodhi Tree Bookstore                 Catalog and Extensive Mail Order
+            8585 Melrose Ave.
+            West Hollywood, CA  90069
+            (800) 825-9798
+
+            Field's Bookstore                                  Polk at California
+            1419 Polk St.
+            San Francisco, CA  94109
+            (415) 673-2027
+
+            Forest Books                                             New and Used
+            3080 16th St.                                              Mail Order
+            San Francisco, CA  94103
+            (415) 863-2755
+
+            Moe's Books  -- Used Books                   Telegraph and Dwight Way
+            2476 Telegraph Ave.
+            Berkeley, CA  94704
+            (510) 849-2087
+
+            Shambhala Booksellers                        Telegraph and Dwight Way
+        2482 Telegraph Ave.
+            Berkeley, CA  94704
+            (510) 848-8443
+
+            Shakespere's Books -- Used Books             Telegraph and Dwight Way
+            2499 Telegraph Ave.
+        Berkeley, CA  94704
+            (510) 841-8916
+
+
+     ============================================================================
+
+                          Centers -- Meditation -- Practice
+                          =================================
+
+            =====================================================================
+            California
+            =====================================================================
+
+                Most of these places offer free instruction in meditation.
+            Call for details.
+
+                This listing is primarily for the San Francisco Bay Area.
+            A few major National Institutes are also listed. For Meditation
+            and Yoga Instruction in other areas, the following books, available
+            from Shambhala Books in Berkeley, CA, can be consulted.
+
+                "A Handbook of Tibetan Culture"
+                "Buddhist America"
+                "Spirit Seeker's Guide"
+
+                "North American Guide to Vajradhatu Centers"
+                 available from:         -- Lama Chogyam Trungpa, Kagyu Tradition
+                 Karma Dzong             -- Meditation Centers related to
+                 1345 Spruce St.         -- Naropa Institute
+                 Boulder, CO  80302
+                 (303) 444-0190
+
+            =====================================
+            =====================================
+            Tibetan
+
+            ===========
+            Dharmadhatu                      -- Kagyu -- Lama Chogyam Trungpa
+        2288 Fulton St.                  -- Meditation -- Instruction
+            Berkeley, CA  94704
+            (510) 841-3242
+            (510) 649-9470
+
+            ===========
+            Dharmadhatu                      -- Kagyu -- Kalu Rinpoche
+            1892 Fell St.                    -- Meditation -- Instruction
+        San Francisco, CA
+            (415) 752-5454
+
+            ====================
+            Kamtsang Choling USA             -- Kagyu -- Shamar Rinpoche
+            Buddhist Centers                 -- Lama Ole Nydhal
+            33 Marne Ave.                    -- Meditation -- Instruction
+            San Francisco, CA  94127         -- Beginners welcome, retreats
+            (415) 661-6467
+            74034,1033                       -- email Compuserve ID
+
+            California Centers in:
+            Los Angeles
+            Nevada City
+            San Diego
+            San Luis Obispo
+            Tiajuana
+
+            160 Worldwide and 15 USA Centers
+
+            ===================
+            Nyingmapa Institute              -- Meditation, Yoga
+            1815 Highland Place              -- Many types of instruction
+            Berkeley, CA  94704
+            (510) 843-6812
+
+            ===================
+            Padma Shedrup Ling               -- Lama Yonten
+            Box 117                          -- Meditation -- Instruction
+            Fairfax, CA  94978
+        (415) 485-1356
+
+            ===================
+            Sang-ngak-cho-dzong              -- Nyingma
+            2508 Eagle Ave.
+        Alameda, CA  94501
+            (510) 865-1394
+
+
+            ====================================================================
+        National Locations
+            ====================================================================
+
+               For meditation and yoga instruction in various locations, the
+            following books, available from Shambhala Books in Berkeley, CA,
+            can be consulted.
+
+                "A Handbook of Tibetan Culture"
+                "Buddhist America"
+                "Spirit Seeker's Guide"
+
+                "North American Guide to Vajradhatu Centers"
+                 available from:         -- Lama Chogyam Trungpa, Kagyu Tradition
+                 Karma Dzong             -- Meditation Centers related to
+                 1345 Spruce St.         -- Naropa Institute
+                 Boulder, CO  80302
+                 (303) 444-0190
+
+            ========================
+            ================
+            Kamtsang Choling                 -- Kagyu -- Shamar Rinpoche
+            Buddhist Centers                 -- Lama Ole Nydhal
+            33 Marne Ave.                    -- Meditation -- Instruction
+            San Francisco, CA  94127         -- Beginners welcome, retreats
+            (415) 661-6467                   -- International Institute
+            74034,1033                       -- email Compuserve ID
+
+            California Centers in:
+            Los Angeles
+            Nevada City
+            San Diego
+            San Luis Obispo
+            Tijuana
+
+            160 Worldwide and 15 USA Centers  Call, write, or email for locations
+
+            =================
+            Namgyal Institute                      -- Buddhist Studies
+            P.O. Box 127                           -- North American Monastery
+            Ithaca, NY  14851                      -- of the Dalai Lama
+            (607) 273-0739
+
+            ================
+            Naropa Institute                       -- Kagyu, Lama Chogyam Trungpa
+            2130 Arapahoe Ave.
+            Boulder, CO  80302
+            (303) 444-0202
+
+            ===================================
+            Sakya Monastery of Tibetan Buddhism
+            108 N.W. 83rd Ave.
+            Seattle, WA  98100
+            (206) 789-2573
+
+            =============================================================
+            The Foundation for the Preservation of the Mahayana Tradition
+            FPMT Central Office            Global network of Buddhist centers and
+            P.O. Box 1778                  activities
+            Soquel, CA  95073              Founded by Lama Thubten Yeshe and
+            (408) 476-8435                 Lama Thubten Zopa Rinpoche
+
+
+            ====================================================================
+            Vegetarian Cook Books
+            ====================================================================
+
+            "The Odiyan Cook Book"
+             Dharma Publishing
+
+            ====================================================================
+            Computer Community
+            ====================================================================
+
+               There are a number of Buddhist Computer Bulletin Boards.
+            Several are listed as a place to start.
+
+            Access to Insight                   Specializes in Theravada Buddhism
+            P.O. Box 107                        and practice centers
+            Pepperell, MA  01463
+            (508) 433-5847
+
+            America Online      Buddhist special interest groups and file library
+            (614) 457-8600
+
+            BuddhaNet                       Buddhist file library
+            +61-2-456-4483                  member of both DharmaNet and BodhiNet
+
+            Compuserve                            Large online Buddhist community
+            (614) 457-8600
+
+            Dharmanet International                        Major Buddhist network
+            Barry Kapke, Director
+            P.O. Box 4951
+            Berkeley, CA  94704-4951
+
+            Dzogchen Foundation
+            https://www.kei.com/homepages/surya/dzogchen/
+
+            Kamtsang Choling Home Page           International Kagyu Organization
+            https://144.92.74.130
+
+            Lama Surya Das
+            https://www.kei.com/homepages/surya/
+
+            Nyingma Institute Home Page
+            https://www-leland.stanford.edu:80/~wgs/nyngctr.html
+
+            Tiger Team Buddhist Information Network
+            1920 Francisco St.
+            Suite 112
+            Berkeley, CA  94709
+            (510) 268-0102 -- data     -- Specializes in Tibetan and Zen Buddhism
+            (510) 540-6565 -- voice
+
+            The Well         Large collection of Buddhist special interest groups
+            info@well.sf.ca.us                    large online Buddhist community
+            (415) 332-4335
+
+
+            =======================================================================
+            Human Rights -- Socially Engaged Spiritual Practice
+            =======================================================================
+
+            Amnesty International
+            San Francisco Office
+            (415) 441-3733
+
+            Ananda Marga Tantra Yoga                    Path of Bliss
+            Quest Center                                activity in 200 countries
+            R.R. 1, Box 1366
+            Hop Bottom, PA 18824
+            (717) 289-4021
+
+            Buddhist Peace Fellowship     Engaged Buddhism -- Peace, Ecology, etc
+            P.O. Box 4650
+            Berkeley, CA  94704
+            (510) 525-8596
+
+            Community of Mindful Living   Engaged Buddhism -- Peace, Ecology, etc
+            P.O. Box 7355                 Mindfullness practice in daily life
+            Berkeley, CA  94704           Thich Nhat Hanh orientation
+            (510) 527-3751
+
+            Fellowship of Reconciliation
+            Box 271
+            Nyack, NY  10960
+                  The nondenominational Fellowship is dedicated to nonviolent
+               resolution of conflict, integration of faith in daily life, and
+               compassionate action.
+
+            Tibet:---------------------------------------------------------------
+
+            Canada Tibet Committee
+            4675  Coolbrook
+            Montreal, Quebec  H3X ZK7  Canada
+            (514)-487-0665
+            (514)-487-7825
+            email: fourniel@ere.umontreal.ca
+
+            International Campaign for Tibet     Representative of the Dalai Lama
+            1735 I Street, NW, Suite 615
+            Washington, D.C. 20006
+            (202) 785-1515
+            (202) 785-4343  Fax
+            email: ict@igc@apc.org
+
+            International Committee of Lawyers for Tibet
+            347 Dolores Street, Suite 206
+            San Francisco, CA.  94110
+            (415)-252-5967
+            (415)-626-0865  Fax
+            email: iclt@igc.apc.org
+
+            Tibet House                                 Brochures and newsletters
+            241 East 32nd St.
+            New York, NY  10016
+
+            Tibet Support Group
+            43 New Oxford Street
+            London  WC1A IBH  England
+            71-240-2493
+            71-405-3814  Fax
+            email: tibetsupport@gn.apc.org
+
+            Tibetan Aid Project     Supports monks, nuns, and monasteries in Asia
+            2910 San Pablo Ave.
+            Berkeley, CA  94702
+            (800) 33-TIBET
+            (510) 84-TIBET
+            (510) 548-2230  Fax
+            email: tap@dnai.com
+
+            Tibetan Rights Campaign                                    Newsletter
+            4649 Sunnyside Ave. North
+            Suite 342
+            P.O. Box 31966
+            Seattle, WA  98103-0066
+            (206) 547-1015
+
+            Tibetan Woman's Association
+            Mcleodganj, Dharamala, HP, India
+            91-1892-2527
+            91-1892-4213  Fax
+            email: two@cta.unv.ernet.in
+
+            Women Working For Tibetans
+            P.O. Box  21614
+            1850  Commercial Drive
+            Vancouver, B.C.  V5N 4A0
+            (604)-737-7701
+
+
+     ============================================================================
+     ============================================================================
