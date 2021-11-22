@@ -1,7 +1,6 @@
 
 <meta name="description" content="Sacred Texts: Hermetic Museum">
 title: "Hermetic Museum Main Index"
-categories: ' <BR> </CENTER> <HR> <CENTER> <B>Hermetic Museum Index</B><BR> <A HREF="../hm1/index">VOL. I</A>&nbsp;|&nbsp;<A HREF="../hm2/index">VOL. II</A>'
 pathh1: "img/oroboros.jpg"
 alttext1: "The Book of Lambspring, fig. 6 (public domain image)"
 titleh1: "The Hermetic Museum"

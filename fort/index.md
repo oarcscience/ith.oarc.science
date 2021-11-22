@@ -1,6 +1,5 @@
 
 title: "Fortean Texts"
-categories: ' <BR> <A HREF="../eso/index">Esoteric</A>&nbsp; <A HREF="../ufo/index">UFOs</A><BR>'
 titleh1: "Fortean Texts"
 ---
 In the early twentieth century Charles Fort put together great

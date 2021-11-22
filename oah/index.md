@@ -1,6 +1,5 @@
 
 title: "Oahspe Index"
-categories: ' <BR> <A HREF="../eso/index">Esoteric</A>&nbsp; <HR>  <A HREF="https://www.abebooks.com/servlet/SearchResults?tn=Oahspe">Buy a used copy of Oahspe at ABEBooks.com</A>'
 pathh1: "oah/img/49100.jpg"
 alttext1: "Oahspe, Public Domain Image"
 titleh1: "Oahspe"

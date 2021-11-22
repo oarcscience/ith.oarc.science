@@ -1,7 +1,6 @@
 
 margcss: margcss
 title: "The Shakers"
-categories: ' <A HREF="../index">Christianity</A><br> <A HREF="../../wmn/index">Women</A>'
 ---
 # The Shakers
 

@@ -1,6 +1,5 @@
 
 title: "The Works of Ovid"
-categories: ' <A HREF="../index">Classical Paganism</A>&nbsp;'
 pathh1: "ovid.gif"
 titleh1: "The Works of Ovid"
 ---

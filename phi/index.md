@@ -1,6 +1,5 @@
 
 title: "Western Philosophy at Intangible Textual Heritage"
-categories: ''
 pathh1: "schath.jpg"
 titleh1: "Western Philosophy"
 ---

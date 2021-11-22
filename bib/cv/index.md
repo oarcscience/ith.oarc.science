@@ -1,7 +1,6 @@
 
 <meta name="description" content="Bible--Critical Views at Intangible Textual Heritage">
 title: "Bible--Critical Views"
-categories: ' <A HREF="../../aor/index">Age of Reason</A>&nbsp; <A HREF="../index">Hypertext Bible</A><BR> <A HREF="../wb/index">World Bible</A>&nbsp; <A HREF="../eb">English Bibles</A>&nbsp;'
 titleh1: "Bible--Critical Views"
 ---
 This page indexes resources at this site presenting critical views of

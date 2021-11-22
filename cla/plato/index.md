@@ -1,6 +1,5 @@
 
 title: "Dialogues of Plato"
-categories: ' <A HREF="../index">Classics</A>&nbsp;'
 pathh1: "schath.jpg"
 alttext1: "The School of Athens (Detail) by Rafael [Public Domain Image]"
 titleh1: "Dialogues of Plato"

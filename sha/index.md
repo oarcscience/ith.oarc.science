@@ -1,6 +1,5 @@
 
 # Intangible Textual Heritage: Shamanism
-categories: ' <BR> <A HREF="../nel/index">Paleolithic</A>&nbsp; <A HREF="../pag/index">Neopaganism</A>&nbsp; <A HREF="../nam/index">Native American</A>&nbsp; <A HREF="../asia/index">Traditional Asian</A><BR>'
 alttext1: "Bear Feast: Public domain image"
 <title>Intangible Textual Heritage: Shamanism</title>
 

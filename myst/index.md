@@ -1,7 +1,6 @@
 
 keywords: "Mystic Mysticism Mystical Occult Esoteric"
 title: "Sacred Texts: Mysticism"
-categories: ''
 pathh1: "img/lilies.jpg"
 alttext1: ""
 titleh1: "Mysticism"

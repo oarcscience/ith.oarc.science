@@ -1,7 +1,6 @@
 ---
 keywords: "Native American Indian California Karok Karuk Hupa Hupa Achomawi Yurok Miwok Maidu Shasta Yahi Modoc Chumash Ohlone Costanoan Salinan Esselen Luiseno Gabrieleno Mission"
 title: "Native Californians"
-categories: ' <A HREF="../index">Native American</A>&nbsp;'
 pathh1: "bigsur.jpg"
 <title>Intangible Textual Heritage: Native Californians</title>
 ---

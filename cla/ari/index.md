@@ -1,6 +1,5 @@
 
 title: "Aristotle"
-categories: ' <A HREF="../index">Classics</A>&nbsp;'
 pathh1: "ari.jpg"
 titleh1: "Aristotle"
 ---

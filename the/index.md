@@ -1,7 +1,6 @@
 ---
 keywords: "Theosophy Blatavsky"
 title: "Theosophy"
-categories: ' <BR> <A HREF="../atl/index">Atlantis</A>&nbsp; <A HREF="../bud/index">Buddhism</A>&nbsp; <A HREF="../eso/index">Esoteric</A>&nbsp; <A HREF="../hin/index">Hinduism</A> <BR>'
 pathh1: "hpb.jpg"
 alttext1: "H.P. Blavatsky"
 titleh1: "Theosophy"

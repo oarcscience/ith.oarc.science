@@ -1,7 +1,6 @@
 
 keywords: "grey mib sacred texts ufo spirituality xfiles"
 title: "UFO BBS Files"
-categories: ' <BR> <A HREF="index">UFOs</A><BR> <A HREF="../eso/index">Esoteric &amp; Occult</A> &nbsp; <A HREF="../myst">Mysteries</A><BR>  &nbsp;  0'
 alttext1: "Image Copyright (c) 2008, J.B. Hare"
 titleh1: "UFO BBS Files"
 ---

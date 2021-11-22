@@ -1,6 +1,5 @@
 ---
 title: "The Dramas of Aeschylus"
-categories: ' <A HREF="../index">Classics</A>&nbsp;'
 pathh1: "furies.jpg"
 alttext1: "Orestes Pursued by the Furies (1862) [Public Domain Image]"
 titleh1: "The Dramas of Aeschylus"

@@ -1,6 +1,5 @@
 ---
 # The Works of Archimedes
-categories: ' <A HREF="../index">Classics</A>&nbsp;'
 pathh1: "archim.jpg"
 alttext1: "Archimedes (public domain image)"
 titleh1: "The Works of Archimedes"

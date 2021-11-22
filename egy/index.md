@@ -1,6 +1,5 @@
 ---
 title: "Sacred Texts: Ancient Egypt"
-categories: ' <BR> <A HREF="../afr/index">African Religion</A><BR>'
 pathh1: "osiris.jpg"
 alttext1: "Osiris standing between Isis and Nephthys (public domain image)"
 titleh1: "Ancient Egypt"

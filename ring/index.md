@@ -1,7 +1,6 @@
 
 keywords: "Tolkien Middle Earth Kalevala Edda Volsung Beowulf"
 # Sacred-Texts: Sources of Lord of the Ring
-categories: ' <BR> <A HREF="../neu/index">Sagas and Legends</A><BR> <A HREF="../index">Buy Sacred-Texts CD-ROM</A>&nbsp;   <A HREF="links">Links</A>'
 pathh1: "ring.jpg"
 alttext1: "Image &copy Copyright J.B. Hare 2001, All Rights Reserved"
 <title>Intangible Textual Heritage: Sources of Lord of the Rings</title>

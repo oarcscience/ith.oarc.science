@@ -2,7 +2,6 @@
 <meta name="description" content="The Mahabharata at Intangible Textual Heritage">
 keywords: "Hinduism Mahabharata Bhagavad-Gita Gita Kisari Mohan Ganguli"
 title: "Sacred-Texts: Hinduism"
-categories: ' <A HREF="../index">Hinduism</A> <BR>'
 
 ### The Mahabharata
 

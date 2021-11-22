@@ -1,6 +1,5 @@
 ---
 title: "The Piri Re'is Map"
-categories: ' <BR> <A HREF="../atl/index">Atlantis</A>&nbsp; <A HREF="../eso/index">Esoteric</A><BR>  <BR> <A HREF="pirikey">Map key</A>&nbsp;'
 
 <table width="100">
 <colgroup>

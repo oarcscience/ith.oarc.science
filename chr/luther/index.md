@@ -1,6 +1,5 @@
 ---
 title: "Writings of Martin Luther"
-categories: '<A HREF="../index">Christianity</A><BR> <A HREF="https://www.ctsfw.edu/etext/luther/">Writings of Martin Luther at Project Wittenberg</A> [External Site]'
 ---
 |                               |
 |-------------------------------|

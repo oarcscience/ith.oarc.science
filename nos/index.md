@@ -1,7 +1,6 @@
 ---
 <meta name="description" content="Sacred Texts: The Prophecies of Nostradamus">
 title: "Nostradamus Index"
-categories: ' <BR> <A HREF="../eso/index">Esoteric</A>&nbsp; <A HREF="../tarot/index">Tarot</A>&nbsp; <A HREF="../ich/index">I Ching</A>&nbsp; <A HREF="../pro/index">Prophecy</A><BR> <A HREF="..//cdshop/dvd90/index">Buy Flash-Drive</A>&nbsp; <BR>'
 
 |                                                                  |                                              |
 |------------------------------------------------------------------|----------------------------------------------|

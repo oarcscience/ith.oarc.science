@@ -1,6 +1,5 @@
 ---
 title: "Zu&ntilde;i Religion"
-categories: ' <A HREF="../index">Native American</A>&nbsp; <A HREF="../sw/index">Southwest</A>&nbsp;'
 <title>Intangible Textual Heritage: The Zu&ntilde;i</title>
 ---
 The Zuñi are a Southwest American Indian nation. Their spiritual beliefs

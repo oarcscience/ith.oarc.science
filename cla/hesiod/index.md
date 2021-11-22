@@ -1,7 +1,6 @@
 ---
 keywords: "Hesiod Theogony Goddess Pagan Classics Classical Mythology Greek"
 # Hesiod
-categories: ' <A HREF="../index">Classics</A>&nbsp; <A HREF="../homer/index">Homer</A>&nbsp;'
 pathh1: "../img/acrop0.jpg"
 alttext1: "The Acropolis &copy; J.B. Hare 2002"
 titleh1: "The Works of Hesiod"

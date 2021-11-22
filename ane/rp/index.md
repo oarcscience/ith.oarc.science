@@ -1,6 +1,5 @@
 
 # Records of the Past
-categories: ' <A HREF="../index">Ancient Near East</A>&nbsp; <A HREF="../../egy/index">Ancient Egypt</A>&nbsp;'
 <title>Intangible Textual Heritage: Records of the Past</title>
 
 This is the index page for the series Records of the Past, which

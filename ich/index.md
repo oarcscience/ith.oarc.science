@@ -2,7 +2,6 @@
 <meta name="description" content="The I Ching at Intangible Textual Heritage">
 keywords: "I Ching Confucian Confucianism Tao Taoism Divination"
 title: "The I Ching, Legge tr. Index"
-categories: ' <A HREF="../index">Intangible Textual Heritage</A>&nbsp;'
 ---
   
 [Confucianism](../cfu/index)  [Taoism](../tao/index.md)  [Prophecy and
