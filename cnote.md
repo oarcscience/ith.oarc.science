@@ -55,16 +55,16 @@ may**:
 -   Translate them into other languages
 -   etc. etc. etc.
 
-**without asking anyone (including sacred-texts) for permission**. In
+**without asking anyone (including Intangible Textual Heritage) for permission**. In
 fact, we encourage these activities. It is considered good netiquette
-(but not absolutely required) to identify sacred-texts as the source of
+(but not absolutely required) to identify Intangible Textual Heritage as the source of
 the file. Therefore we request that leave any notices of attribution in
-the file intact, and add a link to sacred-texts if possible.
+the file intact, and add a link to Intangible Textual Heritage if possible.
 
 The public domain files at this site have been prepared for free
 distribution at great labor and expense. Public domain files prepared at
 Intangible Textual Heritage *may* be licensed for commercial use as a
-way of supporting the Internet Sacred Text Archive and the production of
+way of supporting the Intangible Textual Heritage Archive and the production of
 additional etexts. These files are listed in the [. Some other public
 domain files at this site may have some trivial commercial-use
 restrictions, particularly files from Project Gutenberg. Most other
@@ -104,7 +104,7 @@ restrictions on their use. Consult the particular sites' policy before
 using these files.
 
 Some files are copyrighted because they are original material produced
-especially for sacred-texts. This includes index files, the sub-section
+especially for Intangible Textual Heritage. This includes index files, the sub-section
 graphics and any of the descriptive material. These files, graphics and
 text may not be reproduced in any form without the permission of the
 copyright holder, J.B. Hare. These files will have explicit copyright

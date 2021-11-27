@@ -1,6 +1,5 @@
----
-title: "Frequently Asked Questions"
----
+# Frequently Asked Questions
+
 ### Frequently Asked Questions (FAQ)
 
 ![](img/faq.jpg)
@@ -53,7 +52,7 @@ numerous misconceptions:*
 text?  
 **A:** No. It may not be public domain, or we may not have got around to
 posting it. But omitting it from the site doesn't imply that we don't
-think it is or isn't a sacred-text.
+think it is or isn't a sacred text.
 
 **Q:** *Book X* is at your site. Does that mean that it is a sacred
 text?  
@@ -69,11 +68,7 @@ sense.
 **A:** Sorry. That is not our mission.
 
 **Q:** Can I advertise at this website?  
-**A:** Sure, go to Google, and sign up for the [Google AdWords
-program](https://www.google.com/intl/en/ads/.md). Google AdWords is the
-only way to place an advertisement at the site. IMPORTANT: If you have
-any questions about Google AdWords, please direct those to Google's
-support staff, not this site.
+**A:** No.
 
 **Q:** I want you to place a text ad at your site, but don't want to use
 Google's AdWords, can't you make an exception.  
@@ -82,7 +77,7 @@ advertise at this site.
 
 ------------------------------------------------------------------------
 
-**Q:** What are appropriate things to email sacred-texts about?  
+**Q:** What are appropriate things to email Intangible Textual Heritage about?  
 **A:** Please be considerate as we get a lot of email. Here are some
 examples:
 
