@@ -49,7 +49,7 @@ repeated references to the 'Two Mothers' of Agni, which appears to refer
 to a pre-Vedic twin mother goddess. However Oldenberg makes no attempt
 to explain this beyond identifying the two as Dawn and Night. It would
 be of some interest to find out the source of this myth. <span
-class="small">--J. B. Hare, September 17th, 2008.</span>
+class="small">--J. Lelievre, September 17th, 2008.</span>
 
 ------------------------------------------------------------------------
 

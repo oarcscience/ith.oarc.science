@@ -25,7 +25,7 @@ Intangible Textual Heritage
 
 #### \[1913\]
 
-###### Scanned, proofed and formatted at Intangible Textual Heritage, November 2002, by John B. Hare. This text is in the public domain in the US because it was published prior to 1923.
+###### Scanned, proofed and formatted at Intangible Textual Heritage, November 2002, by Jean Lelievre. This text is in the public domain in the US because it was published prior to 1923.
 
 ------------------------------------------------------------------------
 

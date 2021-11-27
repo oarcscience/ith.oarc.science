@@ -29,7 +29,7 @@ Intangible Textual Heritage
 
 #### \[1881\]
 
-###### Scanned, proofed and formatted at Intangible Textual Heritage, March, 2003, by J. B. Hare. This text is in the public domain in the US because it was published prior to 1923.
+###### Scanned, proofed and formatted at Intangible Textual Heritage, March, 2003, by J. Lelievre. This text is in the public domain in the US because it was published prior to 1923.
 
 <span id="img_queen"></span> <span align="CENTER"> [![](tn/queen.jpg)  
 Click to enlarge](img/queen.jpg.md)</span>

@@ -32,7 +32,7 @@ Textual Heritage
 #### \[1907\]
 
 Scanned, proofed and formatted at Intangible Textual Heritage, April
-2002, by J. B. Hare. This text is in the public domain in the US because
+2002, by J. Lelievre. This text is in the public domain in the US because
 it was published prior to 1923.
 
 <div class="filenav">

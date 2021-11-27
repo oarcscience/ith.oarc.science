@@ -55,7 +55,7 @@ AND OF
 #### 7 Imperial Arcade. Ludgate Circus, E.C. 4
 
 Scanned,proofed and formatted at Intangible Textual Heritage, September
-2002, by J. B. Hare. This text is in the public domain in the US because
+2002, by J. Lelievre. This text is in the public domain in the US because
 it was published prior to 1923.
 
 Copyright, 1920, by

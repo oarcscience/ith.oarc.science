@@ -66,7 +66,7 @@ enjoyable book which will satisfy anyone who has finished the Lord of
 the Rings and wants a new immersive universe. The only thing one could
 wish for would be some [maps](maps.md). . . .
 
---J. B. Hare
+--J. Lelievre
 
 <span id="fn1"></span>[\*](#fr1.md) *Letters of Tokien, p. 258*. To be
 accurate, Tolkien also pointed out that his work was not derivative from

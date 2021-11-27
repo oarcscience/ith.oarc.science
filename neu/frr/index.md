@@ -54,7 +54,7 @@ Greek and a few other characters have been transcribed in
 [Unicode](../../unicode.md), and a number of transcription errors found in
 other etexts have been corrected.
 
---J. B. Hare
+--J. Lelievre
 
 ------------------------------------------------------------------------
 

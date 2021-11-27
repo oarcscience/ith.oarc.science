@@ -42,7 +42,7 @@ the Hebrew text, which I'll be happy to correct if they can be
 identified. Some of these may be due to substandard typography in the
 original, particularly the Hebrew in body text.
 
---J. B. Hare, 10/3/2005
+--J. Lelievre, 10/3/2005
 
 ------------------------------------------------------------------------
 

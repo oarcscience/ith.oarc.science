@@ -39,7 +39,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z82C/internetsacredte.
 The Kalevala is the national saga of Finland. Pieced together (and
 embellished) by Elias Lönnrot in the late 19th Century, from a
 traditional cycle told by rural storytellers, the tales which constitute
-the Kalevala show signs of great antiquity.--J. B. Hare
+the Kalevala show signs of great antiquity.--J. Lelievre
 
 ------------------------------------------------------------------------
 

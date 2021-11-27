@@ -54,7 +54,7 @@ Tokugawa periods. If you are looking for a comprehensive volume which
 covers the development of modern Japanese Buddhism, this is an essential
 reference. This is also a great read for religious studies students and
 others interested in Buddhism and the development of eastern
-religions.--<span class="small">J. B. Hare, November 26th, 2008.</span>
+religions.--<span class="small">J. Lelievre, November 26th, 2008.</span>
 
 ------------------------------------------------------------------------
 

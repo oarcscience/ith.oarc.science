@@ -96,7 +96,7 @@ The Lemurian Fellowship published a sequel in 1940 titled *An Earth
 Dweller's Return*. This rehashed the plot of the original, and had some
 radically different maps, which I've included on the [maps page](dtp04.md).
 
-Introduction © 2002, John B. Hare
+Introduction © 2002, Jean Lelievre
 
 ------------------------------------------------------------------------
 

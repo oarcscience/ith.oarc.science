@@ -20,7 +20,7 @@
 
 ###### This book is in the public domain because it was never registered or renewed at the US Copyright Office.
 
-###### Scanned at Intangible Textual Heritage March 2003, J. B. Hare, redactor. This text is in the public domain. These files may be reproduced for any non-commercial purpose provided this notice of attribution is left intact.
+###### Scanned at Intangible Textual Heritage March 2003, J. Lelievre, redactor. This text is in the public domain. These files may be reproduced for any non-commercial purpose provided this notice of attribution is left intact.
 
 <span id="img_Frontispiece"></span> ![](img/front.jpg)  
 OSIRIS KHENTI AMENTI, the Great God, seated in his shrine of fire. In

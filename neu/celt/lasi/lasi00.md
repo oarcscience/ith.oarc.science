@@ -23,7 +23,7 @@ Intangible Textual Heritage
 
 #### \[1831, 1834\]
 
-###### Scanned and proofed by Phillip Brown. Additional formatting and proofreading at Intangible Textual Heritage by John B. Hare. This text is in the public domain in the US because it was published prior to 1923.
+###### Scanned and proofed by Phillip Brown. Additional formatting and proofreading at Intangible Textual Heritage by Jean Lelievre. This text is in the public domain in the US because it was published prior to 1923.
 
 ------------------------------------------------------------------------
 

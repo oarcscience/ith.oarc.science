@@ -48,7 +48,7 @@ Mishna and Talmud.
 PRODUCTION NOTES: This etext uses Unicode Hebrew extensively, and in
 order to view these files, you will need to ensure that your browser is
 set up to view Unicode. (refer to [the Unicode help
-file](../../unicode).md)--<span class="small">J. B. Hare, January 12th,
+file](../../unicode).md)--<span class="small">J. Lelievre, January 12th,
 2009.</span>
 
 ------------------------------------------------------------------------

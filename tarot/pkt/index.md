@@ -43,7 +43,7 @@ each card, and gives practical instructions as to how to conduct a
 reading. The symbolism of the Rider-Waite-Smith deck is based on
 profound occult studies by Waite, and his exposition in this book of its
 use and meaning is unexcelled. This is a must-read for anyone who wants
-to understand the Tarot.--J. B. Hare
+to understand the Tarot.--J. Lelievre
 
 ------------------------------------------------------------------------
 

@@ -31,7 +31,7 @@ Intangible Textual Heritage
 
 #### \[1901?\]
 
-###### Scanned, proofed and formatted at Intangible Textual Heritage April, 2003, by J. B. Hare. This text is in the public domain in the US because it was published prior to 1923.
+###### Scanned, proofed and formatted at Intangible Textual Heritage April, 2003, by J. Lelievre. This text is in the public domain in the US because it was published prior to 1923.
 
 <span id="img_front"></span> <span align="CENTER"> [![](tn/front.jpg)  
 Click to enlarge](img/front.jpg.md)</span>  

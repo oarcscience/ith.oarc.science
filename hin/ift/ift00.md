@@ -30,7 +30,7 @@ NEW YORK: G. P. PUTNAM'S SONS
 \[1912\]
 
 Scanned and Redacted by Phillip Brown. Additional formatting and
-proofing by J. B. Hare at Intangible Textual Heritage, April 2003. This
+proofing by J. Lelievre at Intangible Textual Heritage, April 2003. This
 text is in the public domain. These files may be reproduced for any
 non-commercial purpose, provided this notice of attribution is left
 intact.

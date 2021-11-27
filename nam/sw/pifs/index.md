@@ -37,7 +37,7 @@ where he made his home, *El Alisal*, and founded the Southwest Museum in
 1914, at the foot of Mount Washington in East Los Angeles. He also
 helped restore the Spanish missions in California.
 
---J. B. Hare
+--J. Lelievre
 
 ------------------------------------------------------------------------
 

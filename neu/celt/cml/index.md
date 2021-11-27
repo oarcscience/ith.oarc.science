@@ -69,7 +69,7 @@ While Squire is trying to make a point, and there is more apparatus than
 the typical Gresham *Myths and Legends* book, he also tells these
 timeless stories in a very entertaining fashion.
 
---John B. Hare, November 28th, 2005.
+--Jean Lelievre, November 28th, 2005.
 
 ------------------------------------------------------------------------
 

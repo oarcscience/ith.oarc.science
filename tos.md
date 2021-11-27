@@ -10,7 +10,7 @@ title: "Intangible Textual Heritage: Terms of Service"
 1\. The Internet Sacred Text Archive ('ISTA'), Intangible Textual
 Heritage ('This site') is intended to provide, anonymously and free of
 charge over the Internet, access to certain documents ('the texts').
-Intangible Textual Heritage is run by John B. Hare, dba Internet Sacred
+Intangible Textual Heritage is run by Jean Lelievre, dba Internet Sacred
 Text Archive ('the proprietor'), and is not affiliated with any
 religious organization or institution. ISTA is located in Santa Cruz,
 California, USA, and can be contacted [via email or postal

@@ -86,7 +86,7 @@ items on display here are excessively purient by contemporary standards.
 These are historical cultural artifacts, not pornography. Nonetheless,
 consider yourself warned.
 
-*Introduction © 2003 J. B. Hare*
+*Introduction © 2003 J. Lelievre*
 
 ------------------------------------------------------------------------
 

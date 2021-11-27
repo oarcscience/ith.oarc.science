@@ -15,7 +15,7 @@ The Four Ancient Books of Wales
 
 \[1869\]
 
-###### Scanned at Intangible Textual Heritage, November 2002. John B. Hare, redactor
+###### Scanned at Intangible Textual Heritage, November 2002. Jean Lelievre, redactor
 
 This is the 'Gododdin'. Aneurin composed it.
 

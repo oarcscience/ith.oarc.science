@@ -27,7 +27,7 @@ Intangible Textual Heritage
 
 #### \[1882\]
 
-###### Scanned, Proofed and Formatted at Intangible Textual Heritage, November 2000, by J. B. Hare. This text is in the public domain because it was published prior to 1923.
+###### Scanned, Proofed and Formatted at Intangible Textual Heritage, November 2000, by J. Lelievre. This text is in the public domain because it was published prior to 1923.
 
  
 

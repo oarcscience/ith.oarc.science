@@ -32,7 +32,7 @@ tr. by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
 ##### 1918
 
-###### Scanned at Intangible Textual Heritage, September, 2002 by J. B. Hare. This text is in the public domain in the US because it was published prior to 1923.
+###### Scanned at Intangible Textual Heritage, September, 2002 by J. Lelievre. This text is in the public domain in the US because it was published prior to 1923.
 
 ------------------------------------------------------------------------
 

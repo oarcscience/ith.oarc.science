@@ -59,7 +59,7 @@ has sensual and very witty Art Deco illustrations by Wily Pogany.
 For more information on the context of this work, refer to my [essay on
 Sappho](../sappho/saphintr.md).
 
---J. B. Hare
+--J. Lelievre
 
 ------------------------------------------------------------------------
 

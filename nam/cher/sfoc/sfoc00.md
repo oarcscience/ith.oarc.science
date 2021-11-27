@@ -16,7 +16,7 @@ American](../../index)  [Cherokee](../index)  [Index](index.md) 
 
 #### \[1891\]
 
-###### scanned at Intangible Textual Heritage February, 2001. J. B. Hare, Redactor. Reformatted August 2003. This text is in the public domain. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
+###### scanned at Intangible Textual Heritage February, 2001. J. Lelievre, Redactor. Reformatted August 2003. This text is in the public domain. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
 
 ------------------------------------------------------------------------
 

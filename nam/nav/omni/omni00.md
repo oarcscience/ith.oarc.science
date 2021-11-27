@@ -13,7 +13,7 @@ American](../../index)  [Navajo](../index)  [Index](index.md) 
 
 #### \[1956\]
 
-###### scanned at Intangible Textual Heritage, February, 2001. J. B. Hare, redactor. This text is in the public domain because it is a US Government publication. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
+###### scanned at Intangible Textual Heritage, February, 2001. J. Lelievre, redactor. This text is in the public domain because it is a US Government publication. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
 
 <span id="page_I">p. I</span>
 

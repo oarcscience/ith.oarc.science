@@ -92,7 +92,7 @@ in their atlases. While not Mu or Lemuria, of all of the nooks and
 crannies where a lost civilization might have existed, Sundaland is one
 of the most plausible; only time will tell.
 
---J. B. Hare
+--J. Lelievre
 
 ------------------------------------------------------------------------
 

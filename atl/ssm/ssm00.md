@@ -31,7 +31,7 @@ Karakhota, Gobi Desert.
 
 #### \[1933\]
 
-###### Scanned at Intangible Textual Heritage, December, 2003. J. B. Hare, redactor. This text is in the public domain in the United States because its copyright was not renewed in a timely fashion as required by law at the time. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
+###### Scanned at Intangible Textual Heritage, December, 2003. J. Lelievre, redactor. This text is in the public domain in the United States because its copyright was not renewed in a timely fashion as required by law at the time. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
 
 This book is dedicated to  
 MARJORIE V. LEA HUDSON  

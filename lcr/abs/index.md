@@ -73,7 +73,7 @@ on the extended Chilton version, for copyright reasons.
 <span class="small">PRODUCTION NOTES: Most of the map captions in this
 book were placed on the facing page, but I have moved them underneath
 the maps they describe. The plates, which originally appeared between
-page 78 and 79, have been moved after the Contents page.--J. B. Hare,
+page 78 and 79, have been moved after the Contents page.--J. Lelievre,
 November 17, 2008.</span>
 
 ------------------------------------------------------------------------

@@ -31,7 +31,7 @@
 
 ##### LONDON
 
-###### Prepared at Intangible Textual Heritage, October 2002. J. B. Hare, editor.
+###### Prepared at Intangible Textual Heritage, October 2002. J. Lelievre, editor.
 
 ------------------------------------------------------------------------
 

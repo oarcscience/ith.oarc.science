@@ -32,7 +32,7 @@ Textual Heritage
 
 #### \[1904\]
 
-###### Scanned and proofed by Phillip Brown. Additional formatting at Intangible Textual Heritage by John B. Hare, July 2003. This text is in the public domain in the US because it was published prior to 1923.
+###### Scanned and proofed by Phillip Brown. Additional formatting at Intangible Textual Heritage by Jean Lelievre, July 2003. This text is in the public domain in the US because it was published prior to 1923.
 
 ------------------------------------------------------------------------
 

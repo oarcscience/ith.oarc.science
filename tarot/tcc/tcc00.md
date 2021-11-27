@@ -5,13 +5,13 @@ Copyright FAQ](../faq)  [Index](index)  [Next](tcc01.md) 
 
 # TAROT CARD COMPARISON
 
-###### by John B. Hare,
+###### by Jean Lelievre,
 
 ###### Intangible Textual Heritage
 
 ###### 2003
 
-###### Text (c) Copyright 2003, John B. Hare, all Rights Reserved.
+###### Text (c) Copyright 2003, Jean Lelievre, all Rights Reserved.
 
 ## INTRODUCTION
 

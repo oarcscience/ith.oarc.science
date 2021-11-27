@@ -34,7 +34,7 @@ The Giant *Ke'-lok*
 
 #### \[1910\]
 
-#### Scanned, proofed and formatted at Intangible Textual Heritage, August 2003 by J. B. Hare. This text is in the public domain because it was published prior to 1923.
+#### Scanned, proofed and formatted at Intangible Textual Heritage, August 2003 by J. Lelievre. This text is in the public domain because it was published prior to 1923.
 
 <span id="img_front"></span> <span align="CENTER"> [![Recital of the
 Ancient Myths in the Roundhouse at Night](tn/front.jpg)  

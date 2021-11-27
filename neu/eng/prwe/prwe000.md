@@ -15,7 +15,7 @@ Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
 
 ##### London, Chatto and Windus, 1903.
 
-###### Scanned and redacted by Phillip Brown. Additional formatting and proofing at Intangible Textual Heritage by John B. Hare. Second revision, May 2004. This text is in the public domain. This file may be used for any non-commercial purpose provided this notice of attribution is left intact.
+###### Scanned and redacted by Phillip Brown. Additional formatting and proofing at Intangible Textual Heritage by Jean Lelievre. Second revision, May 2004. This text is in the public domain. This file may be used for any non-commercial purpose provided this notice of attribution is left intact.
 
 "Have you any stories like this guidwife?'
 

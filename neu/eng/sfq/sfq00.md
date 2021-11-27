@@ -39,7 +39,7 @@ That had atchievde so great a conquest by his might.''<br />
 
 #### \[1916\]
 
-###### Scanned at Intangible Textual Heritage, January, 2004. J. B. Hare, redactor. This text is in the public domain. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
+###### Scanned at Intangible Textual Heritage, January, 2004. J. Lelievre, redactor. This text is in the public domain. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
 
 <span id="img_title"></span>
 

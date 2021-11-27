@@ -24,7 +24,7 @@ PRINTED IN GREAT BRITAIN BV ROBERT MACELHOSE AND CO. LTD,
 
 THE UNIVERSITY PRESS, GLASGOW
 
-###### Scanned at Intangible Textual Heritage, April 2000. J. B. Hare, Redactor. Reformatted August 2003. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
+###### Scanned at Intangible Textual Heritage, April 2000. J. Lelievre, Redactor. Reformatted August 2003. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
 
 ------------------------------------------------------------------------
 

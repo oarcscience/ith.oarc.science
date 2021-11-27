@@ -13,7 +13,7 @@ American](../../index)  [Plains](../index)  [Index](index.md) 
 
 ###### Journal of American Folklore 2:4 pp. 3-11 \[1889\]
 
-###### Scanned at Intangible Textual Heritage, August 2003. J. B. Hare, redactor. This text is in the public domain. This file may be used for any non-commercial purpose provided this notice of attribution is left intact.
+###### Scanned at Intangible Textual Heritage, August 2003. J. Lelievre, redactor. This text is in the public domain. This file may be used for any non-commercial purpose provided this notice of attribution is left intact.
 
 THE approach of death is believed to be foreshadowed in various ways.
 There are not only intimations received by the person about to die, but

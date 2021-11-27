@@ -37,7 +37,7 @@ Heritage
 
 #### \[Copyright 1888\]
 
-###### Scanned at Intangible Textual Heritage, July 2000. John B. Hare, redactor. This text is in the public domain. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
+###### Scanned at Intangible Textual Heritage, July 2000. Jean Lelievre, redactor. This text is in the public domain. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
 
 TO
 

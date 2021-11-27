@@ -47,7 +47,7 @@ Heritage
 #### \[1910\]
 
 Scanned, proofed and formatted at Intangible Textual Heritage, April
-2003, by J. B. Hare. This text is in the public domain in the US because
+2003, by J. Lelievre. This text is in the public domain in the US because
 it was published prior to 1923.
 
  

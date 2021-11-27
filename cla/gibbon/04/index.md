@@ -16,8 +16,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEIE98/internetsacredte.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td width="50%" data-valign="TOP"><img src="../../img/rome05.jpg" alt="Roman Forum [Photograph (c) 2007 Copyright J. B. Hare, All Rights Reserved]" /><br />
-<span data-align="center"><span class="small"><span class="small">Roman Forum [Photograph (c) 2007 Copyright J. B. Hare, All Rights Reserved]</span></span></span></td>
+<td width="50%" data-valign="TOP"><img src="../../img/rome05.jpg" alt="Roman Forum [Photograph (c) 2007 Copyright J. Lelievre, All Rights Reserved]" /><br />
+<span data-align="center"><span class="small"><span class="small">Roman Forum [Photograph (c) 2007 Copyright J. Lelievre, All Rights Reserved]</span></span></span></td>
 <td width="50%" data-valign="CENTER"><h1 id="decline-and-fall-of-the-roman-empire-vol.-4" data-align="CENTER">Decline and Fall of the Roman Empire, Vol. 4</h1>
 <h2 id="by-edward-gibbon" data-align="CENTER">by Edward Gibbon</h2>
 <h4 id="section" data-align="CENTER">[1788]</h4></td>

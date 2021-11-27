@@ -15,7 +15,7 @@ American](../../index)  [Hopi](../index)  [Index](index.md) 
 
 #### \[1936\]
 
-###### Scanned at Intangible Textual Heritage, August 2003. J. B. Hare, redactor. This text is in the public domain because it was not renewed in a timely fashion at the US Copyright Office, as required by law at the time. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
+###### Scanned at Intangible Textual Heritage, August 2003. J. Lelievre, redactor. This text is in the public domain because it was not renewed in a timely fashion at the US Copyright Office, as required by law at the time. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
 
 ------------------------------------------------------------------------
 

@@ -15,7 +15,7 @@ This chapter is included in this etext for completeness. Of course, the
 vast majority of this quaint tourist information, originally published
 in 1904, (except for the geographical and etymological facts) is a
 century out of date. The advice to "TAKE YOUR CAMERA" is timeless,
-though.--J. B. Hare.
+though.--J. Lelievre.
 
 Secure stage seats in advance.
 

@@ -22,7 +22,7 @@ American](../../index)  [Iroquois](../index)  [Index](index.md) 
 
 #### 1883.
 
-###### Scanned at Intangible Textual Heritage April 2001. J. B. Hare, redactor. Additional formatting, July 2003. This text is in the public domain. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
+###### Scanned at Intangible Textual Heritage April 2001. J. Lelievre, redactor. Additional formatting, July 2003. This text is in the public domain. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
 
 ------------------------------------------------------------------------
 

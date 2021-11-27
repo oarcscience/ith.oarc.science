@@ -21,7 +21,7 @@ Legends](../../index)  [Celtic](../index)  [Index](index.md) 
 
 #### \[1916\]
 
-###### Scanned and redacted by Phillip Brown. Additional formatting and proofreading by John B. Hare at Intangible Textual Heritage. This text is in the public domain in the United States. This file may be used for any non-commercial purpose, provided this notice of attribution is left intact.
+###### Scanned and redacted by Phillip Brown. Additional formatting and proofreading by Jean Lelievre at Intangible Textual Heritage. This text is in the public domain in the United States. This file may be used for any non-commercial purpose, provided this notice of attribution is left intact.
 
 <span id="img_02"></span> ![](img/02.jpg)
 

@@ -24,7 +24,7 @@
 
 #### \[1912\]
 
-###### Scanned at Intangible Textual Heritage, August, 2002. J. B. Hare, Redactor.
+###### Scanned at Intangible Textual Heritage, August, 2002. J. Lelievre, Redactor.
 
 ------------------------------------------------------------------------
 

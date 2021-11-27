@@ -32,7 +32,7 @@ currents influenced and were in turn impacted by Jewish mysticism. This
 is a great backgrounder if you are interested in the Kabbalah or
 Mysticism at any level.
 
---J. B. Hare
+--J. Lelievre
 
 ------------------------------------------------------------------------
 

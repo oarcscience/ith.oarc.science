@@ -28,7 +28,7 @@ Intangible Textual Heritage
 
 #### \[1940, copyright not renewed\]
 
-###### Scanned at Intangible Textual Heritage, January 2004. J. B. Hare, redactor. This text is in the public domain because it was not renewed in a timely fashion at the US Copyright Office as required at the time. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
+###### Scanned at Intangible Textual Heritage, January 2004. J. Lelievre, redactor. This text is in the public domain because it was not renewed in a timely fashion at the US Copyright Office as required at the time. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
 
 <div class="filenav">
 

@@ -70,7 +70,7 @@ particularly marriage, and their horoscopes and the interpretation
 thereof take great skill and knowledge to create. Rather this is
 documentation that not just William Atkinson was up to the Swami game,
 and serves as an illustration of the state of occult publishing in
-1902.--<span class="small">J. B. Hare, March 25th, 2009.</span>
+1902.--<span class="small">J. Lelievre, March 25th, 2009.</span>
 
 ------------------------------------------------------------------------
 

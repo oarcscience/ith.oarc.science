@@ -15,7 +15,7 @@ Legends](../../index)  [Celtic](../index)  [Index](index.md) 
 
 #### \[1920\]
 
-###### Scanned and redacted by Phillip Brown. Additional formatting and proofing at Intangible Textual Heritage by John B. Hare. This text is in the public domain in the United States. This file may be used for any non-commercial purpose, provided this notice of attribution is left intact.
+###### Scanned and redacted by Phillip Brown. Additional formatting and proofing at Intangible Textual Heritage by Jean Lelievre. This text is in the public domain in the United States. This file may be used for any non-commercial purpose, provided this notice of attribution is left intact.
 
 ------------------------------------------------------------------------
 

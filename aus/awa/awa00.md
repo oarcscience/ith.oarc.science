@@ -29,7 +29,7 @@ Australia," "The Discovery of Australia," Editor and Proprietor of
 
 #### \[1894\]
 
-##### scanned at Intangible Textual Heritage, completed April 1, 2002. Redacted by J. B. Hare, \[B.Sc. Linguistics UCLA and UCSC (Kresge College), &c., &c., &c.\] This text is in the public domain. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
+##### scanned at Intangible Textual Heritage, completed April 1, 2002. Redacted by J. Lelievre, \[B.Sc. Linguistics UCLA and UCSC (Kresge College), &c., &c., &c.\] This text is in the public domain. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
 
 PRINTED BY WALTERS & Co.,
 

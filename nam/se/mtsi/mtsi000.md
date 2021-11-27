@@ -19,7 +19,7 @@ American](../../index)  [Southeast](../index)  [Index](index.md) 
 
 #### \[1929\]
 
-###### Scanned at Intangible Textual Heritage, August 2003. J. B. Hare, redactor. This text is in the public domain because it was published by the US Government. These files may be used for any non-commercial purpose provided this notice of attribution is left intact.
+###### Scanned at Intangible Textual Heritage, August 2003. J. Lelievre, redactor. This text is in the public domain because it was published by the US Government. These files may be used for any non-commercial purpose provided this notice of attribution is left intact.
 
  
 

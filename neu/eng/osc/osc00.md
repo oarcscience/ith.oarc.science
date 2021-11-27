@@ -19,7 +19,7 @@ Legends](../../index)  [England](../index)  [Index](index.md) 
 
 #### 1910
 
-###### Scanned at sacredspiral.com, Eliza Fegley redactor. HTML formatting October 2003, J. B. Hare at Intangible Textual Heritage. This text is in the public domain. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
+###### Scanned at sacredspiral.com, Eliza Fegley redactor. HTML formatting October 2003, J. Lelievre at Intangible Textual Heritage. This text is in the public domain. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
 
 ------------------------------------------------------------------------
 

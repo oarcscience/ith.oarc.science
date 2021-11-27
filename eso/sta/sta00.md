@@ -34,7 +34,7 @@
 
 #### \[1928, no renewal\]
 
-###### Scanned at Intangible Textual Heritage, November, 2001. J. B. Hare, Redactor. This text is in the public domain because it was not renewed at the US Copyright Office in a timely fashion. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
+###### Scanned at Intangible Textual Heritage, November, 2001. J. Lelievre, Redactor. This text is in the public domain because it was not renewed at the US Copyright Office in a timely fashion. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
 
 ###### Note: all page numbers in the original were given as Roman numerals; these have been converted to Arabic numerals in this etext.
 

@@ -20,7 +20,7 @@
 
 #### 1898
 
-###### Scanned by Eliza Fegley at sacredspiral.com, November, 2003. HTML formatting by J. B. Hare at Intangible Textual Heritage. This text is in the public domain. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
+###### Scanned by Eliza Fegley at sacredspiral.com, November, 2003. HTML formatting by J. Lelievre at Intangible Textual Heritage. This text is in the public domain. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
 
 ------------------------------------------------------------------------
 

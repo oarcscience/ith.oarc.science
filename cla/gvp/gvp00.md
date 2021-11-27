@@ -16,7 +16,7 @@ THEOSOPHICAL PUBLISHING HOUSE
 KROTONA, HOLLYWOOD, CAL.  
 \[1904\]
 
-scanned at Intangible Textual Heritage, October 2002. John B. Hare,
+scanned at Intangible Textual Heritage, October 2002. Jean Lelievre,
 redactor.
 
 ------------------------------------------------------------------------

@@ -19,7 +19,7 @@ with
 
 #### Journal of American Folk-Lore, Vol. XXII, No. 85, pp. 283-7 \[1909\]
 
-###### Scanned at Intangible Textual Heritage, September 2003. J. B. Hare, redactor. These texts are in the public domain. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
+###### Scanned at Intangible Textual Heritage, September 2003. J. Lelievre, redactor. These texts are in the public domain. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
 
 ------------------------------------------------------------------------
 

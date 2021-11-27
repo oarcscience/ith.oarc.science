@@ -39,7 +39,7 @@ history, that probably continued. This makes this little survey an
 important baseline inventory of Chinese religious centers prior to the
 upheavals of the Chinese revolution. This book is hard to find, and has
 not been reprinted since it was first published, as far as I can
-tell.<span class="small">--*J. B. Hare*, August 27th, 2008.</span>
+tell.<span class="small">--*J. Lelievre*, August 27th, 2008.</span>
 
 ------------------------------------------------------------------------
 

@@ -48,7 +48,7 @@ The Path of Light in the House of the Hidden Places (350 Kb)
 </span>
 
 Scanned, proofed, and formatted at Intangible Textual Heritage, January
-2007, by John B. Hare. This text is in the public domain in the US
+2007, by Jean Lelievre. This text is in the public domain in the US
 because it was published prior to 1923.
 
 <div class="filenav">

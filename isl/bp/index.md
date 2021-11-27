@@ -51,7 +51,7 @@ little known today, primarily because it was only published posthumously
 William Aldis Wright, in 1889. This is the first time an etext of
 FitzGerald's translation of this work has been posted on the Internet.
 
---John B. Hare, April 12, 2007
+--Jean Lelievre, April 12, 2007
 
 ------------------------------------------------------------------------
 

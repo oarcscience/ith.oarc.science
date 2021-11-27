@@ -27,7 +27,7 @@ Asiatic Society of Bengal*.
 
 #### \[1910\]
 
-###### scanned at Intangible Textual Heritage, June 2002. J. B. Hare redactor
+###### scanned at Intangible Textual Heritage, June 2002. J. Lelievre redactor
 
 <span id="page_iii">p. iii</span>
 

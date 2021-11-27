@@ -14,7 +14,7 @@
 
 #### New York American, October 20, 1912
 
-###### Transcribed at Intangible Textual Heritage, January 26, 2004, J. B. Hare redactor. This text is in the public domain. These files may be used for any non-commercial purpose provided this notice of attribution is left intact
+###### Transcribed at Intangible Textual Heritage, January 26, 2004, J. Lelievre redactor. This text is in the public domain. These files may be used for any non-commercial purpose provided this notice of attribution is left intact
 
 ------------------------------------------------------------------------
 

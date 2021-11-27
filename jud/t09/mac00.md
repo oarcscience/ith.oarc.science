@@ -37,7 +37,7 @@ Textual Heritage
 
 ##### 1918
 
-###### Scanned at Intangible Textual Heritage, November 2002. John B. Hare, Redactor. This text is in the public domain. This file may be reproduced for any purpose provided this paragraph is left intact.
+###### Scanned at Intangible Textual Heritage, November 2002. Jean Lelievre, Redactor. This text is in the public domain. This file may be reproduced for any purpose provided this paragraph is left intact.
 
 ------------------------------------------------------------------------
 

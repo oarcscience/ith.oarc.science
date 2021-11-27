@@ -17,7 +17,7 @@ Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
 
 #### \[1890\]
 
-###### Scanned and redacted by Phillip Brown. Additional formatting and proofing by J. B. Hare at Intangible Textual Heritage. This text is in the public domain. This file may be used for any non-commerical purpose, provided this statement of attibution is left intact.
+###### Scanned and redacted by Phillip Brown. Additional formatting and proofing by J. Lelievre at Intangible Textual Heritage. This text is in the public domain. This file may be used for any non-commerical purpose, provided this statement of attibution is left intact.
 
 ------------------------------------------------------------------------
 

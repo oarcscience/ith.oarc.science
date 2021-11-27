@@ -41,7 +41,7 @@ one of the few first-hand accounts from this period, and the information
 in this book has been rehashed in many others, such as [The Lore and
 Lure of the Yosemite](../lly/index.md).
 
---J. B. Hare
+--J. Lelievre
 
 ------------------------------------------------------------------------
 

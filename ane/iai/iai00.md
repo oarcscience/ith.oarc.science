@@ -29,7 +29,7 @@ Click to enlarge](img/front.jpg.md)
 BABYLONIAN MARRIAGE MARKET.--Painting by Edwin Long; (Frontispiece from
 *Babylonian and Assyrian Literature*)  
 
-###### Scanned at Intangible Textual Heritage, November, 2003. J. B. Hare, redactor. This text is in the public domain. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
+###### Scanned at Intangible Textual Heritage, November, 2003. J. Lelievre, redactor. This text is in the public domain. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
 
 ------------------------------------------------------------------------
 

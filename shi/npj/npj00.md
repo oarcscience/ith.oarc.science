@@ -16,7 +16,7 @@
 
 ##### DŌAMI
 
-###### Scanned at Intangible Textual Heritage, October 2003, J. B. Hare, redactor. This text is in the public domain in the United States because it was published prior to 1922. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
+###### Scanned at Intangible Textual Heritage, October 2003, J. Lelievre, redactor. This text is in the public domain in the United States because it was published prior to 1922. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
 
 <span id="img_front"></span>
 

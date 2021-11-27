@@ -32,7 +32,7 @@ Crags and glebes it aye enhances,
 All Australia it entrances,  
     Radiant in its Power.
 
-###### Scanned at Intangible Textual Heritage. Completed February 12, 2000. Reformatted September 8, 2003. J. B. Hare, redactor. The copyright status of this text is unknown. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
+###### Scanned at Intangible Textual Heritage. Completed February 12, 2000. Reformatted September 8, 2003. J. Lelievre, redactor. The copyright status of this text is unknown. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
 
 ------------------------------------------------------------------------
 

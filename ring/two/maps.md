@@ -15,5 +15,5 @@ This is a map of Demonland.
 
 ------------------------------------------------------------------------
 
-*NOTICE: The contents of this page are (c) John B. Hare, 2007. These
+*NOTICE: The contents of this page are (c) Jean Lelievre, 2007. These
 images may not be reproduced without permission.*

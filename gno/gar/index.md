@@ -73,7 +73,7 @@ part of the book, there were no sub-sections. To break up this long part
 of the book into files, I have inserted logical sub-section headings. As
 usual, these are in green type.
 
---J. B. Hare, 5/28/2006
+--J. Lelievre, 5/28/2006
 
 ------------------------------------------------------------------------
 

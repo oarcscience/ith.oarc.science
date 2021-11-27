@@ -14,7 +14,7 @@ American](../../index)  [California](../index)  [Index](index.md) 
 
 #### \[1902\]
 
-###### Scanned at Intangible Textual Heritage, September, 2003. J. B. Hare, redactor. This text is in the public domain. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
+###### Scanned at Intangible Textual Heritage, September, 2003. J. Lelievre, redactor. This text is in the public domain. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
 
 WHEN Powers was studying the tribes of California, he found the
 aboriginal peoples south of the Tehachipi so mixed up and "unsortable"

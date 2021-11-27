@@ -14,7 +14,7 @@ ROEBOURNE:
 
 {Scanned at Intangible Textual Heritage, April 2002
 
-Redactor, J. B. Hare}
+Redactor, J. Lelievre}
 
 # PREFACE.
 

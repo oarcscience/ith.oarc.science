@@ -35,7 +35,7 @@ gives many fine-grained details about the geography, history and
 anthropology of the Amazon nation. It would be most interesting to see
 if any of these can be verified using modern techniques.
 
-J. B. Hare
+J. Lelievre
 
 ------------------------------------------------------------------------
 

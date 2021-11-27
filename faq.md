@@ -24,7 +24,7 @@ point of view. However, nobody is going to shush you if you make too
 much noise while using this site.
 
 **Q:** Who are you and what qualifies you to do this?  
-**A:** My name is John B. Hare, and I live in California. My academic
+**A:** My name is Jean Lelievre, and I live in California. My academic
 background is in Linguistics, Anthropology and Computer Science, and I
 worked in the high technology field as a computer programmer and
 entrepreneur for twenty five years prior to starting this site.

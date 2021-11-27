@@ -17,7 +17,7 @@ Legends](../../index)  [Celtic](../index)  [Index](index.md) 
 
 #### \[1898\]
 
-###### Scanned and redacted by Phillip Brown. Additional proofing and formatting at Intangible Textual Heritage by John B. Hare. This text is in the public domain. This file may be used for an non-commercial purpose provided this notice of attribution is left intact.
+###### Scanned and redacted by Phillip Brown. Additional proofing and formatting at Intangible Textual Heritage by Jean Lelievre. This text is in the public domain. This file may be used for an non-commercial purpose provided this notice of attribution is left intact.
 
 'What diversitie soever there be in herbs, all are shuffled up together
 under the ame of a sallade. Even so, upo the consideration of names, I

@@ -338,7 +338,7 @@ the Devi.
 Finally Avt'handil returns with Tariel to Arabia and is united on the
 throne with T’hinat’hin in marriage.
 
-*(c) 2006. John B. Hare, all rights reserved.*
+*(c) 2006. Jean Lelievre, all rights reserved.*
 
  
 

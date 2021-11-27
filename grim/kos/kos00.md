@@ -22,7 +22,7 @@
 
 \[1888\]
 
-###### Scanned at Intangible Textual Heritage, July 2000. J. B. Hare, redactor. Reformatted August 2003. This text is in the public domain. These files may be used for any non-commercial purpose, provided this notice of attribution is preserved intact.
+###### Scanned at Intangible Textual Heritage, July 2000. J. Lelievre, redactor. Reformatted August 2003. This text is in the public domain. These files may be used for any non-commercial purpose, provided this notice of attribution is preserved intact.
 
  
 

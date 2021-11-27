@@ -22,7 +22,7 @@ Sexuality](../index)  [Index](index)  [Next](dwp01.md) 
 
 #### \[1786\]
 
-###### Scanned and proofed by Eliza Fegley at sacredspiral.com, June 2003. Additional, scanning, proofing and formatting (illustrations, footnotes, page numbers, Greek Unicode) by John B. Hare at Intangible Textual Heritage, June 2003. This text is in the public domain. These files may be used for any non-commercial purpose provided this notice of attribution is left intact.
+###### Scanned and proofed by Eliza Fegley at sacredspiral.com, June 2003. Additional, scanning, proofing and formatting (illustrations, footnotes, page numbers, Greek Unicode) by Jean Lelievre at Intangible Textual Heritage, June 2003. This text is in the public domain. These files may be used for any non-commercial purpose provided this notice of attribution is left intact.
 
 ------------------------------------------------------------------------
 

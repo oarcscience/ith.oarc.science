@@ -41,7 +41,7 @@ emotions. The central character in many of these is 'Blue-Jay', a rather
 dim but heroic figure who, in one memorable tale visits the land of the
 dead, in a story worthy of the Twilight Zone.
 
---J. B. Hare
+--J. Lelievre
 
 <span id="contents"></span>
 

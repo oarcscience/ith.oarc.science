@@ -18,7 +18,7 @@ hermetic Art and of the Alkahest of the Philosopher
 
 To Mrs. Meyer Sassoon
 
-###### Proofed and Formatted at Intangible Textual Heritage, December 2003. J. B. Hare, redactor. This text is in the public domain because it was not renewed at the US Copyright Office in a timely manner as required by law. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
+###### Proofed and Formatted at Intangible Textual Heritage, December 2003. J. Lelievre, redactor. This text is in the public domain because it was not renewed at the US Copyright Office in a timely manner as required by law. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
 
 ------------------------------------------------------------------------
 

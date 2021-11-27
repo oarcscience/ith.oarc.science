@@ -109,7 +109,7 @@ which were only relevant to the Welsh text, except in a few cases where
 they also impact the understanding of the English translation. These
 footnotes use asterisks instead of numbers.
 
-John B. Hare, November 6, 2005.
+Jean Lelievre, November 6, 2005.
 
 ------------------------------------------------------------------------
 

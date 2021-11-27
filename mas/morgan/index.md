@@ -59,7 +59,7 @@ Production Notes: I have, as is the usual practice, silently cleaned up
 egregious punctuation errors in the text, particularly quotation marks.
 There were no obvious chapter breaks, so I have inserted file breaks at
 logical boundaries in the text. As usual, any text in small green type
-was added to the text by the transcriber.--J. B. Hare.
+was added to the text by the transcriber.--J. Lelievre.
 
 ------------------------------------------------------------------------
 

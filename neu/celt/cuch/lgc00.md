@@ -31,7 +31,7 @@ Intangible Textual Heritage
 
 #### \[1902\]
 
-###### Scanned by Phillip Brown, additional formatting and proofing at Intangible Textual Heritage by John B. Hare. This book is in the public domain in the US because it was published prior to 1923.
+###### Scanned by Phillip Brown, additional formatting and proofing at Intangible Textual Heritage by Jean Lelievre. This book is in the public domain in the US because it was published prior to 1923.
 
 ------------------------------------------------------------------------
 

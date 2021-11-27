@@ -71,7 +71,7 @@ Think and Grow Rich is one of those books which makes a lasting
 impression. No matter what you may think of Hill's philosophy and his
 folksy writing style, you are bound to come away from this book feeling
 energized, more optimistic about life, and (possibly) a bit richer for
-the experience. *--J. B. Hare, 7/20/2006*
+the experience. *--J. Lelievre, 7/20/2006*
 
 ------------------------------------------------------------------------
 

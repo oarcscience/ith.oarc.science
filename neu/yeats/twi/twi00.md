@@ -53,7 +53,7 @@ Frontispiece
 
 #### MCMII
 
-###### Scanned, proofed and formattted at Intangible Textual Heritage, July 2001 by J. B. Hare. Additional formatting and proofing, January, 2004. This text is in the public domain in the United States because it was published prior to 1923.
+###### Scanned, proofed and formattted at Intangible Textual Heritage, July 2001 by J. Lelievre. Additional formatting and proofing, January, 2004. This text is in the public domain in the United States because it was published prior to 1923.
 
 <span id="page_vi">p. vi</span>
 

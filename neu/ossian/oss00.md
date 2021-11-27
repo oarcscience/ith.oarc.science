@@ -30,7 +30,7 @@ PHILLIPS, SAMPSON & COMPANY,
 
 (Reprint of 1773 edition)
 
-###### Prefatory material (to page 188) scanned at Intangible Textual Heritage, April 2003. Other material based on material developed by exclassics.org, with additional proofing and formatting at Intangible Textual Heritage. John B. Hare, Redactor. This text is in the public domain. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
+###### Prefatory material (to page 188) scanned at Intangible Textual Heritage, April 2003. Other material based on material developed by exclassics.org, with additional proofing and formatting at Intangible Textual Heritage. Jean Lelievre, Redactor. This text is in the public domain. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
 
 <span id="img_front"></span> [![](tn/front.jpg)  
 Click to enlarge](img/front.jpg.md)

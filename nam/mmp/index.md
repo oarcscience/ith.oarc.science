@@ -15,7 +15,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HIF0/internetsacredte.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td width="50%" data-valign="TOP"><img src="img/pyr.jpg" alt="Image (c) Copyright 2009, J. B. Hare, All Rights Reserved" /></td>
+<td width="50%" data-valign="TOP"><img src="img/pyr.jpg" alt="Image (c) Copyright 2009, J. Lelievre, All Rights Reserved" /></td>
 <td width="50%" data-valign="CENTER"><h1 id="the-myths-of-mexico-and-peru" data-align="CENTER">The Myths of Mexico and Peru</h1>
 <h2 id="by-lewis-spence" data-align="CENTER">by Lewis Spence</h2>
 <h4 id="section" data-align="CENTER">[1913]</h4></td>

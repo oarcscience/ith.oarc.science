@@ -51,7 +51,7 @@ Mysteries](../../sro/rrm/index.md), also available online at Intangible
 Textual Heritage, where he goes into much more detail on the subject of
 phallic worship.
 
-*Introduction © 2003 J. B. Hare*
+*Introduction © 2003 J. Lelievre*
 
 <span id="contents"></span>
 

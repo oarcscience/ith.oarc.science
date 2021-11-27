@@ -42,7 +42,7 @@ very superstitious belief system. He also discusses how some of these
 beliefs and festivals, under the guise of Christianity, have persisted
 to this day.
 
---John B. Hare, November 8th, 2005
+--Jean Lelievre, November 8th, 2005
 
 ------------------------------------------------------------------------
 
