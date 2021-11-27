@@ -1,5 +1,4 @@
-
-# Sacred Texts: Evil
+# Evil
 
 <table width="75%">
 <colgroup>

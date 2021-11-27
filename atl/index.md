@@ -1,9 +1,5 @@
----
-<meta name="description" content="Sacred Texts: Atlantis">
 # Sacred Texts: Atlantis
-alttext1: ""
-titleh1: "Atlantis"
----
+
 <span class="c_e"> <span
 class="c_t">[Timaeus](../cla/plato/timaeus.md)</span>  
 <span class="c_t">[Critias](../cla/plato/critias.md)</span>   by <span

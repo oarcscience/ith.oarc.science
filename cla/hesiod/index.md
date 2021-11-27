@@ -1,10 +1,5 @@
----
-keywords: "Hesiod Theogony Goddess Pagan Classics Classical Mythology Greek"
 # Hesiod
-pathh1: "../img/acrop0.jpg"
-alttext1: "The Acropolis &copy; J.B. Hare 2002"
-titleh1: "The Works of Hesiod"
----
+
 <span class="c_da"></span>
 
 <span class="c_e"> <span class="c_t">[Works and Days](works.md)</span>,

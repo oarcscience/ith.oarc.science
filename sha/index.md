@@ -1,6 +1,4 @@
-
 # Intangible Textual Heritage: Shamanism
-alttext1: "Bear Feast: Public domain image"
 <title>Intangible Textual Heritage: Shamanism</title>
 
 [*About the Photo...*](#aboutphoto.md)

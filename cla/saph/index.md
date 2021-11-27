@@ -1,5 +1,4 @@
-
-title: "Sappho"
+# Sappho
 <title>Intangible Textual Heritage: Sappho</title>
 
 Usually paired with Homer as one of the two greatest ancient Greek

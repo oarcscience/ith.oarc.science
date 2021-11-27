@@ -1,8 +1,6 @@
-
-title: "Tantra"
-alttext1: "Shakti and Shiva. Image (c) 2003 J. B. Hare, all rights reserved"
+# Tantra
 <title>Intangible Textual Heritage: Tantra</title>
----
+
 These texts describe the esoteric teachings of Tantra, a belief system
 which originated in India, praticed by a small number of Hindus and
 Buddhists. Tantra has become a synonym in the West for unbridled

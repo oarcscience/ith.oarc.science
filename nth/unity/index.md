@@ -1,5 +1,4 @@
-
-# Sacred Texts: Unity
+# Unity
 <title>Intangible Textual Heritage: Unity Church</title>
 
 These are the key writings of the Unity Church, a major New Thought

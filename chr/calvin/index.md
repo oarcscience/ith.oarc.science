@@ -1,7 +1,5 @@
+# Works of John Calvin
 
-title: "Works of John Calvin"
-titleh1: "Works of John Calvin"
----
 This page indexes resources at this site relating to John Calvin.
 
 ------------------------------------------------------------------------

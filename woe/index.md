@@ -1,5 +1,4 @@
-
-# Sacred Texts: Wisdom of the East
+# Wisdom of the East
 <title>Intangible Textual Heritage: Wisdom of the East</title>
 
 This page spotlights the books in the series The Wisdom of the East,

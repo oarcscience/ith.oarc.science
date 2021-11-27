@@ -1,8 +1,4 @@
----
-keywords: "Shinto Japan Nihon Nippon Kami Kojiki Nihongi Yengishiki Amaterasu"
-title: "Shinto Documents"
-alttext1: "Tori: Copyright J.B. Hare 1999, All Rights Reserved"
-titleh1: "Shinto and Japanese Religions"
+# Shinto and Japanese Religions
 
 This section has [scriptures of the Shinto religion](#shinto.md), as well
 as [other texts](#gen.md) that relate to the spirituality of Japan, which

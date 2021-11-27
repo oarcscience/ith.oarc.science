@@ -1,9 +1,5 @@
----
 # Christian Texts
-<meta name="description" content="Christian Texts at Sacred-Texts.com">
-keywords: "Christianity Christian Bible Apocrypha Hermetica Catholicism Protestantism"
-titleh1: "Christianity"
----
+
 [The Scriptures](#scripture)    [Gnosticism](#gnostic.md)    [Early
 Christian](#early)    [Eastern Churches](#eastern.md)    [Mediaeval,
 Renaissance and Reformation](#mid)    [Modern](#mod.md)   

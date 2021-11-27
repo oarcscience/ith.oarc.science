@@ -1,8 +1,4 @@
----
-title: "The Dramas of Aeschylus"
-pathh1: "furies.jpg"
-alttext1: "Orestes Pursued by the Furies (1862) [Public Domain Image]"
-titleh1: "The Dramas of Aeschylus"
+# The Dramas of Aeschylus
 
 Aeschylus, called "the father of tragedy," was one of the three greatest
 tragic dramatists of the ancient world, along with

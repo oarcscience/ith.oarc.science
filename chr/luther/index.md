@@ -1,9 +1,4 @@
----
-title: "Writings of Martin Luther"
----
-|                               |
-|-------------------------------|
-| **Writings of Martin Luther** |
+# Writings of Martin Luther
 
 This page has a selection of the writings of <span class="c_da">Martin
 Luther</span>.

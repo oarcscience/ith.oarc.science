@@ -1,10 +1,5 @@
+# Sources of Lord of the Ring
 
-keywords: "Tolkien Middle Earth Kalevala Edda Volsung Beowulf"
-# Sacred-Texts: Sources of Lord of the Ring
-pathh1: "ring.jpg"
-alttext1: "Image &copy Copyright J.B. Hare 2001, All Rights Reserved"
-<title>Intangible Textual Heritage: Sources of Lord of the Rings</title>
----
 J.R.R. Tolkiens' Middle Earth did not come out of thin air. Tolkien, an
 academic linguist, drew on the following source materials to inspire his
 world-building exercise. The texts presented at this site are complete

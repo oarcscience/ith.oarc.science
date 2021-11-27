@@ -1,9 +1,5 @@
----
-keywords: "Native American Indian Maya Inca Sioux Cherokee Iroquois Inuit Walum Olum Zuni"
 # Sacred Texts: Native American
-pathh1: "prayer.jpg"
-titleh1: "Native American Religions"
----
+
 <table width="100%">
 <colgroup>
 <col style="width: 50%" />

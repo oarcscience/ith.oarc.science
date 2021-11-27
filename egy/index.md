@@ -1,8 +1,5 @@
----
-title: "Sacred Texts: Ancient Egypt"
-pathh1: "osiris.jpg"
-alttext1: "Osiris standing between Isis and Nephthys (public domain image)"
-titleh1: "Ancient Egypt"
+# Ancient Egypt
+
 
 The civilization of Ancient Egypt lasted longer than the entire span of
 what we have come to accept as 'recorded history': over three thousand

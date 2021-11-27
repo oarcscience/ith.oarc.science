@@ -1,9 +1,4 @@
----
-<meta name="description" content="Yoga at Intangible Textual Heritage">
-keywords: "Yoga Hindu Hinduism Asana Prana Raja Hatha"
-title: "Sacred-Texts: Hinduism"
-pathh1: "lotus.jpg"
-titleh1: "Yoga"
+# Hinduism: Yoga
 
 <span class="c_e"> <span class="c_t">[The Yoga Sutras of
 Patanjali](../yogasutr.md)</span>   <span class="c_b">Another translation

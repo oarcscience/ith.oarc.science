@@ -1,8 +1,6 @@
----
-title: "Virgil"
-pathh1: "aeneas.jpg"
+# Virgil
 <title>Intangible Textual Heritage: The Works of Virgil</title>
----
+
 <span class="c_da"></span>
 
 <span class="c_e"> <span class="c_t">[The Aeneid of

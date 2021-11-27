@@ -1,7 +1,4 @@
----
-keywords: "Mormon Mormonism LDS Latter-Day Saints Book of Mormon Pearl of Great Price Doctrine Covenants Articles of Faith"
-title: "Sacred Texts: Mormons"
----
+# Mormons
   
 [OCRT: The Church Of Jesus Christ Of Latter-Day Saints
 (Mormons)](https://www.religioustolerance.org/lds.md)  

@@ -1,6 +1,5 @@
 
-# Sacred Texts: Legends and Sagas
-<title>Intangible Textual Heritage: Legends and Sagas</title>
+# Legends and Sagas
 
 [General](#comp)  [Northern European](#neu)  [Arabia](#arabia.md) 
 [Baltic](#baltic)  [Basque](#basque)  [Celtic](#celtic.md)  [Eastern

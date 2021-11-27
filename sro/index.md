@@ -1,7 +1,5 @@
+# Intangible Textual Heritage: Sub Rosa
 
-title: "Intangible Textual Heritage: Sub Rosa"
-titleh1: "Sub Rosa"
----
 This section of sacred-texts contains resources related to secret
 societies, conspiracies, and hidden knowledge.
 

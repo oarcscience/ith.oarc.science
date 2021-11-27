@@ -1,7 +1,5 @@
+# Inca Religion
 
-title: "Inca Religion"
-titleh1: "Inca Religion"
----
 Here are some extracts from historical accounts of the religion of the
 Inca Empire.
 

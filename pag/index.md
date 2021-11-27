@@ -1,5 +1,5 @@
 
-# Sacred Texts: Wicca and Neo-Paganism
+# Wicca and Neo-Paganism
 
   
 [Internet Book of Shadows](../bos/index)  [Grimoires](../grim/index.md) 

@@ -1,7 +1,4 @@
----
-title: "Intangible Textual Heritage: Traditions"
-
- 
+# Intangible Textual Heritage: Traditions
 
 <span class="p-small"> </span>
 

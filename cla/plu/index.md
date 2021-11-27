@@ -1,6 +1,5 @@
----
-title: "The Works of Plutarch"
-titleh1: "The Works of Plutarch"
+# The Works of Plutarch
+
 
 Plutarch was born in 46 C.E. in Chaeronea, in Boeotia, Greece, and died
 about 119-127. He was one of the two priests of Apollo at the Oracle of

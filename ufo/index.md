@@ -1,6 +1,4 @@
----
-title: "The UFO Files Index"
-titleh1: "The UFO Files"
+# The UFO Files Index
 
 <span class="c_e"> <span class="c_t">[From India to the Planet
 Mars](ipm/index.md)</span>   by <span class="c_a">Théodore Flournoy</span>,

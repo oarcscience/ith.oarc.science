@@ -1,5 +1,4 @@
-
-# Sacred Texts: The Genetic Code
+# The Genetic Code
 <title>Intangible Textual Heritage: The Genetic Code</title>
 
 <span class="c_e"> <span class="c_t">[First 1000 lines of Chromosome One

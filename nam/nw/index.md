@@ -1,6 +1,5 @@
+# Religions of Northwestern Native Americans
 
-title: "Religions of Northwestern Native Americans"
----
 |                                                                                                                                  |                                                                |
 |----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
 | <img src="totempl.jpg" height="256" alt="Totem Pole, detail of photograph by Edward Curtis: 1914, [public domain] imgorient=" /> | <span class="splashtitle">Northwestern Native Americans</span> |

@@ -1,5 +1,3 @@
----
-keywords: "Prophecies Prophet Prophets Prediction Nostradamus Paracelsus Apocyalypse Seer Clarivoyant Divination"
 # Sacred Texts: Prophecy and Divination
 <title>Intangible Textual Heritage: Prophecy and Divination</title>
 

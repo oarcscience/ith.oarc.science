@@ -1,7 +1,5 @@
+# The Works of Lucian of Samosata
 
-title: "The Works of Lucian of Samosata"
-titleh1: "Lucian of Samosata"
----
 Lucian of Samosata was a writer known for his satire. He was born in
 what is now eastern Turkey, in Samosata, about 120 C.E. Samosata was
 located in the ancient Roman province of Syria (not to be confused with

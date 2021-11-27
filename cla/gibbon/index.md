@@ -1,7 +1,4 @@
----
-title: "Edward Gibbon's Decline and Fall of the Roman Empire: Master Index"
-pathh1: "../img/rome01.jpg"
-titleh1: "Edward Gibbons' Decline and Fall of the Roman Empire"
+# Edward Gibbon's Decline and Fall of the Roman Empire: Master Index
 
 This is the master index for Edward Gibbon's Decline and Fall of the
 Roman Empire.

@@ -1,8 +1,6 @@
----
-title: "The Indian Stories of F.W. Bain"
-pathh1: "gopis.jpg"
+# The Indian Stories of F.W. Bain
 <title>Intangible Textual Heritage: The Indian Stories of F.W. Bain</title>
----
+
 The Indian Stories of Francis William Bain (b. 1863, d. 1940) were
 published early in the 20th century. They purport to be translations of
 unidentified manuscripts. However, these books are not *directly*

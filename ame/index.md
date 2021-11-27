@@ -1,7 +1,5 @@
----
 # Americana
-titleh1: "Americana"
----
+
 This page includes texts relating to uniquely American expressions of
 belief, as well as folklore and supersition, that don't fit into any
 other category.

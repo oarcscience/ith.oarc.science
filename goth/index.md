@@ -1,7 +1,4 @@
----
-keywords: "Gothic Vampire Vampyre Byron Shelley Wollstonecraft Dracula Frankenstein Buffy"
-title: "Gothic Texts"
-titleh1: "Gothic Texts"
+# Gothic Texts
 
 Gothic refers to a Romantic literary style which can include
 supernatural aspects, particularly vampires. This is because many of

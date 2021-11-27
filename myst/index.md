@@ -1,10 +1,5 @@
+# Mysticism
 
-keywords: "Mystic Mysticism Mystical Occult Esoteric"
-title: "Sacred Texts: Mysticism"
-pathh1: "img/lilies.jpg"
-alttext1: ""
-titleh1: "Mysticism"
----
 <span class="c_e"> <span class="c_t">[Mysticism](myst/index.md)</span>   by
 <span class="c_a">Evelyn Underhill</span> \[<span
 class="c_d">1911</span>\]   <span class="c_b">The classic study of the

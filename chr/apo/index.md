@@ -1,9 +1,5 @@
----
 # The Apocrypha Index
-pathh1: "img/madbook.jpg"
-alttext1: "Madonna with the Book, Sandro Botticelli [1483] (Public Domain Image)"
-titleh1: "The Apocrypha"
----
+
 Apocrypha means 'hidden things' in Greek. The Apocryphical books of the
 Bible fall into two categories: texts which were included in some
 canonical version of the Bible at some point, and other texts of a

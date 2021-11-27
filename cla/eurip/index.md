@@ -1,8 +1,5 @@
+# The Dramas of Euripides
 
-title: "The Dramas of Euripides"
-alttext1: ""
-titleh1: "The Dramas of Euripides"
----
 <span class="c_da"></span>
 
 Euripides was born in Salamis in 480 B.C.E. Along with

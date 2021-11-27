@@ -1,9 +1,4 @@
----
-keywords: "Theosophy Blatavsky"
-title: "Theosophy"
-pathh1: "hpb.jpg"
-alttext1: "H.P. Blavatsky"
-titleh1: "Theosophy"
+# Theosophy
 
 <span class="c_e"> <span class="c_t">[Isis Unveiled](iu/index.md)</span>  
 by <span class="c_a">Helena P. Blavatsky</span> \[<span

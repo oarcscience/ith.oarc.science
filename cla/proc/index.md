@@ -1,9 +1,5 @@
+# The Works of Procopius
 
-title: "The Works of Procopius"
-pathh1: "justin.jpg"
-alttext1: "Justinian"
-titleh1: "The Works of Procopius"
----
 Procopius, who lived from 500 to 565 C.E., was a Byzantine historian.
 His writings are a primary source about the reign of the Emperor
 Justinian. Writing in Greek, Procopius was the last major ancient

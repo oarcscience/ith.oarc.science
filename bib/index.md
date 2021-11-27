@@ -1,6 +1,5 @@
----
-title: "The Hypertext Bible"
-titleh1: "The Hypertext Bible"
+# The Hypertext Bible
+
 
 -   [Hypertext Bible Table](#index.md)
 -   [World Bible](wb/index.md)

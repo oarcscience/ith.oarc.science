@@ -1,6 +1,5 @@
 
-# Sacred-Texts: Lord Dunsany
-<title>Intangible Textual Heritage: The Works of Lord Dunsany</title>
+# Lord Dunsany
 
 Edward Plunkett, the 18th Baron of Dunsany, (July 24, 1878-Oct 25, 1957)
 was an Anglo-Irish writer known for his tales set in purely invented

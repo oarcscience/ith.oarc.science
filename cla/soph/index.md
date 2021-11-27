@@ -1,7 +1,5 @@
+# The Dramas of Sophocles
 
-title: "The Dramas of Sophocles"
-titleh1: "The Dramas of Sophocles"
----
 <span class="c_da"></span>
 
 ------------------------------------------------------------------------

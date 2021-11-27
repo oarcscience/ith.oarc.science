@@ -1,7 +1,6 @@
----
-title: "Zu&ntilde;i Religion"
+# Zuñi Religion
 <title>Intangible Textual Heritage: The Zu&ntilde;i</title>
----
+
 The Zuñi are a Southwest American Indian nation. Their spiritual beliefs
 center around elaborate ceremonies for fertility and rain, comprised of
 a yearly cycle of ritual dances by masked dancing gods called Kachinas.

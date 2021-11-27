@@ -1,6 +1,4 @@
-
-title: "Bible Commentary"
-titleh1: "Bible Commentary"
+# Bible Commentary
 
 This page indexes fifteen Biblical commentaries, all believed to be in
 the public domain in the US due to publication prior to 1923. All of the

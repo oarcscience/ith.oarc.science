@@ -1,7 +1,4 @@
----
-title: "Texts of Islam"
-alttext1: "Five Pillars: Image &copy Copyright J.B. Hare 1999, All Rights Reserved"
-titleh1: "Islam"
+# Texts of Islam
 
 [Qur'an](#quran)  [Hadith](#hadith)  [Sufi Texts](#sufi.md)  [Islamic
 History and Culture](#other.md)   

@@ -1,10 +1,5 @@
----
-<meta name="description" content="Sacred Texts: Iroquois">
-keywords: "Iroquois Religion Spirituality Indian Native American"
 # Iroquois Religion
-alttext1: "Iroquois women [1664] (Public Domain Image)"
-titleh1: "The Iroquois"
----
+
 <span class="c_e"> <span class="c_t">[Iroquoian
 Cosmology](irc/index.md)</span>   by <span class="c_a">J.N.B. Hewitt</span>
 \[<span class="c_t">ARBAE 21:127-339</span>\] \[<span

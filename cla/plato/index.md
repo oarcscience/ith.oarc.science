@@ -1,9 +1,5 @@
+# Dialogues of Plato
 
-title: "Dialogues of Plato"
-pathh1: "schath.jpg"
-alttext1: "The School of Athens (Detail) by Rafael [Public Domain Image]"
-titleh1: "Dialogues of Plato"
----
 Plato, the greatest philosopher of ancient Greece, was born in Athens in
 428 or 427 B.C.E. to an aristocratic family. He studied under Socrates,
 who appears as a character in many of his dialogues. He attended

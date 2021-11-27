@@ -1,8 +1,6 @@
----
-title: "Inuit Religion"
-alttext1: ""
+# Inuit Religion
 <title>Intangible Textual Heritage: Inuit Religion</title>
----
+
 Inuit is the term preferred for speaking of the people commonly known as
 Eskimo—the word *Eskimo* being derived from a derogatory term (meaning
 "eaters of raw flesh") used by the Algonquin people of North America.

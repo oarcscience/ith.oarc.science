@@ -1,10 +1,5 @@
----
-keywords: "Australia Australian Aborigine Abo Native Dreamtime Alcheringa Bayahmee Mariah Mythology Legend Folklore Langloh Parker"
+# Australia
 
-# "Australia"
-pathh1: "alchrnga.jpg"
-titleh1: "Australia"
----
 Finding texts about Australian Aboriginal religion in the public domain
 was extremely difficult. There is a landslide of 19th and early 20th
 Century books and articles about American and African indigenous

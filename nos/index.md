@@ -1,6 +1,4 @@
----
-<meta name="description" content="Sacred Texts: The Prophecies of Nostradamus">
-title: "Nostradamus Index"
+# Nostradamus Index
 
 |                                                                  |                                              |
 |------------------------------------------------------------------|----------------------------------------------|

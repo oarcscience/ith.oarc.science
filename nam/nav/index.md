@@ -1,7 +1,7 @@
----
-title: "Navajo Religion"
+# Navajo Religion
 <title>Intangible Textual Heritage: The Navajo</title>
----
+
+
 The Navajo, who call themselves *Diné* ("The People") are the largest
 Native American group in North America. Their tales of emergence and
 migration are similar to other Southwestern tribes such as the Hopi

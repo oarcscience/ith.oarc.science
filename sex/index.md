@@ -1,6 +1,4 @@
----
-<meta name="description" content="Sacred Texts: Sexuality">
-# Sacred Texts: Sexuality
+# Sexuality
 
   
 [Hinduism](../hin/index)  [Tantra](../tantra/index.md) 

@@ -1,8 +1,5 @@
+# The Works of Ovid
 
-title: "The Works of Ovid"
-pathh1: "ovid.gif"
-titleh1: "The Works of Ovid"
----
 <span class="c_da"></span> <span class="c_da"></span>
 
 <span class="c_e"> <span class="c_t">[The

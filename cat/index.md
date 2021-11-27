@@ -1,8 +1,4 @@
----
-<meta name="description" content="ith.oarc.science Site Catalog">
-title: "Site Catalog Index"
----
-<div class="filenav">
+# Site Catalog Index
 
 [Intangible Textual Heritage](../index.md) 
 

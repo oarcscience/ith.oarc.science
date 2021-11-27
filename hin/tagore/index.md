@@ -1,6 +1,4 @@
----
 # The Writings of Rabindranath Tagore
-pathh1: "img/tagore.jpg"
 <title>Intangible Textual Heritage: The Writings of Rabindranath Tagore</title>
 
 Rabindranath Tagore (1861-1941) was a Bengali poet, philosopher, artist,

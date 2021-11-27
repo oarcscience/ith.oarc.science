@@ -1,5 +1,4 @@
----
-title: "The Piri Re'is Map"
+# The Piri Re'is Map
 
 <table width="100">
 <colgroup>

@@ -1,10 +1,6 @@
+# Homosexuality in Texts
 
-keywords: "LGBT Lesbian Gay Transgender Bisexual Homosexual Spirituality Mysticism Literature Mythology Books Texts"
-title: "LGBT Texts"
----
-|                                                                                        |                                             |
-|----------------------------------------------------------------------------------------|---------------------------------------------|
-| <img src="img/lgbtcoll.jpg" width="256" alt="Collage: Michelangelo/da Vinci/Sappho" /> | <span class="splashtitle">LGBT Texts</span> |
+<img src="img/lgbtcoll.jpg" width="256" alt="Collage: Michelangelo/da Vinci/Sappho" />
 
 [*About the collage...*](#aboutcoll.md)
 
@@ -49,9 +45,8 @@ species of animals.
 
 </div>
 
-This page indexes resources about LGBT (Lesbian, Gay, Bisexual and
-Transgender) issues at Intangible Textual Heritage. This page deals
-specifically with the subject of LGBT people in sacred texts. For an
+This page indexes resources about homosexual issues at Intangible Textual Heritage. This page deals
+specifically with the subject of homosexual people in sacred texts. For an
 overview of the positions of various religions on this topic, including
 historical and current beliefs, refer to [this page at the Ontario
 Consultants for Religious Tolerance
@@ -86,7 +81,7 @@ persecution. Other major world religions, particularly Hinduism,
 Buddhism, Taoism, and Shinto, don't condemn homosexuals in their sacred
 texts, let alone mention the subject except in passing. This doesn't
 mean that societies where these religions are dominant or practiced are
-(or are not) tolerant of LGBT people; simply that whatever
+(or are not) tolerant of homosexual people; simply that whatever
 discrimination or persecution may be present is not based on *religious*
 grounds.
 
@@ -112,7 +107,7 @@ censorship of the works of Galileo.
 
 Values of tolerance and acceptance for others can be found at the core
 of all world religions. Many religious groups have not found it
-difficult to extend tolerance to LGBT people, even if this does not lead
+difficult to extend tolerance to homosexual people, even if this does not lead
 to acceptance within their religion, or sanctioning of same-sex unions
 or homosexual clergy. And most religious groups and people, across the
 spectrum, are opposed to violence against gays and other violations of
@@ -129,8 +124,8 @@ We invite readers to review this material with an open mind.
 
 ## The Ancient World
 
-The systematic persecution of LGBT people simply did not exist until
-comparatively recently in world history. LGBT people played important
+The systematic persecution of homosexual people simply did not exist until
+comparatively recently in world history. homosexual people played important
 roles at all levels of classical Greek and Roman society. Alexander the
 Great is well-known to have been bisexual. The Emperor Hadrian attempted
 to deify his male life-companion, Antinous. In Greek mythology, we have
@@ -172,7 +167,7 @@ priests.
 [Mimes of the Courtesans](../cla/luc/motc/index.md)  
 This unexpurgated translation of Lucian's comic dialogues about the
 Hetaerae includes two pieces which illustrate late classical attitudes
-about LGBT people.
+about homosexual people.
 
 ------------------------------------------------------------------------
 
@@ -180,10 +175,10 @@ about LGBT people.
 
 ## Hinduism
 
-In contemporary India LGBT people face discrimination and
+In contemporary India homosexual people face discrimination and
 marginalization. This results from cultural attitudes imposed by the
 British during their long occupation of India. There is no condemnation
-of homosexuality in the ancient Hindu texts, and no bias against LGBT
+of homosexuality in the ancient Hindu texts, and no bias against homosexual
 people is evident up to the 19th century. In a few Hindu lawbooks,
 same-gender sexuality is described as producing a state of impurity, but
 it can be expunged by a ritual bath.
@@ -415,7 +410,7 @@ Sodom, by this account, was that their society was **materialistic,
 greedy and uncharitable**. Social and economic justice is a thread that
 runs through the Hebrew Bible and the New Testament alike, and it is not
 difficult to extrapolate this to modern struggles for equality, such as
-those of LGBT people. **When governmental and religious institutions and
+those of homosexual people. **When governmental and religious institutions and
 their leaders perpetuate oppression, it would not be farfetched to say
 that they are committing the *actual* sin of Sodom.**
 
@@ -609,9 +604,9 @@ defile themselves with mankind' as criminals, along with thieves and
 murderers. These passages in the Epistles are the only three places
 where homosexuality is mentioned in the NT. Scholars consider these
 passages to be a reaction against Near Eastern Pagan, Hellenistic, and
-Roman society, which largely tolerated LGBT people and spirituality.
+Roman society, which largely tolerated homosexual people and spirituality.
 Later, early Christian writers elaborated on Paul's themes. This led to
-centuries of persecution of LGBT people in Europe, often with concealed
+centuries of persecution of homosexual people in Europe, often with concealed
 agendas related to political infighting or outright extortion. An early
 example of this was the Byzantine Emperor Constantine, who put in place
 discriminatory laws against homosexuals, and then proceeded to use those
@@ -795,7 +790,7 @@ In general, society has changed the definition of marriage widely, and
 religion has followed by sanctioning it.
 
 Some interpret the passages above to imply condemnation of gay marriage,
-or to justify their prejudices against LGBT people. The reader is
+or to justify their prejudices against homosexual people. The reader is
 encouraged to look at the entire context and make up their own mind.
 
 ------------------------------------------------------------------------
@@ -876,7 +871,7 @@ who act like men, and said, 'Drive them from your houses.' He expelled
 such people, and ‘Umar did it as well."
 
 Islamic societies through history have both tolerated and persecuted
-LGBT people, sometimes at the same time. However, there is very little
+homosexual people, sometimes at the same time. However, there is very little
 in the core text of Islam, the Qur'an, which support the harsh
 punishments and ostracism which gays are subjected to in contemporary
 Islamic society, and the relevant passages are either vague or

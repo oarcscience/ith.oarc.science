@@ -1,5 +1,4 @@
-
-# Sacred-Texts: Lang Fairy Books
+# Lang Fairy Books
 <title>Intangible Textual Heritage: Lang Fairy Books</title>
 
 This part of sacred-texts is devoted to the 'Colored' Fairy Books

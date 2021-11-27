@@ -1,8 +1,6 @@
+# Shakespeare
 
-title: "Shakespeare Index"
-alttext1: "William Shakespeare"
-titleh1: "Shakespeare"
----
+
 [Plays](#plays) \|  [Books About Shakespeare](#about.md)
 
 ------------------------------------------------------------------------

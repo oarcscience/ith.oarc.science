@@ -52,7 +52,7 @@ office](https://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=First.md)
 
 ### Amazon
 
-Please [Visit the Sacred Texts Bookstore](books/index.md) at Amazon.com. By
+Please [Visit the Intangible Textual Heritage Bookstore](books/index.md) at Amazon.com. By
 purchasing books through this link you will support this continuing work
 of this site. Amazon will also allow you to quickly determine whether a
 given book is in print, and in some cases whether it is available on the
@@ -142,7 +142,7 @@ It's fiercely independent and has great atmosphere.
 [Logos books](https://www.logosbooksrecords.com/.md)  
 *1117 Pacific Ave.* The largest used bookstore for miles around; a very
 magical bookstore, and living proof that chaos theory works. Logos'
-basement stacks have provided much of the raw material for sacred-texts
+basement stacks have provided much of the raw material for Intangible Textual Heritage
 which we didn't check out of UC Santa Cruz or other libraries. I'm there
 practically every day.
 

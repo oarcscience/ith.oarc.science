@@ -1,7 +1,5 @@
----
 # Homer
-titleh1: "The Works of Homer"
----
+
 [Works of Homer](#homer)   [Homerica](#homerica.md)
 
 <span class="c_da"></span> <span id="homer"></span>

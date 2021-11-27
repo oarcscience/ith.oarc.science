@@ -1,8 +1,4 @@
----
-<meta name="description" content="Max Mullers' translation of the Upanishads.">
-keywords: "Hinduism Upanishad Upanishads"
-title: "The Upanishads, Max M&uuml;ller, translator"
-pathh1: "aum.jpg"
+# The Upanishads, Max Müller, translator
 <title>Intangible Textual Heritage: The Upanishads</title>
 
 <span class="c_e"><span class="c_t">[Upanishads, Part One (SBE

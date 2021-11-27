@@ -1,8 +1,5 @@
+# Aristotle
 
-title: "Aristotle"
-pathh1: "ari.jpg"
-titleh1: "Aristotle"
----
 <span class="c_da"></span> <span class="c_e"> <span class="c_t">[The
 Nicomachean Ethics](nico/index.md)</span>  
 Translated by <span class="c_a">William David Ross</span> \[<span

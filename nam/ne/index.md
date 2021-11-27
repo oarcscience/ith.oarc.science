@@ -1,9 +1,6 @@
----
-title: "Religions of Northeastern Native Americans"
----
-|                                   |
-|-----------------------------------|
-| **Northeastern Native Americans** |
+# Religions of Northeastern Native Americans
+
+**Northeastern Native Americans**
 
 ------------------------------------------------------------------------
 

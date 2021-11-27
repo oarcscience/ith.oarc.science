@@ -1,6 +1,4 @@
----
-
-title: "Religions of Southwestern Native Americans"
+# Religions of Southwestern Native Americans
 <title>Intangible Textual Heritage: Southwestern Native Americans</title>
 
 This index has links to resources at Intangible Textual Heritage about

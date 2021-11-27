@@ -1,5 +1,4 @@
-
-# Sacred Texts: Buddhism
+# Buddhism
 <title>Intangible Textual Heritage: Buddhism</title>
 
 [Modern works](#modern)  [Southern Buddhism](#south.md)  [Northern

@@ -1,10 +1,5 @@
+# Maya Religion
 
-<meta name="description" content="Sacred Texts: Maya">
-keywords: "Maya Religion Mythology Prophecy texts"
-title: "Maya Religion"
-alttext1: "Jungle Ruins, (c) 2000 J. B. Hare, All Rights Reserved"
-titleh1: "The Maya"
----
 This index lists resources at Intangible Textual Heritage relating to
 Maya religion, mythology and folklore.
 

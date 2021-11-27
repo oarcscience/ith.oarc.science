@@ -1,5 +1,4 @@
-
-# Sacred Texts: Women and Religion
+# Women and Religion
 <title>Intangible Textual Heritage: Women and Religion</title>
 
 All of the major world religions deprecate women to some degree. This

@@ -1,6 +1,5 @@
----
-# Sacred-Texts: Satapatha Brahmana
----
+# Satapatha Brahmana
+
 ### The Satapatha Brahmana
 
 ###### Sacred Books of the East, Vols. 12, 26, 24, 37, 47

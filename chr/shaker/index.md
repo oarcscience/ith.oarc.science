@@ -1,7 +1,3 @@
-
-margcss: margcss
-title: "The Shakers"
----
 # The Shakers
 
 The Shakers were a unique Christian group who fled persecution in

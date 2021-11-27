@@ -1,8 +1,5 @@
----
-keywords: "Cherokee Tsagali"
 # Cherokee Religion
-titleh1: "The Cherokee"
----
+
 <span class="c_e"> <span class="c_t">[Sacred Formulas of the
 Cherokee](sfoc/index.md)</span> by <span class="c_a">James Mooney</span>
 \[<span class="c_d">1891</span>\] </span>  

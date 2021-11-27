@@ -1,7 +1,5 @@
+# Fortean Texts
 
-title: "Fortean Texts"
-titleh1: "Fortean Texts"
----
 In the early twentieth century Charles Fort put together great
 quantities of exhaustively documented 'puzzling evidence.' This is data
 which science is unable or unwilling to explain, such rains of fish or

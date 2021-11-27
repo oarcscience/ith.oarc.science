@@ -1,5 +1,5 @@
 
-# Sacred Texts: Gypsy Folklore
+# Gypsy Folklore
 <title>Intangible Textual Heritage: Roma Folklore</title>
 
 This page links together resources at Intangible Textual Heritage about

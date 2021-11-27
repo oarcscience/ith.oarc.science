@@ -1,10 +1,5 @@
----
-<meta name="description" content="Sacred Texts: Alchemy">
-keywords: "Alchemy Paracelsus Esoteric"
-title: "Alchemy Index"
-pathh1: "img/alc.jpg"
-alttext1: "Mutus Liber, pl. 2, detail, (18th cent.) public domain image"
-titleh1: "Alchemy"
+# Alchemy Index
+
 
 Although the alchemists' fundamental goal of elemental transmutation was
 flawed, on a deeper level the work of alchemy (cloaked in allegorical

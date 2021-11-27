@@ -1,6 +1,5 @@
----
-titleh1: "Miscellaneous"
----
+# Miscellaneous
+
 This page indexes etexts which don't currently have a category at this
 site, are just plain uncategorizable, or deal with a wide range of
 religions, mythologies or folklore.

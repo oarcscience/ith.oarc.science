@@ -1,8 +1,5 @@
----
 # Religions of Southeastern Native Americans
-alttext1: "Detail of Woodcut from A BREFE AND TRUE REPORT OF THE NEW FOUND LAND OF VIRIGINA, by Thomas Herriot (1590) [Public domain image]"
-titleh1: "Southeastern Native Americans"
----
+
 This index has links to resources at Intangible Textual Heritage about
 the religion, mythology, folklore and spiritual practices of Native
 Americans of the Southeastern region, including the Cherokee and Creek.

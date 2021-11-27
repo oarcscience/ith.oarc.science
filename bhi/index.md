@@ -1,5 +1,4 @@
-
-# Sacred Texts: Baha'i texts
+# Baha'i texts
 <title>Intangible Textual Heritage: Baha'i</title>
 
 ### Formatted texts

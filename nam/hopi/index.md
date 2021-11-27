@@ -1,8 +1,5 @@
+# The Hopi
 
-keywords: "Hopi Religion Spirituality Indian Native American"
-title: "The Hopi"
-titleh1: "Hopi Religion"
----
 The Hopi, who occupy an area in the high desert plateaus of the
 Southwest, are one of the best known Native American tribes. They have a
 rich mythological cycle about their ascent from a world deep inside the

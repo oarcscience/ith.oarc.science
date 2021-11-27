@@ -1,9 +1,5 @@
+# Oahspe Index
 
-title: "Oahspe Index"
-pathh1: "oah/img/49100.jpg"
-alttext1: "Oahspe, Public Domain Image"
-titleh1: "Oahspe"
----
 Oahspe is a book written in 1880 by an American dentist named John
 Ballou Newbrough \[1828-1891\]. He claimed that it was the result of
 automatic writing, dictated to him by spirits in a trance. In this

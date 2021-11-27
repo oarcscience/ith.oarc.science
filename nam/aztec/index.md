@@ -1,7 +1,5 @@
----
 # Aztec Religion
-titleh1: "Aztec Religion"
----
+
 This index lists resources at Intangible Textual Heritage relating to
 Aztec religion, folklore and spiritual practices.
 

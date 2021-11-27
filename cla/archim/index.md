@@ -1,9 +1,5 @@
----
 # The Works of Archimedes
-pathh1: "archim.jpg"
-alttext1: "Archimedes (public domain image)"
-titleh1: "The Works of Archimedes"
----
+
 This indexes resources about the ancient Greek mathematician Archimedes
 at Intangible Textual Heritage.
 

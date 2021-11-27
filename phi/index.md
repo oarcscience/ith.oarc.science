@@ -1,8 +1,4 @@
-
-title: "Western Philosophy at Intangible Textual Heritage"
-pathh1: "schath.jpg"
-titleh1: "Western Philosophy"
----
+# Western Philosophy at Intangible Textual Heritage
   
 
 This section contains texts by the most important writers who have

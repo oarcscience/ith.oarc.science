@@ -1,7 +1,5 @@
----
 # The Writings of Spinoza
-titleh1: "The Writings of Spinoza"
----
+
 This page indexes writings of the philosopher Baruch Spinoza at
 Intangible Textual Heritage. Spinoza (b. 1632, d. 1677) was one of the
 first of the Enlightenment philosophers. He was born to Sephardic

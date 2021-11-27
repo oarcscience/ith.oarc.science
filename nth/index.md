@@ -1,5 +1,4 @@
-
-# Sacred Texts: New Thought
+# New Thought
 <title>Intangible Textual Heritage: New Thought</title>
 
 The New Thought movement, which originated in the late 19th and early

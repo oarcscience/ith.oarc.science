@@ -1,8 +1,5 @@
----
 # St. Thomas Aquinas
-alttext1: "St. Thomas Aquinas, by Fra Angelico [13th cent.] File from wikimedia. This image is in the public domain in the US."
-titleh1: "St. Thomas Aquinas"
----
+
 This page indexes resources at this site relating to St. Thomas Aquinas.
 
 ------------------------------------------------------------------------

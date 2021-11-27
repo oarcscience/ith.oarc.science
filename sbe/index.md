@@ -1,8 +1,4 @@
----
-title: "Sacred Books of the East Index"
-pathh1: "library.jpg"
-alttext1: "Library (c) 2003 J.B. Hare"
-titleh1: "Sacred Books of the East Index"
+# Sacred Books of the East Index
 
 [Table of Contents](#sbetab.md)  
 [Index of Translators](#sbeauthors.md)  

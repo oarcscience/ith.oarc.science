@@ -1,7 +1,6 @@
+# How to prepare content
 
-title: "How to prepare content"
----
-### HOW TO PREPARE CONTENT FOR SACRED-TEXTS.COM
+### HOW TO PREPARE CONTENT FOR Intangible Textual Heritage
 
 ![](img/scriptorum.jpg)
 
@@ -70,7 +69,7 @@ front matter, footnotes and so on. We preserve as much formatting as
 possible within the limitations of HTML, and include as much significant
 information from the original book as possible.
 
-Here is how to prepare a book for sacred-texts.
+Here is how to prepare a book for Intangible Textual Heritage.
 
 1\. Select the book.
 
@@ -341,7 +340,7 @@ during a hard crash. Technically, it truncates the dictionary file to a
 zero length file. The files aren't that large, so backing it is no
 problem.
 
-Now we are ready to proof. We generally mark-up (see [STML](#stml).md) the
+Now we are ready to proof. We generally mark-up (see [ITHML](#stml).md) the
 file at the same time as proofing, but for the purpose of exposition,
 the proofing process is discussed separately in this document.
 
@@ -397,23 +396,23 @@ which looks like 'I' for '1' which must be corrected by hand. Add to
 this the confusion between upper case 'O' and the digit zero, and 101
 can easily turn in to 'LOL'!
 
-There are specialized STML tags to indicate errata and punctuation
+There are specialized ITHML tags to indicate errata and punctuation
 errors, but in general the original text of the book must be able to be
 reconstructed from the electronic version.
 
 <span id="stml"></span>
 
-#### 3.3 STML Markup
+#### 3.3 ITHML Markup
 
-We use a markup system named 'STML' (Sacred Texts Markup Language) to
-prepare documents for sacred-texts.
+We use a markup system named 'ITHML' (Intangible Textual Heritage Markup Language) to
+prepare documents for Intangible Textual Heritage.
 
-STML markup is piggybacked on top of the proof file's format (typically
-HTML or RTF). In other words, STML tags are written in plain text and
+ITHML markup is piggybacked on top of the proof file's format (typically
+HTML or RTF). In other words, ITHML tags are written in plain text and
 can be edited using a Word Processor, rather than embedded in the
 document format (as with an XML markup language).
 
-STML is read ('parsed') by a computer program which we have written. The
+ITHML is read ('parsed') by a computer program which we have written. The
 output of this program is the 'book' as it appears online at the site.
 Typically each book is split into a series of files, normally at the
 chapter level. Each file is linked to an 'index' file (not to be
@@ -440,7 +439,7 @@ confused with the book index). That is:
 <td><span class="p-small"> </span>
 <p>Proof file -&gt;</p></td>
 <td><span class="p-small"> </span>
-<p>STML Parser-&gt;</p></td>
+<p>ITHML Parser-&gt;</p></td>
 <td><span class="p-small"> </span>
 <p>index.htm<br />
 file000.htm<br />
@@ -452,21 +451,21 @@ etc.</p></td>
 
 </div>
 
-The file which you submit to sacred-texts is the 'Proof file.' This is
-normally a single HTML file. We use the STML parser to generate the
+The file which you submit to Intangible Textual Heritage is the 'Proof file.' This is
+normally a single HTML file. We use the ITHML parser to generate the
 output files. These files are then uploaded to the site for viewing by
 the public.
 
-Most STML markup is enclosed in wavy brackets { }.
+Most ITHML markup is enclosed in wavy brackets { }.
 
 This is because these brackets are rarely used in pre-20th century
 books. Where brackets occur verbatim in the copytext, you need to
 'escape' them using a backslash: \\{ and \\}.
 
-The following is a primer of the most useful STML tags. It doesn't
-include everything in the STML language, but just the tags which
+The following is a primer of the most useful ITHML tags. It doesn't
+include everything in the ITHML language, but just the tags which
 volunteers should be conversant with and insert into transcribed texts.
-While using STML is not required, it will greatly improve the
+While using ITHML is not required, it will greatly improve the
 presentation of the file at the website and allow scholars to cite the
 text reliably.
 

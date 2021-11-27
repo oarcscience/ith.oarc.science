@@ -1,8 +1,5 @@
+# Bible — Critical Views
 
-<meta name="description" content="Bible--Critical Views at Intangible Textual Heritage">
-title: "Bible--Critical Views"
-titleh1: "Bible--Critical Views"
----
 This page indexes resources at this site presenting critical views of
 the Bible.
 

@@ -1,21 +1,5 @@
 # Intangible Textual Heritage
 
-[Home]()
-
-  * [Home](/index.md)
-  * [World Religions](/world.md)
-  * [Traditions](/trad.md)
-  * [Mysteries](/myst.md)
-  * [About](/about.md)
-  * [Books](/books.md)
-  * [Bibliography](/stbib.md)
-  * [Downloads](/download.md)
-  * [Map](/map.md)
-  * [Privacy](/privacy.md)
-  * [Standards](/stand.md)
-  * [Volunteer](/volun.md)
-  * [Catalog](/cat/index.md)
-
 [**Fundamental laic texts:**](#)
 
 [Classics]()
@@ -141,17 +125,6 @@
 
 [Asia](/asia/index.md)
 [Australia](/aus/index.md)
-[Basque](/neu/basque/index.md)
-[Celtic]()
-
-  * [Celtic](/neu/celt/index.md)
-  * [PTWH](/neu/celt/ptwh.md)
-  * [Carmina Gadelica](/neu/celt/cg.md)
-  * [Barddas](/neu/celt/bim.md)
-
-[England](/neu/eng/index.md)
-
-[Icelandic](/neu/ice/index.md)
 
 [Legends and Sagas]()
 
@@ -176,10 +149,11 @@
   * [Christmas](/etc/xmas/index.md)
   * [DNA](/dna/index.md)
   * [Earth Mysteries](/earth/index.md)
-  * [LGBT](/lgbt/index.md)
+  * [Homosexuality](/lgbt/index.md)
+  * [Mysteries](/myst.md)
   * [Paleolithic](/nel/index.md)
-  * [Roma](/neu/roma/index.md)
   * [Time](/time/index.md)
+  * [Traditions](/trad.md)
   * [Sacred Calendar Systems](/time/cal/index.md)
   * [Shakespeare](/sks/index.md)
   * [Women](/wmn/index.md)
@@ -232,7 +206,15 @@
   * [Tolkien](/ring/index.md)
   * [Legendary Creatures](/lcr/index.md)
 
+[About]()
+
+  * [About](/index.md)
+  * [Books](/books.md)
+  * [Bibliography](/stbib.md)
+  * [Privacy](/privacy.md)
+  * [Standards](/stand.md)
+  * [Volunteer](/volun.md)
+  * [Catalog](/cat/index.md)
+
   
 [gimmick:theme](simplex)
-
-

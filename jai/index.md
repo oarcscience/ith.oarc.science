@@ -1,8 +1,5 @@
----
 # Jain Texts
-pathh1: "jain.jpg"
-titleh1: "Jainism"
----
+
 ### Jain Texts
 
 <span class="c_e"> <span class="c_t">[Jaina Sutras, Part
