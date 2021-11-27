@@ -1,4 +1,4 @@
-# Intangible Textual Hertage
+# Intangible Textual Heritage
 
 [Home]()
 
